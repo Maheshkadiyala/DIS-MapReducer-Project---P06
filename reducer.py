@@ -25,7 +25,7 @@ for line in lines:
     #print thisMovie_title, "\t", thisDirector_name
 	
 	
-    if (oldDirector_name != thisDirector_name):
+    if oldDirector_name and (oldDirector_name != thisDirector_name):
         results.write("{0}\t{1}\n".format(oldDirector_name, moviesCount))
     
     if oldDirector_name and (oldDirector_name != thisDirector_name): 
