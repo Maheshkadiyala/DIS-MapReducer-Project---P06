@@ -17,8 +17,19 @@ Short introduction to our project:
 - Import this repo to your Github.
 - Clone from your Github down to your local computer, e.g. C:\44564\P06.
 
-## Steps to run:
 
+
+problem 1: finding number of movies directed bby a particular directory
+      Director            Numof Movies
+Ex: Christopher Nolan          8
+
+Problem 2: finding number of movies in a particular year
+
+Ex:        year         number of movies 
+           2015               224
+		   
+	## Steps to run:
+	
 STEPS TO WORK ON OUR MAPREDUCE PROBLEM:
 Step1:- Go to the link provided, it takes to my repository. It is a public repository so anyone can access it.
 Step2:- Click on clone or download button.
