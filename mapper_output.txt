@@ -1,0 +1,4921 @@
+director_name	movie_title
+James Cameron	Avatar 
+Gore Verbinski	Pirates of the Caribbean: At World's End 
+Sam Mendes	Spectre 
+Christopher Nolan	The Dark Knight Rises 
+Andrew Stanton	John Carter 
+Sam Raimi	Spider-Man 3 
+Nathan Greno	Tangled 
+Joss Whedon	Avengers: Age of Ultron 
+David Yates	Harry Potter and the Half-Blood Prince 
+Zack Snyder	Batman v Superman: Dawn of Justice 
+Bryan Singer	Superman Returns 
+Marc Forster	Quantum of Solace 
+Gore Verbinski	Pirates of the Caribbean: Dead Man's Chest 
+Gore Verbinski	The Lone Ranger 
+Zack Snyder	Man of Steel 
+Andrew Adamson	The Chronicles of Narnia: Prince Caspian 
+Joss Whedon	The Avengers 
+Rob Marshall	Pirates of the Caribbean: On Stranger Tides 
+Barry Sonnenfeld	Men in Black 3 
+Peter Jackson	The Hobbit: The Battle of the Five Armies 
+Marc Webb	The Amazing Spider-Man 
+Ridley Scott	Robin Hood 
+Peter Jackson	The Hobbit: The Desolation of Smaug 
+Chris Weitz	The Golden Compass 
+Peter Jackson	King Kong 
+James Cameron	Titanic 
+Anthony Russo	Captain America: Civil War 
+Peter Berg	Battleship 
+Colin Trevorrow	Jurassic World 
+Sam Mendes	Skyfall 
+Sam Raimi	Spider-Man 2 
+Shane Black	Iron Man 3 
+Tim Burton	Alice in Wonderland 
+Brett Ratner	X-Men: The Last Stand 
+Dan Scanlon	Monsters University 
+Michael Bay	Transformers: Revenge of the Fallen 
+Michael Bay	Transformers: Age of Extinction 
+Sam Raimi	Oz the Great and Powerful 
+Marc Webb	The Amazing Spider-Man 2 
+Joseph Kosinski	TRON: Legacy 
+John Lasseter	Cars 2 
+Martin Campbell	Green Lantern 
+Lee Unkrich	Toy Story 3 
+McG	Terminator Salvation 
+James Wan	Furious 7 
+Marc Forster	World War Z 
+Bryan Singer	X-Men: Days of Future Past 
+J.J. Abrams	Star Trek Into Darkness 
+Bryan Singer	Jack the Giant Slayer 
+Baz Luhrmann	The Great Gatsby 
+Mike Newell	Prince of Persia: The Sands of Time 
+Guillermo del Toro	Pacific Rim 
+Michael Bay	Transformers: Dark of the Moon 
+Steven Spielberg	Indiana Jones and the Kingdom of the Crystal Skull 
+Peter Sohn	The Good Dinosaur 
+Mark Andrews	Brave 
+Justin Lin	Star Trek Beyond 
+Andrew Stanton	WALL·E 
+Brett Ratner	Rush Hour 3 
+Roland Emmerich	2012 
+Robert Zemeckis	A Christmas Carol 
+Lana Wachowski	Jupiter Ascending 
+David Yates	The Legend of Tarzan 
+Andrew Adamson	"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe "
+Bryan Singer	X-Men: Apocalypse 
+Christopher Nolan	The Dark Knight 
+Pete Docter	Up 
+Rob Letterman	Monsters vs. Aliens 
+Jon Favreau	Iron Man 
+Martin Scorsese	Hugo 
+Barry Sonnenfeld	Wild Wild West 
+Rob Cohen	The Mummy: Tomb of the Dragon Emperor 
+David Ayer	Suicide Squad 
+Tom Shadyac	Evan Almighty 
+Doug Liman	Edge of Tomorrow 
+Kevin Reynolds	Waterworld 
+Stephen Sommers	G.I. Joe: The Rise of Cobra 
+Pete Docter	Inside Out 
+Jon Favreau	The Jungle Book 
+Jon Favreau	Iron Man 2 
+Rupert Sanders	Snow White and the Huntsman 
+Robert Stromberg	Maleficent 
+Matt Reeves	Dawn of the Planet of the Apes 
+Roland Joffé	The Lovers 
+Carl Rinsch	47 Ronin 
+Anthony Russo	Captain America: The Winter Soldier 
+Mike Mitchell	Shrek Forever After 
+Brad Bird	Tomorrowland 
+Don Hall	Big Hero 6 
+Rich Moore	Wreck-It Ralph 
+Robert Zemeckis	The Polar Express 
+Roland Emmerich	Independence Day: Resurgence 
+Dean DeBlois	How to Train Your Dragon 
+Jonathan Mostow	Terminator 3: Rise of the Machines 
+James Gunn	Guardians of the Galaxy 
+Christopher Nolan	Interstellar 
+Christopher Nolan	Inception 
+Hideaki Anno	Godzilla Resurgence 
+Peter Jackson	The Hobbit: An Unexpected Journey 
+Rob Cohen	The Fast and the Furious 
+David Fincher	The Curious Case of Benjamin Button 
+Matthew Vaughn	X-Men: First Class 
+Francis Lawrence	The Hunger Games: Mockingjay - Part 2 
+Jon Turteltaub	The Sorcerer's Apprentice 
+Wolfgang Petersen	Poseidon 
+James Bobin	Alice Through the Looking Glass 
+Chris Miller	Shrek the Third 
+Duncan Jones	Warcraft 
+Alan Taylor	Terminator Genisys 
+Michael Apted	The Chronicles of Narnia: The Voyage of the Dawn Treader 
+Michael Bay	Pearl Harbor 
+Michael Bay	Transformers 
+Oliver Stone	Alexander 
+David Yates	Harry Potter and the Order of the Phoenix 
+Mike Newell	Harry Potter and the Goblet of Fire 
+Peter Berg	Hancock 
+Francis Lawrence	I Am Legend 
+Tim Burton	Charlie and the Chocolate Factory 
+Brad Bird	Ratatouille 
+Christopher Nolan	Batman Begins 
+Eric Darnell	Madagascar: Escape 2 Africa 
+Shawn Levy	Night at the Museum: Battle of the Smithsonian 
+Gavin Hood	X-Men Origins: Wolverine 
+Lana Wachowski	The Matrix Revolutions 
+Chris Buck	Frozen 
+Lana Wachowski	The Matrix Reloaded 
+Alan Taylor	Thor: The Dark World 
+George Miller	Mad Max: Fury Road 
+Ron Howard	Angels & Demons 
+Kenneth Branagh	Thor 
+Byron Howard	Bolt 
+Hoyt Yeatman	G-Force 
+Jonathan Liebesman	Wrath of the Titans 
+Tim Burton	Dark Shadows 
+Christopher McQuarrie	Mission: Impossible - Rogue Nation 
+Joe Johnston	The Wolfman 
+David Yates	The Legend of Tarzan 
+Steve Hickner	Bee Movie 
+Jennifer Yuh Nelson	Kung Fu Panda 2 
+M. Night Shyamalan	The Last Airbender 
+J.J. Abrams	Mission: Impossible III 
+Roland Emmerich	White House Down 
+Simon Wells	Mars Needs Moms 
+David Bowers	Flushed Away 
+Joe Wright	Pan 
+Rob Minkoff	Mr. Peabody & Sherman 
+Wolfgang Petersen	Troy 
+Eric Darnell	Madagascar 3: Europe's Most Wanted 
+Lee Tamahori	Die Another Day 
+Paul Feig	Ghostbusters 
+Michael Bay	Armageddon 
+Barry Sonnenfeld	Men in Black II 
+Robert Zemeckis	Beowulf 
+Alessandro Carloni	Kung Fu Panda 3 
+Brad Bird	Mission: Impossible - Ghost Protocol 
+Peter Ramsey	Rise of the Guardians 
+Dean Parisot	Fun with Dick and Jane 
+Edward Zwick	The Last Samurai 
+Ridley Scott	Exodus: Gods and Kings 
+J.J. Abrams	Star Trek 
+Sam Raimi	Spider-Man 
+Dean DeBlois	How to Train Your Dragon 2 
+Alex Proyas	Gods of Egypt 
+Rob Cohen	Stealth 
+Zack Snyder	Watchmen 
+Richard Donner	Lethal Weapon 4 
+Ang Lee	Hulk 
+Jon M. Chu	G.I. Joe: Retaliation 
+Breck Eisner	Sahara 
+Hironobu Sakaguchi	Final Fantasy: The Spirits Within 
+Joe Johnston	Captain America: The First Avenger 
+Michael Apted	The World Is Not Enough 
+Peter Weir	Master and Commander: The Far Side of the World 
+Bill Condon	The Twilight Saga: Breaking Dawn - Part 2 
+George Miller	Happy Feet 2 
+Louis Leterrier	The Incredible Hulk 
+Steven Spielberg	The BFG 
+Alejandro G. Iñárritu	The Revenant 
+David Soren	Turbo 
+Gore Verbinski	Rango 
+Eric Darnell	Penguins of Madagascar 
+Paul Greengrass	The Bourne Ultimatum 
+Mark Osborne	Kung Fu Panda 
+Peyton Reed	Ant-Man 
+Francis Lawrence	The Hunger Games: Catching Fire 
+Bill Condon	The Twilight Saga: Breaking Dawn - Part 2 
+Tim Johnson	Home 
+Steven Spielberg	War of the Worlds 
+Michael Bay	Bad Boys II 
+Chris Miller	Puss in Boots 
+Phillip Noyce	Salt 
+Darren Aronofsky	Noah 
+Steven Spielberg	The Adventures of Tintin 
+Alfonso Cuarón	Harry Potter and the Prisoner of Azkaban 
+Baz Luhrmann	Australia 
+M. Night Shyamalan	After Earth 
+Eric Leighton	Dinosaur 
+Matt Birch	Harry Potter and the Deathly Hallows: Part II 
+Shawn Levy	Night at the Museum: Secret of the Tomb 
+Tom McGrath	Megamind 
+Chris Columbus	Harry Potter and the Sorcerer's Stone 
+Robert Schwentke	R.I.P.D. 
+Hideaki Anno	Godzilla Resurgence 
+Gore Verbinski	Pirates of the Caribbean: The Curse of the Black Pearl 
+Matt Birch	Harry Potter and the Deathly Hallows: Part I 
+Francis Lawrence	The Hunger Games: Mockingjay - Part 1 
+Ron Howard	The Da Vinci Code 
+Carlos Saldanha	Rio 2 
+Bryan Singer	X-Men 2 
+Justin Lin	Fast Five 
+Guy Ritchie	Sherlock Holmes: A Game of Shadows 
+Louis Leterrier	Clash of the Titans 
+Paul Verhoeven	Total Recall 
+John McTiernan	The 13th Warrior 
+Tony Gilroy	The Bourne Legacy 
+Joel Schumacher	Batman & Robin 
+Ron Howard	How the Grinch Stole Christmas 
+Roland Emmerich	The Day After Tomorrow 
+John Woo	Mission: Impossible II 
+Wolfgang Petersen	The Perfect Storm 
+Tim Story	Fantastic 4: Rise of the Silver Surfer 
+Ang Lee	Life of Pi 
+Mark Steven Johnson	Ghost Rider 
+Paul Greengrass	Jason Bourne 
+McG	Charlie's Angels: Full Throttle 
+Ridley Scott	Prometheus 
+Rob Minkoff	Stuart Little 2 
+Neill Blomkamp	Elysium 
+David Twohy	The Chronicles of Riddick 
+José Padilha	RoboCop 
+Lana Wachowski	Speed Racer 
+James L. Brooks	How Do You Know 
+James Mangold	Knight and Day 
+Joseph Kosinski	Oblivion 
+George Lucas	Star Wars: Episode III - Revenge of the Sith 
+George Lucas	Star Wars: Episode II - Attack of the Clones 
+Pete Docter	"Monsters, Inc. "
+James Mangold	The Wolverine 
+George Lucas	Star Wars: Episode I - The Phantom Menace 
+Kirk De Micco	The Croods 
+Frédéric Forestier	Asterix at the Olympic Games 
+John Woo	Windtalkers 
+Cedric Nicolas-Troyan	The Huntsman: Winter's War 
+Jonathan Liebesman	Teenage Mutant Ninja Turtles 
+Alfonso Cuarón	Gravity 
+Roger Donaldson	Dante's Peak 
+Dave Green	Teenage Mutant Ninja Turtles: Out of the Shadows 
+Josh Trank	Fantastic Four 
+Shawn Levy	Night at the Museum 
+Brad Peyton	San Andreas 
+Roger Spottiswoode	Tomorrow Never Dies 
+Roland Emmerich	The Patriot 
+Steven Soderbergh	Ocean's Twelve 
+Doug Liman	Mr. & Mrs. Smith 
+Robert Schwentke	Insurgent 
+Martin Scorsese	The Aviator 
+Rob Letterman	Gulliver's Travels 
+Michel Gondry	The Green Hornet 
+Noam Murro	300: Rise of an Empire 
+Raja Gosnell	The Smurfs 
+Will Finn	Home on the Range 
+Robert Schwentke	Allegiant 
+Shawn Levy	Real Steel 
+Raja Gosnell	The Smurfs 2 
+Jan de Bont	Speed 2: Cruise Control 
+Gavin Hood	Ender's Game 
+Len Wiseman	Live Free or Die Hard 
+Peter Jackson	The Lord of the Rings: The Fellowship of the Ring 
+Frank Coraci	Around the World in 80 Days 
+Michael Mann	Ali 
+Bo Welch	The Cat in the Hat 
+Alex Proyas	"I, Robot "
+Ridley Scott	Kingdom of Heaven 
+Rob Minkoff	Stuart Little 
+Ron Clements	The Princess and the Frog 
+Ridley Scott	The Martian 
+Michael Bay	The Island 
+Peter Chelsom	Town & Country 
+Dominic Sena	Gone in Sixty Seconds 
+Ridley Scott	Gladiator 
+Steven Spielberg	Minority Report 
+Chris Columbus	Harry Potter and the Chamber of Secrets 
+Martin Campbell	Casino Royale 
+Tim Burton	Planet of the Apes 
+James Cameron	Terminator 2: Judgment Day 
+Michael Mann	Public Enemies 
+Ridley Scott	American Gangster 
+James Cameron	True Lies 
+Tony Scott	The Taking of Pelham 1 2 3 
+Paul Weitz	Little Fockers 
+Adam McKay	The Other Guys 
+Chuck Russell	Eraser 
+Quentin Tarantino	Django Unchained 
+Gary Trousdale	The Hunchback of Notre Dame 
+Mark Dindal	The Emperor's New Groove 
+Simon West	The Expendables 2 
+Jon Turteltaub	National Treasure 
+Stefen Fangmeier	Eragon 
+Spike Jonze	Where the Wild Things Are 
+Joe Wright	Pan 
+Chris Wedge	Epic 
+Florian Henckel von Donnersmarck	The Tourist 
+Peter Hyams	End of Days 
+Edward Zwick	Blood Diamond 
+Martin Scorsese	The Wolf of Wall Street 
+Joel Schumacher	Batman Forever 
+Paul Verhoeven	Starship Troopers 
+Tom Tykwer	Cloud Atlas 
+Zack Snyder	Legend of the Guardians: The Owls of Ga'Hoole 
+Pitof	Catwoman 
+Brett Ratner	Hercules 
+Ron Clements	Treasure Planet 
+Brad Silberling	Land of the Lost 
+Patrick Hughes	The Expendables 3 
+Ericson Core	Point Break 
+Lawrence Guterman	Son of the Mask 
+Ron Howard	In the Heart of the Sea 
+Ron Underwood	The Adventures of Pluto Nash 
+Paul Greengrass	Green Zone 
+Steve Martino	The Peanuts Movie 
+David Mamet	The Spanish Prisoner 
+Stephen Sommers	The Mummy Returns 
+Martin Scorsese	Gangs of New York 
+Yimou Zhang	The Flowers of War 
+Ash Brannon	Surf's Up 
+Frank Oz	The Stepford Wives 
+Ridley Scott	Black Hawk Down 
+Jay Roach	The Campaign 
+Luc Besson	The Fifth Element 
+Michael Patrick King	Sex and the City 2 
+Bibo Bergeron	The Road to El Dorado 
+Steve Martino	Ice Age: Continental Drift 
+Kenneth Branagh	Cinderella 
+Peter Jackson	The Lovely Bones 
+Andrew Stanton	Finding Nemo 
+Peter Jackson	The Lord of the Rings: The Return of the King 
+Peter Jackson	The Lord of the Rings: The Two Towers 
+Sergey Bodrov	Seventh Son 
+Simon West	Lara Croft: Tomb Raider 
+Wally Pfister	Transcendence 
+Joe Johnston	Jurassic Park III 
+Rupert Wyatt	Rise of the Planet of the Apes 
+Mark Waters	The Spiderwick Chronicles 
+John Moore	A Good Day to Die Hard 
+John Lee Hancock	The Alamo 
+Brad Bird	The Incredibles 
+Renny Harlin	Cutthroat Island 
+Chris Columbus	Percy Jackson & the Olympians: The Lightning Thief 
+Barry Sonnenfeld	Men in Black 
+John Lasseter	Toy Story 2 
+Tony Scott	Unstoppable 
+Brett Ratner	Rush Hour 2 
+Robert Zemeckis	What Lies Beneath 
+Phil Lord	Cloudy with a Chance of Meatballs 
+Carlos Saldanha	Ice Age: Dawn of the Dinosaurs 
+Ben Stiller	The Secret Life of Walter Mitty 
+McG	Charlie's Angels 
+Martin Scorsese	The Departed 
+Tony Bancroft	Mulan 
+Ben Stiller	Tropic Thunder 
+David Fincher	The Girl with the Dragon Tattoo 
+John McTiernan	Die Hard with a Vengeance 
+Guy Ritchie	Sherlock Holmes 
+Timur Bekmambetov	Ben-Hur 
+Gary Trousdale	Atlantis: The Lost Empire 
+Walt Becker	Alvin and the Chipmunks: The Road Chip 
+Bryan Singer	Valkyrie 
+Dennis Dugan	You Don't Mess with the Zohan 
+Chris Columbus	Pixels 
+Steven Spielberg	A.I. Artificial Intelligence 
+Rob Minkoff	The Haunted Mansion 
+Robert Zemeckis	Contact 
+Paul Verhoeven	Hollow Man 
+Sydney Pollack	The Interpreter 
+Thor Freudenthal	Percy Jackson: Sea of Monsters 
+Jan de Bont	Lara Croft Tomb Raider: The Cradle of Life 
+Jon M. Chu	Now You See Me 2 
+Phillip Noyce	The Saint 
+Tony Scott	Spy Game 
+Brian De Palma	Mission to Mars 
+Carlos Saldanha	Rio 
+Chris Columbus	Bicentennial Man 
+Mick Jackson	Volcano 
+Alan J. Pakula	The Devil's Own 
+Kathryn Bigelow	K-19: The Widowmaker 
+Josh Trank	Fantastic Four 
+John Milius	Conan the Barbarian 
+Ron Howard	Cinderella Man 
+Andrey Konchalovskiy	The Nutcracker in 3D 
+Gary Ross	Seabiscuit 
+Jan de Bont	Twister 
+Rob Cohen	The Fast and the Furious 
+Robert Zemeckis	Cast Away 
+George Miller	Happy Feet 
+Paul Greengrass	The Bourne Supremacy 
+Wolfgang Petersen	Air Force One 
+Steven Soderbergh	Ocean's Eleven 
+Paul W.S. Anderson	The Three Musketeers 
+Genndy Tartakovsky	Hotel Transylvania 
+Kevin Lima	Enchanted 
+Daniel Espinosa	Safe House 
+Kevin Lima	102 Dalmatians 
+Brett Ratner	Tower Heist 
+Nancy Meyers	The Holiday 
+Tony Scott	Enemy of the State 
+Nancy Meyers	It's Complicated 
+Steven Soderbergh	Ocean's Thirteen 
+Roger Allers	Open Season 
+Neil Burger	Divergent 
+Jean-Jacques Annaud	Enemy at the Gates 
+Peter Berg	The Rundown 
+John McTiernan	Last Action Hero 
+Rob Marshall	Memoirs of a Geisha 
+Justin Lin	The Fast and the Furious: Tokyo Drift 
+Sarah Smith	Arthur Christmas 
+Martin Brest	Meet Joe Black 
+Andrew Davis	Collateral Damage 
+Bob Fosse	All That Jazz 
+Tarsem Singh	Mirror Mirror 
+Edgar Wright	Scott Pilgrim vs. the World 
+Jon Amiel	The Core 
+Peter Segal	Nutty Professor II: The Klumps 
+Raja Gosnell	Scooby-Doo 
+Pete Travis	Dredd 
+Frank Coraci	Click 
+George A. Romero	Creepshow 
+Brad Peyton	Cats & Dogs: The Revenge of Kitty Galore 
+Doug Liman	Jumper 
+Guillermo del Toro	Hellboy II: The Golden Army 
+David Fincher	Zodiac 
+Roger Spottiswoode	The 6th Day 
+Tom Shadyac	Bruce Almighty 
+Sylvester Stallone	The Expendables 
+Brian De Palma	Mission: Impossible 
+Gary Ross	The Hunger Games 
+Todd Phillips	The Hangover Part II 
+Tim Burton	Batman Returns 
+Tim Johnson	Over the Hedge 
+Dean DeBlois	Lilo & Stitch 
+Gary Winick	Charlotte's Web 
+Mimi Leder	Deep Impact 
+Dean Parisot	RED 2 
+Peter Segal	The Longest Yard 
+Mike Mitchell	Alvin and the Chipmunks: Chipwrecked 
+Dennis Dugan	Grown Ups 2 
+Peter Segal	Get Smart 
+Nancy Meyers	Something's Gotta Give 
+Martin Scorsese	Shutter Island 
+Seth Gordon	Four Christmases 
+Chris Wedge	Robots 
+John Woo	Face/Off 
+Adam Shankman	Bedtime Stories 
+Sam Mendes	Road to Perdition 
+Dennis Dugan	Just Go with It 
+Simon West	Con Air 
+D.J. Caruso	Eagle Eye 
+Anthony Minghella	Cold Mountain 
+Albert Hughes	The Book of Eli 
+Les Mayfield	Flubber 
+Jan de Bont	The Haunting 
+Joe Pytka	Space Jam 
+Shawn Levy	The Pink Panther 
+Scott Derrickson	The Day the Earth Stood Still 
+Richard Donner	Conspiracy Theory 
+David Ayer	Fury 
+Ivan Reitman	Six Days Seven Nights 
+Eric Brevig	Yogi Bear 
+Kelly Asbury	Spirit: Stallion of the Cimarron 
+Frank Coraci	Zookeeper 
+Stephen Hopkins	Lost in Space 
+Jonathan Demme	The Manchurian Candidate 
+Henry Jaglom	Déjà Vu 
+Genndy Tartakovsky	Hotel Transylvania 2 
+James Algar	Fantasia 2000 
+Simon Wells	The Time Machine 
+Ron Underwood	Mighty Joe Young 
+Dominic Sena	Swordfish 
+Martin Campbell	The Legend of Zorro 
+Vincent Ward	What Dreams May Come 
+Steven Brill	Little Nicky 
+Terry Gilliam	The Brothers Grimm 
+Tim Burton	Mars Attacks! 
+Lucile Hadzihalilovic	Evolution 
+Lee Tamahori	The Edge 
+Jonathan Mostow	Surrogates 
+Roger Donaldson	Thirteen Days 
+Rob Cohen	Daylight 
+Barry Cook	Walking with Dinosaurs 3D 
+Roger Christian	Battlefield Earth 
+Joe Dante	Looney Tunes: Back in Action 
+Rob Marshall	Nine 
+Richard Donner	Timeline 
+Kevin Costner	The Postman 
+George Miller	Babe: Pig in the City 
+Breck Eisner	The Last Witch Hunter 
+Antony Hoffman	Red Planet 
+Luc Besson	Arthur and the Invisibles 
+Jacques Perrin	Oceans 
+Peter Hyams	A Sound of Thunder 
+Paul W.S. Anderson	Pompeii 
+Andrés Couturier	Top Cat Begins 
+Ron Howard	A Beautiful Mind 
+Roger Allers	The Lion King 
+Brad Peyton	Journey 2: The Mysterious Island 
+Cody Cameron	Cloudy with a Chance of Meatballs 2 
+Brett Ratner	Red Dragon 
+Joe Johnston	Hidalgo 
+Dennis Dugan	Jack and Jill 
+John Singleton	2 Fast 2 Furious 
+Mark Osborne	The Little Prince 
+Oliver Hirschbiegel	The Invasion 
+Des McAnuff	The Adventures of Rocky & Bullwinkle 
+Yarrow Cheney	The Secret Life of Pets 
+Stephen Norrington	The League of Extraordinary Gentlemen 
+Pierre Coffin	Despicable Me 2 
+Roland Emmerich	Independence Day 
+Steven Spielberg	The Lost World: Jurassic Park 
+Eric Darnell	Madagascar 
+Alfonso Cuarón	Children of Men 
+Bryan Singer	X-Men 
+Timur Bekmambetov	Wanted 
+Michael Bay	The Rock 
+Carlos Saldanha	Ice Age: The Meltdown 
+Peter Segal	50 First Dates 
+Adam Shankman	Hairspray 
+Renny Harlin	Exorcist: The Beginning 
+David Kellogg	Inspector Gadget 
+Louis Leterrier	Now You See Me 
+Dennis Dugan	Grown Ups 
+Steven Spielberg	The Terminal 
+Thor Freudenthal	Hotel for Dogs 
+Martin Campbell	Vertical Limit 
+Mike Nichols	Charlie Wilson's War 
+Bibo Bergeron	Shark Tale 
+Bill Condon	Dreamgirls 
+F. Gary Gray	Be Cool 
+Steven Spielberg	Munich 
+Antoine Fuqua	Tears of the Sun 
+Robert Luketic	Killers 
+Guy Ritchie	The Man from U.N.C.L.E. 
+James L. Brooks	Spanglish 
+Gil Kenan	Monster House 
+Barry Levinson	Bandits 
+Jerry Zucker	First Knight 
+Andy Tennant	Anna and the King 
+Tarsem Singh	Immortals 
+Florent-Emilio Siri	Hostage 
+Don Bluth	Titan A.E. 
+Ron Shelton	Hollywood Homicide 
+Paul W.S. Anderson	Soldier 
+David Pastor	Carriers 
+Henry Selick	Monkeybone 
+John Moore	Flight of the Phoenix 
+M. Night Shyamalan	Unbreakable 
+Kyle Balda	Minions 
+Zack Snyder	Sucker Punch 
+Brian De Palma	Snake Eyes 
+Barry Levinson	Sphere 
+Clay Kaytis	The Angry Birds Movie 
+Andy Tennant	Fool's Gold 
+Judd Apatow	Funny People 
+Peter Berg	The Kingdom 
+Adam McKay	Talladega Nights: The Ballad of Ricky Bobby 
+Steve Carr	Dr. Dolittle 2 
+Mel Gibson	Braveheart 
+Sam Mendes	Jarhead 
+David Silverman	The Simpsons Movie 
+Frank Darabont	The Majestic 
+Renny Harlin	Driven 
+Jean-Jacques Annaud	Two Brothers 
+M. Night Shyamalan	The Village 
+Betty Thomas	Doctor Dolittle 
+M. Night Shyamalan	Signs 
+Andrew Adamson	Shrek 2 
+John Lasseter	Cars 
+Garry Marshall	Runaway Bride 
+Rob Cohen	xXx 
+Paul Tibbitt	The SpongeBob Movie: Sponge Out of Water 
+Ron Howard	Ransom 
+Quentin Tarantino	Inglourious Basterds 
+Steven Spielberg	Hook 
+Brett Ratner	Hercules 
+Renny Harlin	Die Hard 2 
+Clark Johnson	S.W.A.T. 
+Cameron Crowe	Vanilla Sky 
+M. Night Shyamalan	Lady in the Water 
+Paul W.S. Anderson	AVP: Alien vs. Predator 
+Betty Thomas	Alvin and the Chipmunks: The Squeakquel 
+Randall Wallace	We Were Soldiers 
+Antoine Fuqua	Olympus Has Fallen 
+Jonathan Frakes	Star Trek: Insurrection 
+Jonathan Liebesman	Battle Los Angeles 
+Tim Burton	Big Fish 
+Mike Nichols	Wolf 
+Steven Spielberg	War Horse 
+George Clooney	The Monuments Men 
+James Cameron	The Abyss 
+Oliver Stone	Wall Street: Money Never Sleeps 
+Gary Shore	Dracula Untold 
+Edward Zwick	The Siege 
+Matthew Vaughn	Stardust 
+Jean-Jacques Annaud	Seven Years in Tibet 
+Ron Howard	The Dilemma 
+Joel Schumacher	Bad Company 
+Andrzej Bartkowiak	Doom 
+Betty Thomas	I Spy 
+Måns Mårlind	Underworld: Awakening 
+Adam Shankman	Rock of Ages 
+Gregory Hoblit	Hart's War 
+Gary McKendry	Killer Elite 
+John McTiernan	Rollerball 
+Wych Kaosayananda	Ballistic: Ecks vs. Sever 
+Mikael Salomon	Hard Rain 
+Bobby Farrelly	Osmosis Jones 
+Will Finn	Legends of Oz: Dorothy's Return 
+Michael Mann	Blackhat 
+Kerry Conran	Sky Captain and the World of Tomorrow 
+Michael Caton-Jones	Basic Instinct 2 
+Mikael Håfström	Escape Plan 
+Renny Harlin	The Legend of Hercules 
+Phil Alden Robinson	The Sum of All Fears 
+David Slade	The Twilight Saga: Eclipse 
+Frank Oz	The Score 
+Pierre Coffin	Despicable Me 
+Joseph Ruben	Money Train 
+Seth MacFarlane	Ted 2 
+Alejandro Amenábar	Agora 
+Kinka Usher	Mystery Men 
+Bobby Farrelly	Hall Pass 
+Michael Mann	The Insider 
+Craig Gillespie	The Finest Hours 
+Ridley Scott	Body of Lies 
+Jay Roach	Dinner for Schmucks 
+Timur Bekmambetov	Abraham Lincoln: Vampire Hunter 
+Jon Amiel	Entrapment 
+Rob Bowman	The X Files 
+Doug Lefler	The Last Legion 
+Steven Spielberg	Saving Private Ryan 
+Scott Waugh	Need for Speed 
+Nancy Meyers	What Women Want 
+Chris Wedge	Ice Age 
+Lawrence Kasdan	Dreamcatcher 
+Steven Spielberg	Lincoln 
+Lana Wachowski	The Matrix 
+Ron Howard	Apollo 13 
+Paul Verhoeven	Total Recall 
+Michael Lembeck	The Santa Clause 2 
+Tom Hooper	Les Misérables 
+Nora Ephron	You've Got Mail 
+Adam McKay	Step Brothers 
+Martin Campbell	The Mask of Zorro 
+Todd Phillips	Due Date 
+Angelina Jolie Pitt	Unbroken 
+Clint Eastwood	Space Cowboys 
+Renny Harlin	Cliffhanger 
+John Woo	Broken Arrow 
+Jon Turteltaub	The Kid 
+Oliver Stone	World Trade Center 
+Mike Newell	Mona Lisa Smile 
+Larry Charles	The Dictator 
+Stanley Kubrick	Eyes Wide Shut 
+Will Gluck	Annie 
+Glenn Ficarra	Focus 
+McG	This Means War 
+David S. Goyer	Blade: Trinity 
+John Milius	Red Dawn 
+Mike Nichols	Primary Colors 
+Paul W.S. Anderson	Resident Evil: Retribution 
+Paul W.S. Anderson	Death Race 
+Renny Harlin	The Long Kiss Goodnight 
+Taylor Hackford	Proof of Life 
+Jon Favreau	Zathura: A Space Adventure 
+David Fincher	Fight Club 
+McG	We Are Marshall 
+Michael Lehmann	Hudson Hawk 
+Nora Ephron	Lucky Numbers 
+Stuart Beattie	"I, Frankenstein "
+Roman Polanski	Oliver Twist 
+Rob Bowman	Elektra 
+Frank Miller	Sin City: A Dame to Kill For 
+Sydney Pollack	Random Hearts 
+Baltasar Kormákur	Everest 
+Tom Tykwer	Perfume: The Story of a Murderer 
+Jay Roach	Austin Powers in Goldmember 
+David Bowers	Astro Boy 
+Steven Spielberg	Jurassic Park 
+Lawrence Kasdan	Wyatt Earp 
+Phillip Noyce	Clear and Present Danger 
+Daniel Lee	Dragon Blade 
+Keenen Ivory Wayans	Littleman 
+Jonathan Mostow	U-571 
+Rob Reiner	The American President 
+Marco Schnabel	The Love Guru 
+Demian Lichtenstein	3000 Miles to Graceland 
+Quentin Tarantino	The Hateful Eight 
+Josh Gordon	Blades of Glory 
+Tim Hill	Hop 
+Zack Snyder	300 
+Jay Roach	Meet the Fockers 
+David Frankel	Marley & Me 
+Frank Darabont	The Green Mile 
+Walt Becker	Wild Hogs 
+Mark Dindal	Chicken Little 
+David Fincher	Gone Girl 
+Doug Liman	The Bourne Identity 
+Martin Campbell	GoldenEye 
+Simon West	The General's Daughter 
+Peter Weir	The Truman Show 
+Brenda Chapman	The Prince of Egypt 
+Steve Carr	Daddy Day Care 
+Baltasar Kormákur	2 Guns 
+Lawrence Guterman	Cats & Dogs 
+F. Gary Gray	The Italian Job 
+Marc Lawrence	Two Weeks Notice 
+Eric Darnell	Antz 
+Peter Billingsley	Couples Retreat 
+Tony Scott	Days of Thunder 
+Adam Shankman	Cheaper by the Dozen 2 
+Wes Ball	The Scorch Trials 
+Ryan Murphy	Eat Pray Love 
+Brett Ratner	The Family Man 
+Robert Schwentke	RED 
+Oliver Stone	Any Given Sunday 
+Robert Redford	The Horse Whisperer 
+Michael Mann	Collateral 
+Chuck Russell	The Scorpion King 
+Jay Russell	Ladder 49 
+Christopher McQuarrie	Jack Reacher 
+Renny Harlin	Deep Blue Sea 
+Kenny Ortega	This Is It 
+Steven Soderbergh	Contagion 
+David McNally	Kangaroo Jack 
+Henry Selick	Coraline 
+M. Night Shyamalan	The Happening 
+Tony Scott	Man on Fire 
+Brian Robbins	The Shaggy Dog 
+Todd Phillips	Starsky & Hutch 
+Brian Levant	Jingle All the Way 
+Guillermo del Toro	Hellboy 
+Steven Zaillian	A Civil Action 
+Chris Butler	ParaNorman 
+Michael Caton-Jones	The Jackal 
+John Woo	Paycheck 
+Jon Avnet	Up Close & Personal 
+Sam Fell	The Tale of Despereaux 
+Kevin Donovan	The Tuxedo 
+Geoff Murphy	Under Siege 2: Dark Territory 
+Kenneth Branagh	Jack Ryan: Shadow Recruit 
+David O. Russell	Joy 
+Babak Najafi	London Has Fallen 
+Jean-Pierre Jeunet	Alien: Resurrection 
+Antoine Fuqua	Shooter 
+Graham Annable	The Boxtrolls 
+Griffin Dunne	Practical Magic 
+Phil Lord	The Lego Movie 
+John Pasquin	Miss Congeniality 2: Armed and Fabulous 
+Rob Bowman	Reign of Fire 
+Ruben Fleischer	Gangster Squad 
+Harold Ramis	Year One 
+Clint Eastwood	Invictus 
+Kevin Macdonald	State of Play 
+Tony Gilroy	Duplicity 
+Donald Petrie	My Favorite Martian 
+Clark Johnson	The Sentinel 
+Jorge Blanco	Planet 51 
+Stuart Baird	Star Trek: Nemesis 
+Joel Coen	Intolerable Cruelty 
+Robert Lorenz	Trouble with the Curve 
+Martin Campbell	Edge of Darkness 
+Peter Hyams	The Relic 
+Harold Ramis	Analyze That 
+Jon Avnet	Righteous Kill 
+Harold Becker	Mercury Rising 
+Joe Wright	The Soloist 
+Robert Redford	The Legend of Bagger Vance 
+Cameron Crowe	Almost Famous 
+Tim Hill	Garfield 2 
+Lee Tamahori	xXx: State of the Union 
+Scott Stewart	Priest 
+Patrick Gilmore	Sinbad: Legend of the Seven Seas 
+Paul W.S. Anderson	Event Horizon 
+Joss Whedon	The Avengers 
+Tom Shadyac	Dragonfly 
+Brian De Palma	The Black Dahlia 
+Tony Bill	Flyboys 
+Rod Lurie	The Last Castle 
+Walter Hill	Supernova 
+Akiva Goldsman	Winter's Tale 
+Harald Zwart	The Mortal Instruments: City of Bones 
+Brian Robbins	Meet Dave 
+Walter Salles	Dark Water 
+Ron Howard	Edtv 
+Iain Softley	Inkheart 
+Frank Miller	The Spirit 
+David Koepp	Mortdecai 
+Uwe Boll	In the Name of the King: A Dungeon Siege Tale 
+Martin Campbell	Beyond Borders 
+Pou-Soi Cheang	Xi you ji zhi: Sun Wukong san da Baigu Jing 
+John Dahl	The Great Raid 
+Tim Miller	Deadpool 
+Stephen Herek	Holy Man 
+Clint Eastwood	American Sniper 
+Rob Letterman	Goosebumps 
+Mark Waters	Just Like Heaven 
+Brian Levant	The Flintstones in Viva Rock Vegas 
+Peter MacDonald	Rambo III 
+George Clooney	Leatherheads 
+Frank Coraci	The Ridiculous 6 
+Marc Lawrence	Did You Hear About the Morgans? 
+Shawn Levy	The Internship 
+Paul W.S. Anderson	Resident Evil: Afterlife 
+Anthony Hemingway	Red Tails 
+Taylor Hackford	The Devil's Advocate 
+Sean Anders	That's My Boy 
+Rob Cohen	DragonHeart 
+Brett Ratner	After the Sunset 
+Mark Neveldine	Ghost Rider: Spirit of Vengeance 
+John Madden	Captain Corelli's Mandolin 
+Adam Shankman	The Pacifier 
+Kevin Bray	Walking Tall 
+Robert Zemeckis	Forrest Gump 
+Tim Hill	Alvin and the Chipmunks 
+Jay Roach	Meet the Parents 
+Mike Gabriel	Pocahontas 
+Richard Donner	Superman 
+Tom Shadyac	The Nutty Professor 
+Andy Tennant	Hitch 
+Sam Weisman	George of the Jungle 
+Jesse Dylan	American Wedding 
+Paul Greengrass	Captain Phillips 
+Shawn Levy	Date Night 
+Brad Silberling	Casper 
+Antoine Fuqua	The Equalizer 
+Wayne Wang	Maid in Manhattan 
+Tony Scott	Crimson Tide 
+Gabriele Muccino	The Pursuit of Happyness 
+Robert Schwentke	Flightplan 
+Barry Levinson	Disclosure 
+Brad Silberling	City of Angels 
+Quentin Tarantino	Kill Bill: Vol. 1 
+Frank Oz	Bowfinger 
+Quentin Tarantino	Kill Bill: Vol. 2 
+Andrey Konchalovskiy	Tango & Cash 
+Robert Zemeckis	Death Becomes Her 
+Tom Dey	Shanghai Noon 
+Stuart Baird	Executive Decision 
+Mark Waters	Mr. Popper's Penguins 
+Rob Minkoff	The Forbidden Kingdom 
+Jimmy Hayward	Free Birds 
+David Fincher	Alien 3 
+Alan Parker	Evita 
+John Frankenheimer	Ronin 
+Stephen Hopkins	The Ghost and the Darkness 
+Paul King	Paddington 
+Akiva Schaffer	The Watch 
+William Friedkin	The Hunted 
+Jon Turteltaub	Instinct 
+Bobby Farrelly	Stuck on You 
+Kent Alterman	Semi-Pro 
+Peter Lord	The Pirates! Band of Misfits 
+Clint Eastwood	Changeling 
+Andrew Davis	Chain Reaction 
+Tony Scott	The Fan 
+Joel Schumacher	The Phantom of the Opera 
+Shekhar Kapur	Elizabeth: The Golden Age 
+Karyn Kusama	Æon Flux 
+Ron Maxwell	Gods and Generals 
+Robert Butler	Turbulence 
+Karey Kirkpatrick	Imagine That 
+James Bobin	Muppets Most Wanted 
+Jonathan Frakes	Thunderbirds 
+Steve Antin	Burlesque 
+Jean-Pierre Jeunet	A Very Long Engagement 
+Stanley Kubrick	Lolita 
+Jim Gillespie	Eye See You 
+Guillermo del Toro	Blade II 
+Gabriele Muccino	Seven Pounds 
+Walter Hill	Bullet to the Head 
+Francis Ford Coppola	The Godfather: Part III 
+Cameron Crowe	Elizabethtown 
+Anthony Russo	"You, Me and Dupree "
+Richard Lester	Superman II 
+Martin Brest	Gigli 
+Steven Zaillian	All the King's Men 
+John Singleton	Shaft 
+Don Bluth	Anastasia 
+Baz Luhrmann	Moulin Rouge! 
+Harold Becker	Domestic Disturbance 
+Scott Cooper	Black Mass 
+Clint Eastwood	Flags of Our Fathers 
+F. Gary Gray	Law Abiding Citizen 
+Robert Rodriguez	Grindhouse 
+Jonathan Demme	Beloved 
+Curtis Hanson	Lucky You 
+Steven Spielberg	Catch Me If You Can 
+Kathryn Bigelow	Zero Dark Thirty 
+Peyton Reed	The Break-Up 
+Phyllida Lloyd	Mamma Mia! 
+Garry Marshall	Valentine's Day 
+Jay Chandrasekhar	The Dukes of Hazzard 
+Terrence Malick	The Thin Red Line 
+David Dobkin	The Change-Up 
+Milos Forman	Man on the Moon 
+Martin Scorsese	Casino 
+Pierre Morel	From Paris with Love 
+Paul Hunter	Bulletproof Monk 
+Bobby Farrelly	"Me, Myself & Irene "
+Steve Oedekerk	Barnyard 
+John Whitesell	Deck the Halls 
+Chris Weitz	The Twilight Saga: New Moon 
+Andrew Adamson	Shrek 
+George Nolfi	The Adjustment Bureau 
+Kevin Reynolds	Robin Hood: Prince of Thieves 
+Cameron Crowe	Jerry Maguire 
+Seth MacFarlane	Ted 
+James L. Brooks	As Good as It Gets 
+Tom Shadyac	Patch Adams 
+Adam McKay	Anchorman 2: The Legend Continues 
+Steven Brill	Mr. Deeds 
+J.J. Abrams	Super 8 
+Steven Soderbergh	Erin Brockovich 
+Donald Petrie	How to Lose a Guy in 10 Days 
+Phil Lord	22 Jump Street 
+Neil Jordan	Interview with the Vampire: The Vampire Chronicles 
+Peyton Reed	Yes Man 
+Rawson Marshall Thurber	Central Intelligence 
+Chris Columbus	Stepmom 
+Sean Anders	Daddy's Home 
+Rob Marshall	Into the Woods 
+Spike Lee	Inside Man 
+Brian Helgeland	Payback 
+Frank Marshall	Congo 
+Cameron Crowe	We Bought a Zoo 
+Alex Proyas	Knowing 
+Tom Dey	Failure to Launch 
+Hideo Nakata	The Ring Two 
+Glenn Ficarra	"Crazy, Stupid, Love. "
+Peter Hewitt	Garfield 
+Joe Roth	Christmas with the Kranks 
+Bennett Miller	Moneyball 
+Wolfgang Petersen	Outbreak 
+Jaume Collet-Serra	Non-Stop 
+Andy Fickman	Race to Witch Mountain 
+James McTeigue	V for Vendetta 
+David Dobkin	Shanghai Knights 
+Matthew O'Callaghan	Curious George 
+Angela Robinson	Herbie Fully Loaded 
+Gary Fleder	Don't Say a Word 
+Tommy Wirkola	Hansel & Gretel: Witch Hunters 
+Adrian Lyne	Unfaithful 
+D.J. Caruso	I Am Number Four 
+Stephen Gaghan	Syriana 
+Michael Bay	13 Hours 
+Jorge R. Gutiérrez	The Book of Life 
+Richard Loncraine	Firewall 
+Clint Eastwood	Absolute Power 
+Ridley Scott	G.I. Jane 
+David Fincher	The Game 
+Christophe Gans	Silent Hill 
+Howard Deutch	The Replacements 
+Jon Hurwitz	American Reunion 
+F. Gary Gray	The Negotiator 
+Steven Quale	Into the Storm 
+John Landis	Beverly Hills Cop III 
+Joe Dante	Gremlins 2: The New Batch 
+David Dobkin	The Judge 
+Mimi Leder	The Peacemaker 
+Alexander Witt	Resident Evil: Apocalypse 
+Beeban Kidron	Bridget Jones: The Edge of Reason 
+Carl Franklin	Out of Time 
+Steven Seagal	On Deadly Ground 
+Robert Rodriguez	The Adventures of Sharkboy and Lavagirl 3-D 
+Danny Boyle	The Beach 
+Garry Marshall	Raising Helen 
+James McTeigue	Ninja Assassin 
+Sam Raimi	For Love of the Game 
+Andrew Bergman	Striptease 
+Tom Dey	Marmaduke 
+Clint Eastwood	Hereafter 
+Barbet Schroeder	Murder by Numbers 
+Richard Donner	Assassins 
+Peter Webber	Hannibal Rising 
+Rob Reiner	The Story of Us 
+Andrew Niccol	The Host 
+John McTiernan	Basic 
+Clint Eastwood	Blood Work 
+Tom Tykwer	The International 
+John Carpenter	Escape from L.A. 
+Brad Bird	The Iron Giant 
+Wes Anderson	The Life Aquatic with Steve Zissou 
+Gary Ross	Free State of Jones 
+Alan Parker	The Life of David Gale 
+Stephen Herek	Man of the House 
+Jaume Collet-Serra	Run All Night 
+David Cronenberg	Eastern Promises 
+John Stockwell	Into the Blue 
+Luc Besson	The Messenger: The Story of Joan of Arc 
+David Gordon Green	Your Highness 
+Jim Sheridan	Dream House 
+Costa-Gavras	Mad City 
+Patrick Read Johnson	Baby's Day Out 
+Roland Joffé	The Scarlet Letter 
+Doug Liman	Fair Game 
+Tony Scott	Domino 
+William Friedkin	Jade 
+Mark Neveldine	Gamer 
+Richard LaGravenese	Beautiful Creatures 
+Danny DeVito	Death to Smoochy 
+Ben Stiller	Zoolander 2 
+George Armitage	The Big Bounce 
+Mike Nichols	What Planet Are You From? 
+Patrick Lussier	Drive Angry 
+Andrzej Bartkowiak	Street Fighter: The Legend of Chun-Li 
+James Wong	The One 
+Renny Harlin	The Adventures of Ford Fairlane 
+Richard Curtis	Pirate Radio 
+Steven Soderbergh	Traffic 
+Steven Spielberg	Indiana Jones and the Last Crusade 
+Joe Wright	Anna Karenina 
+Neill Blomkamp	Chappie 
+Phillip Noyce	The Bone Collector 
+David Fincher	Panic Room 
+Chuck Bowman	The Tooth Fairy 
+David O. Russell	Three Kings 
+Daniel Espinosa	Child 44 
+Jerry Zucker	Rat Race 
+Iain Softley	K-PAX 
+James Mangold	Kate & Leopold 
+Harold Ramis	Bedazzled 
+Francis Ford Coppola	The Cotton Club 
+James Mangold	3:10 to Yuma 
+Olivier Megaton	Taken 3 
+Steven Soderbergh	Out of Sight 
+Ben Stiller	The Cable Guy 
+Deepa Mehta	Earth 
+Warren Beatty	Dick Tracy 
+John McTiernan	The Thomas Crown Affair 
+Penny Marshall	Riding in Cars with Boys 
+Ted Kotcheff	First Blood 
+Andrei Tarkovsky	Solaris 
+Paul Bolger	Happily N'Ever After 
+Stephen Frears	Mary Reilly 
+P.J. Hogan	My Best Friend's Wedding 
+Joe Roth	America's Sweethearts 
+Christopher Nolan	Insomnia 
+Jonathan Frakes	Star Trek: First Contact 
+Jimmy Hayward	Jonah Hex 
+Edward Zwick	Courage Under Fire 
+Tom Shadyac	Liar Liar 
+Brad Furman	The Infiltrator 
+Terence Young	Inchon 
+Brian Levant	The Flintstones 
+Olivier Megaton	Taken 2 
+David Zucker	Scary Movie 3 
+Donald Petrie	Miss Congeniality 
+Eric Brevig	Journey to the Center of the Earth 
+Garry Marshall	The Princess Diaries 2: Royal Engagement 
+Alan J. Pakula	The Pelican Brief 
+Joel Schumacher	The Client 
+Rob Reiner	The Bucket List 
+Phillip Noyce	Patriot Games 
+Robert Luketic	Monster-in-Law 
+Denis Villeneuve	Prisoners 
+Antoine Fuqua	Training Day 
+Dean Parisot	Galaxy Quest 
+Keenen Ivory Wayans	Scary Movie 2 
+James Bobin	The Muppets 
+Stephen Norrington	Blade 
+Thomas Carter	Coach Carter 
+Roger Michell	Changing Lanes 
+Luis Llosa	Anaconda 
+David McNally	Coyote Ugly 
+Richard Curtis	Love Actually 
+John Lasseter	A Bug's Life 
+Albert Hughes	From Hell 
+Luis Llosa	The Specialist 
+Ron Shelton	Tin Cup 
+Melville Shavelson	"Yours, Mine and Ours "
+Jesse Dylan	Kicking & Screaming 
+Garth Jennings	The Hitchhiker's Guide to the Galaxy 
+Joel Zwick	Fat Albert 
+Russell Mulcahy	Resident Evil: Extinction 
+Frank Coraci	Blended 
+Wayne Wang	Last Holiday 
+Curtis Hanson	The River Wild 
+Frank Oz	The Indian in the Cupboard 
+Oliver Stone	Savages 
+David R. Ellis	Cellular 
+Peter Howitt	Johnny English 
+John A. Davis	The Ant Bully 
+David Lynch	Dune 
+Julie Taymor	Across the Universe 
+Sam Mendes	Revolutionary Road 
+Richard Donner	16 Blocks 
+Mathieu Kassovitz	Babylon A.D. 
+John Gray	The Glimmer Man 
+Harold Ramis	Multiplicity 
+John Schultz	Aliens in the Attic 
+Sean Penn	The Pledge 
+Susan Stroman	The Producers 
+Pete Travis	Dredd 
+Simon Wincer	The Phantom 
+Billy Bob Thornton	All the Pretty Horses 
+Oliver Stone	Nixon 
+Roman Polanski	The Ghost Writer 
+Stephen Sommers	Deep Rising 
+Spike Lee	Miracle at St. Anna 
+Yimou Zhang	Curse of the Golden Flower 
+Danny Pang	Bangkok Dangerous 
+Barry Sonnenfeld	Big Trouble 
+Mike Newell	Love in the Time of Cholera 
+George P. Cosmatos	Shadow Conspiracy 
+Oliver Parker	Johnny English Reborn 
+Lawrence Kasanoff	Foodfight! 
+Ben Affleck	Argo 
+Andrew Davis	The Fugitive 
+Andy Tennant	The Bounty Hunter 
+Barry Levinson	Sleepers 
+George P. Cosmatos	Rambo: First Blood Part II 
+Brian Gibson	The Juror 
+Norman Ferguson	Pinocchio 
+Michael Cimino	Heaven's Gate 
+Len Wiseman	Underworld: Evolution 
+Paul McGuigan	Victor Frankenstein 
+Gus Van Sant	Finding Forrester 
+Betty Thomas	28 Days 
+Louis Leterrier	Unleashed 
+Roger Kumble	The Sweetest Thing 
+Sydney Pollack	The Firm 
+Burr Steers	Charlie St. Cloud 
+Simon West	The Mechanic 
+Phil Lord	21 Jump Street 
+Roger Michell	Notting Hill 
+Peter Lord	Chicken Run 
+John Hamburg	Along Came Polly 
+Reginald Hudlin	Boomerang 
+Paul Feig	The Heat 
+Joseph L. Mankiewicz	Cleopatra 
+Frank Coraci	Here Comes the Boom 
+Carl Franklin	High Crimes 
+Barbra Streisand	The Mirror Has Two Faces 
+Mark Pellington	The Mothman Prophecies 
+Larry Charles	Brüno 
+John Glen	Licence to Kill 
+Catherine Hardwicke	Red Riding Hood 
+John Herzfeld	15 Minutes 
+Annabel Jankel	Super Mario Bros. 
+Andrew Niccol	Lord of War 
+Yimou Zhang	Hero 
+Julie Anne Robinson	One for the Money 
+Evan Goldberg	The Interview 
+Sngmoo Lee	The Warrior's Way 
+Jean-Pierre Jeunet	Micmacs 
+Curtis Hanson	8 Mile 
+Jamel Debbouze	Animal Kingdom: Let's go Ape 
+Brian Helgeland	A Knight's Tale 
+Gordon Chan	The Medallion 
+M. Night Shyamalan	The Sixth Sense 
+Asger Leth	Man on a Ledge 
+David Frankel	The Big Year 
+John G. Avildsen	The Karate Kid 
+David O. Russell	American Hustle 
+Anne Fletcher	The Proposal 
+Bruce Beresford	Double Jeopardy 
+Robert Zemeckis	Back to the Future Part II 
+Luc Besson	Lucy 
+Sam Taylor-Johnson	Fifty Shades of Grey 
+Robert Rodriguez	Spy Kids 3-D: Game Over 
+Joel Schumacher	A Time to Kill 
+Shawn Levy	Cheaper by the Dozen 
+Peter Berg	Lone Survivor 
+Penny Marshall	A League of Their Own 
+James Wan	The Conjuring 2 
+David Fincher	The Social Network 
+Ken Kwapis	He's Just Not That Into You 
+David Zucker	Scary Movie 4 
+Wes Craven	Scream 3 
+Robert Zemeckis	Back to the Future Part III 
+Etan Cohen	Get Hard 
+Francis Ford Coppola	Bram Stoker's Dracula 
+Nora Ephron	Julie & Julia 
+Brian Helgeland	42 
+Anthony Minghella	The Talented Mr. Ripley 
+Bobby Farrelly	Dumb and Dumber To 
+Frank Marshall	Eight Below 
+Nancy Meyers	The Intern 
+Tim Story	Ride Along 2 
+Michael Mann	The Last of the Mohicans 
+Taylor Hackford	Ray 
+Frank Miller	Sin City 
+Pete Travis	Vantage Point 
+John Hamburg	"I Love You, Man "
+Bobby Farrelly	Shallow Hal 
+Oliver Stone	JFK 
+John Whitesell	Big Momma's House 2 
+Gore Verbinski	The Mexican 
+Angelina Jolie Pitt	Unbroken 
+Burr Steers	17 Again 
+Nick Cassavetes	The Other Woman 
+David R. Ellis	The Final Destination 
+Steven Spielberg	Bridge of Spies 
+John Moore	Behind Enemy Lines 
+Nicholas Stoller	Get Him to the Greek 
+Peter Chelsom	Shall We Dance 
+Joe Dante	Small Soldiers 
+Mark A.Z. Dippé	Spawn 
+Kevin Reynolds	The Count of Monte Cristo 
+Brad Furman	The Lincoln Lawyer 
+Jaume Collet-Serra	Unknown 
+Christopher Nolan	The Prestige 
+Sean Anders	Horrible Bosses 2 
+Cal Brunker	Escape from Planet Earth 
+Mel Gibson	Apocalypto 
+John Glen	The Living Daylights 
+Nimród Antal	Predators 
+Ivan Reitman	Legal Eagles 
+David Koepp	Secret Window 
+Alejandro Agresti	The Lake House 
+Iain Softley	The Skeleton Key 
+Peter Hedges	The Odd Life of Timothy Green 
+Paul Weiland	Made of Honor 
+Clint Eastwood	Jersey Boys 
+Francis Ford Coppola	The Rainmaker 
+Mathieu Kassovitz	Gothika 
+Steven Spielberg	Amistad 
+John McTiernan	Medicine Man 
+Colin Strause	Aliens vs. Predator: Requiem 
+Donald Petrie	Ri¢hie Ri¢h 
+Joan Chen	Autumn in New York 
+Marc Lawrence	Music and Lyrics 
+Greg Mottola	Paul 
+Anne Fletcher	The Guilt Trip 
+Wes Craven	Scream 4 
+Joel Schumacher	8MM 
+Oliver Stone	The Doors 
+Jake Kasdan	Sex Tape 
+Diane Keaton	Hanging Up 
+Steven Quale	Final Destination 5 
+Kelly Makin	Mickey Blue Eyes 
+Mimi Leder	Pay It Forward 
+Bobby Farrelly	Fever Pitch 
+Steven Brill	Drillbit Taylor 
+Seth MacFarlane	A Million Ways to Die in the West 
+Russell Mulcahy	The Shadow 
+Stephen Daldry	Extremely Loud & Incredibly Close 
+Roger Michell	Morning Glory 
+Jim Sheridan	Get Rich or Die Tryin' 
+Christian Duguay	The Art of War 
+Chris Columbus	Rent 
+Chuck Russell	Bless the Child 
+Sam Weisman	The Out-of-Towners 
+John Frankenheimer	The Island of Dr. Moreau 
+Peter Hyams	The Musketeer 
+Justin Chadwick	The Other Boleyn Girl 
+Pat O'Connor	Sweet November 
+Stephen Hopkins	The Reaping 
+Martin Scorsese	Mean Streets 
+Penny Marshall	Renaissance Man 
+Olivier Megaton	Colombiana 
+Frederik Du Chau	The Magic Sword: Quest for Camelot 
+Michael Caton-Jones	City by the Sea 
+Irwin Winkler	At First Sight 
+Joseph Kahn	Torque 
+Harold Becker	City Hall 
+Paul Verhoeven	Showgirls 
+Sofia Coppola	Marie Antoinette 
+Barbet Schroeder	Kiss of Death 
+Stephen Kay	Get Carter 
+J.A. Bayona	The Impossible 
+Elaine May	Ishtar 
+Wes Anderson	Fantastic Mr. Fox 
+Stephen Herek	Life or Something Like It 
+John Carpenter	Memoirs of an Invisible Man 
+Jean-Pierre Jeunet	Amélie 
+Dennie Gordon	New York Minute 
+Charles Shyer	Alfie 
+Ken Kwapis	Big Miracle 
+Ulu Grosbard	The Deep End of the Ocean 
+William Malone	Feardotcom 
+Paul Weitz	Cirque du Freak: The Vampire's Assistant 
+Paul McGuigan	Victor Frankenstein 
+Danny DeVito	Duplex 
+Malcolm D. Lee	Soul Men 
+Jerry Jameson	Raise the Titanic 
+Mic Rodgers	Universal Soldier: The Return 
+Christian Alvart	Pandorum 
+Gary Fleder	Impostor 
+Christian Duguay	Extreme Ops 
+Jean-Marie Poiré	Just Visiting 
+Danny Boyle	Sunshine 
+Brian Robbins	A Thousand Words 
+Marc F. Adler	Delgo 
+Pierre Morel	The Gunman 
+Geoffrey Sax	Alex Rider: Operation Stormbreaker 
+D.J. Caruso	Disturbia 
+Iain Softley	Hackers 
+Richard Shepard	The Hunting Party 
+Joel Coen	The Hudsucker Proxy 
+Peter Ho-Sun Chan	The Warlords 
+Sergey Bodrov	Nomad: The Warrior 
+Joon-ho Bong	Snowpiercer 
+Bibo Bergeron	A Monster in Paris 
+Jeff Nathanson	The Last Shot 
+Alex Proyas	The Crow 
+S.S. Rajamouli	Baahubali: The Beginning 
+Robert Schwentke	The Time Traveler's Wife 
+Michael Lehmann	Because I Said So 
+Rob Cohen	The Fast and the Furious 
+Tim Burton	Frankenweenie 
+Joss Whedon	Serenity 
+Charles S. Dutton	Against the Ropes 
+Richard Lester	Superman III 
+Peter Segal	Grudge Match 
+John Woo	Red Cliff 
+Andy Tennant	Sweet Home Alabama 
+Robert Luketic	The Ugly Truth 
+Jonathan Lynn	Sgt. Bilko 
+Robert Rodriguez	Spy Kids 2: Island of Lost Dreams 
+David Carson	Star Trek: Generations 
+Kar-Wai Wong	The Grandmaster 
+Francis Lawrence	Water for Elephants 
+Yuefeng Song	Dragon Nest: Warriors' Dawn 
+Norman Jewison	The Hurricane 
+Michael Apted	Enough 
+David Mirkin	Heartbreakers 
+Andy Fickman	Paul Blart: Mall Cop 2 
+Luis Mandoki	Angel Eyes 
+John Pasquin	Joe Somebody 
+Roman Polanski	The Ninth Gate 
+Michael Apted	Extreme Measures 
+Stephen Herek	Rock Star 
+Lee Daniels	Precious 
+Ridley Scott	White Squall 
+John Carpenter	The Thing 
+David Twohy	Riddick 
+Jeb Stuart	Switchback 
+Steve Miner	Texas Rangers 
+Gil Kenan	City of Ember 
+Paul Thomas Anderson	The Master 
+David Leland	Virgin Territory 
+Gary Fleder	The Express 
+J Blakeson	The 5th Wave 
+Ryan Coogler	Creed 
+Ben Affleck	The Town 
+Kirk Jones	What to Expect When You're Expecting 
+Ethan Coen	Burn After Reading 
+Jennifer Flackett	Nim's Island 
+Ron Howard	Rush 
+Paul Thomas Anderson	Magnolia 
+Kevin Smith	Cop Out 
+Christian Ditter	How to Be Single 
+Charles Martin Smith	Dolphin Tale 
+Catherine Hardwicke	Twilight 
+Nick Cassavetes	John Q 
+Les Mayfield	Blue Streak 
+Rawson Marshall Thurber	We're the Millers 
+Fedor Bondarchuk	Obitaemyy ostrov 
+Jonathan Mostow	Breakdown 
+Irvin Kershner	Never Say Never Again 
+Steve Pink	Hot Tub Time Machine 
+Charles Martin Smith	Dolphin Tale 2 
+John Frankenheimer	Reindeer Games 
+F. Gary Gray	A Man Apart 
+Cameron Crowe	Aloha 
+Rob Reiner	Ghosts of Mississippi 
+Scott Hicks	Snow Falling on Cedars 
+Mikael Håfström	The Rite 
+Andrew Niccol	Gattaca 
+Andrew Bergman	Isn't She Great 
+Kirk De Micco	Space Chimps 
+Chris Rock	Head of State 
+Todd Phillips	The Hangover 
+Wilson Yip	Ip Man 3 
+Jay Roach	Austin Powers: The Spy Who Shagged Me 
+Tim Burton	Batman 
+Roland Joffé	There Be Dragons 
+Richard Donner	Lethal Weapon 3 
+John Lee Hancock	The Blind Side 
+Robert Rodriguez	Spy Kids 
+Seth Gordon	Horrible Bosses 
+Ethan Coen	True Grit 
+David Frankel	The Devil Wears Prada 
+Robert Wise	Star Trek: The Motion Picture 
+Seth Gordon	Identity Thief 
+Martin Scorsese	Cape Fear 
+Robert Luketic	21 
+Judd Apatow	Trainwreck 
+Kevin Rodney Sullivan	Guess Who 
+Anthony Minghella	The English Patient 
+Curtis Hanson	L.A. Confidential 
+Mike Mitchell	Sky High 
+Frank Oz	In & Out 
+Roger Donaldson	Species 
+Wes Craven	A Nightmare on Elm Street 
+Tarsem Singh	The Cell 
+Randall Wallace	The Man in the Iron Mask 
+Randall Wallace	Secretariat 
+Kevin Munroe	TMNT 
+Michael Tollin	Radio 
+Will Gluck	Friends with Benefits 
+Nicholas Stoller	Neighbors 2: Sorority Rising 
+John Lee Hancock	Saving Mr. Banks 
+Spike Lee	Malcolm X 
+Judd Apatow	This Is 40 
+Walt Becker	Old Dogs 
+Patrick Tatopoulos	Underworld: Rise of the Lycans 
+Ken Kwapis	License to Wed 
+Dennis Dugan	The Benchwarmers 
+Gary David Goldberg	Must Love Dogs 
+Mike Newell	Donnie Brasco 
+Paul W.S. Anderson	Resident Evil 
+Tobe Hooper	Poltergeist 
+Ethan Coen	The Ladykillers 
+John Moore	Max Payne 
+Andrew Niccol	In Time 
+Alan Poul	The Back-up Plan 
+Luke Greenfield	Something Borrowed 
+Gil Junger	Black Knight 
+Michael Ritchie	The Bad News Bears 
+Steven E. de Souza	Street Fighter 
+Roman Polanski	The Pianist 
+Albert Hughes	From Hell 
+Catherine Hardwicke	The Nativity Story 
+Jaume Collet-Serra	House of Wax 
+Mike Nichols	Closer 
+Clint Eastwood	J. Edgar 
+Alexandre Aja	Mirrors 
+Michael Rymer	Queen of the Damned 
+Stephen Hopkins	Predator 2 
+Gregory Hoblit	Untraceable 
+Hugh Wilson	Blast from the Past 
+Mike Hodges	Flash Gordon 
+Kevin Smith	Jersey Girl 
+Rob Cohen	Alex Cross 
+Clint Eastwood	Midnight in the Garden of Good and Evil 
+Scott Mann	Heist 
+Susanna White	Nanny McPhee Returns 
+Danny DeVito	Hoffa 
+Chris Carter	The X Files: I Want to Believe 
+Tommy O'Haver	Ella Enchanted 
+Peter Landesman	Concussion 
+John Singleton	Abduction 
+Gary Chapman	Valiant 
+Curtis Hanson	Wonder Boys 
+Craig Mazin	Superhero Movie 
+Allen Hughes	Broken City 
+Wes Craven	Cursed 
+David Koepp	Premium Rush 
+Anne Fletcher	Hot Pursuit 
+Shekhar Kapur	The Four Feathers 
+Taylor Hackford	Parker 
+Richard Loncraine	Wimbledon 
+Roger Kumble	Furry Vengeance 
+Kimble Rendall	Bait 
+Peter Yates	Krull 
+Robert Redford	Lions for Lambs 
+John Milius	Flight of the Intruder 
+Jake Kasdan	Walk Hard: The Dewey Cox Story 
+Lasse Hallström	The Shipping News 
+Les Mayfield	American Outlaws 
+Jean-Marc Vallée	The Young Victoria 
+Dominic Sena	Whiteout 
+Terrence Malick	The Tree of Life 
+Hark Tsui	Knock Off 
+David Ayer	Sabotage 
+Brian Helgeland	The Order 
+Lexi Alexander	Punisher: War Zone 
+Peter Hewitt	Zoom 
+Robert Zemeckis	The Walk 
+Ronny Yu	Warriors of Virtue 
+Ridley Scott	A Good Year 
+Richard Donner	Radio Flyer 
+Taylor Hackford	"Blood In, Blood Out "
+Bille August	Smilla's Sense of Snow 
+Brian De Palma	Femme Fatale 
+Moustapha Akkad	Lion of the Desert 
+Jean-Paul Rappeneau	The Horseman on the Roof 
+Ang Lee	Ride with the Devil 
+Alejandro G. Iñárritu	Biutiful 
+Roland Joffé	The Lovers 
+Joachim Rønning	Bandidas 
+Tony Kaye	Black Water Transit 
+Wes Ball	The Maze Runner 
+Ken Scott	Unfinished Business 
+Martin Scorsese	The Age of Innocence 
+Darren Aronofsky	The Fountain 
+Hugh Johnson	Chill Factor 
+Simon West	Stolen 
+Hayao Miyazaki	Ponyo 
+George Tillman Jr.	The Longest Ride 
+Rand Ravich	The Astronaut's Wife 
+Hugh Hudson	I Dreamed of Africa 
+Gabriele Muccino	Playing for Keeps 
+Justin Chadwick	Mandela: Long Walk to Freedom 
+Warren Beatty	Reds 
+Rob Reiner	A Few Good Men 
+Andrzej Bartkowiak	Exit Wounds 
+Raja Gosnell	Big Momma's House 
+Jeremy Degruson	Thunder and the House of Magic 
+Chris Gorak	The Darkest Hour 
+Scott Speer	Step Up Revolution 
+David R. Ellis	Snakes on a Plane 
+Joe Charbanic	The Watcher 
+Jonathan Hensleigh	The Punisher 
+Danny Cannon	Goal! The Dream Begins 
+Boaz Yakin	Safe 
+Mike Newell	Pushing Tin 
+Richard Marquand	Star Wars: Episode VI - Return of the Jedi 
+Neil Marshall	Doomsday 
+Stephen Daldry	The Reader 
+David Wain	Wanderlust 
+Jon Favreau	Elf 
+Jon Turteltaub	Phenomenon 
+Brian Levant	Snow Dogs 
+Richard Donner	Scrooged 
+Jared Hess	Nacho Libre 
+Paul Feig	Bridesmaids 
+Evan Goldberg	This Is the End 
+Rupert Wainwright	Stigmata 
+George Tillman Jr.	Men of Honor 
+John Luessenhop	Takers 
+Justin Zackham	The Big Wedding 
+John Whitesell	"Big Mommas: Like Father, Like Son "
+Duncan Jones	Source Code 
+Frank Marshall	Alive 
+Joel Schumacher	The Number 23 
+Jean-Pierre Jeunet	The Young and Prodigious T.S. Spivet 
+Steven Spielberg	1941 
+John Gatins	Dreamer: Inspired by a True Story 
+David Cronenberg	A History of Violence 
+Louis Leterrier	Transporter 2 
+Sam Raimi	The Quick and the Dead 
+Peter Howitt	Laws of Attraction 
+Martin Scorsese	Bringing Out the Dead 
+Miguel Sapochnik	Repo Men 
+Hyung-rae Shim	Dragon Wars: D-War 
+Norman Jewison	Bogus 
+Don Scardino	The Incredible Burt Wonderstone 
+Mark Dindal	Cats Don't Dance 
+Tim Robbins	Cradle Will Rock 
+Steven Soderbergh	The Good German 
+Tom Reeve	George and the Dragon 
+Francis Ford Coppola	Apocalypse Now 
+Nanette Burstein	Going the Distance 
+Stephen Herek	Mr. Holland's Opus 
+Ariel Vromen	Criminal 
+Sydney Pollack	Out of Africa 
+Robert Zemeckis	Flight 
+Lewis Gilbert	Moonraker 
+Wes Anderson	The Grand Budapest Hotel 
+Scott Hicks	Hearts in Atlantis 
+Frank Marshall	Arachnophobia 
+Gregory Hoblit	Frequency 
+Paul Feig	Ghostbusters 
+John Francis Daley	Vacation 
+Barry Sonnenfeld	Get Shorty 
+Rob Marshall	Chicago 
+Dennis Dugan	Big Daddy 
+J.B. Rogers	American Pie 2 
+John Lasseter	Toy Story 
+Jan de Bont	Speed 
+Michael Sucsy	The Vow 
+Tom Vaughan	Extraordinary Measures 
+Boaz Yakin	Remember the Titans 
+John McTiernan	The Hunt for Red October 
+Lee Daniels	Lee Daniels' The Butler 
+Rawson Marshall Thurber	Dodgeball: A True Underdog Story 
+Barry Sonnenfeld	The Addams Family 
+Steve Oedekerk	Ace Ventura: When Nature Calls 
+Garry Marshall	The Princess Diaries 
+Hugh Wilson	The First Wives Club 
+David Fincher	Se7en 
+Neill Blomkamp	District 9 
+Stephen Hillenburg	The SpongeBob SquarePants Movie 
+Clint Eastwood	Mystic River 
+Clint Eastwood	Million Dollar Baby 
+Harold Ramis	Analyze This 
+Nick Cassavetes	The Notebook 
+Anne Fletcher	27 Dresses 
+Peter Chelsom	Hannah Montana: The Movie 
+Stig Bergqvist	Rugrats in Paris: The Movie 
+Barbra Streisand	The Prince of Tides 
+Edward Zwick	Legends of the Fall 
+Jason Reitman	Up in the Air 
+Alexander Payne	About Schmidt 
+Jonathan Levine	Warm Bodies 
+Rian Johnson	Looper 
+Chris Weitz	Down to Earth 
+Chris Noonan	Babe 
+David Frankel	Hope Springs 
+Nicholas Stoller	Forgetting Sarah Marshall 
+John Singleton	Four Brothers 
+Michael McCullers	Baby Mama 
+Forest Whitaker	Hope Floats 
+Gary Winick	Bride Wars 
+Steven Brill	Without a Paddle 
+Gary Winick	13 Going on 30 
+Woody Allen	Midnight in Paris 
+Peter Lepeniotis	The Nut Job 
+Ted Demme	Blow 
+Luis Mandoki	Message in a Bottle 
+William Shatner	Star Trek V: The Final Frontier 
+John Schultz	Like Mike 
+Peter Segal	Naked Gun 33 1/3: The Final Insult 
+John Glen	A View to a Kill 
+Steve Box	The Curse of the Were-Rabbit 
+Richard LaGravenese	P.S. I Love You 
+Frederik Du Chau	Racing Stripes 
+Joe Wright	Atonement 
+Gary Winick	Letters to Juliet 
+Ridley Scott	Black Rain 
+Bobby Farrelly	The Three Stooges 
+Tim Burton	Corpse Bride 
+James Gartner	Glory Road 
+Denis Villeneuve	Sicario 
+Antoine Fuqua	Southpaw 
+Sam Raimi	Drag Me to Hell 
+Lee Toland Krieger	The Age of Adaline 
+Tim McCanlies	Secondhand Lions 
+Jon M. Chu	Step Up 3D 
+John Stockwell	Blue Crush 
+Marc Forster	Stranger Than Fiction 
+David Slade	30 Days of Night 
+Drew Goddard	The Cabin in the Woods 
+Jason Friedberg	Meet the Spartans 
+Martin Brest	Midnight Run 
+Paul Michael Glaser	The Running Man 
+Frank Oz	Little Shop of Horrors 
+Joe Wright	Hanna 
+John R. Leonetti	Mortal Kombat: Annihilation 
+Tom Hanks	Larry Crowne 
+Kimberly Peirce	Carrie 
+Liz Friedlander	Take the Lead 
+Phil Joanou	Gridiron Gang 
+Sam Weisman	What's the Worst That Could Happen? 
+Shane Acker	9 
+Steven Soderbergh	Side Effects 
+Martha Coolidge	The Prince and Me 
+Stephen J. Anderson	Winnie the Pooh 
+Troy Miller	Dumb and Dumberer: When Harry Met Lloyd 
+Warren Beatty	Bulworth 
+Tate Taylor	Get on Up 
+Carl Franklin	One True Thing 
+Brett Leonard	Virtuosity 
+Ivan Reitman	My Super Ex-Girlfriend 
+Scott Derrickson	Deliver Us from Evil 
+Alister Grierson	Sanctum 
+Nick Hurran	Little Black Book 
+Nicholas Stoller	The Five-Year Engagement 
+Charles Stone III	Mr 3000 
+Paul Haggis	The Next Three Days 
+Kurt Wimmer	Ultraviolet 
+Jean-François Richet	Assault on Precinct 13 
+Antoine Fuqua	The Replacement Killers 
+Kevin Hooks	Fled 
+Ellory Elkayem	Eight Legged Freaks 
+Edward Zwick	Love & Other Drugs 
+Jon Avnet	88 Minutes 
+Niki Caro	North Country 
+Howard Deutch	The Whole Ten Yards 
+Vincenzo Natali	Splice 
+Willard Huyck	Howard the Duck 
+Gavin O'Connor	Pride and Glory 
+Bruce Hunt	The Cave 
+Rob Reiner	Alex & Emma 
+Paul McGuigan	Wicker Park 
+Craig Gillespie	Fright Night 
+Terrence Malick	The New World 
+Chris Roberts	Wing Commander 
+Neil Jordan	In Dreams 
+James Wong	Dragonball: Evolution 
+Jee-woon Kim	The Last Stand 
+Nick Hamm	Godsend 
+Andy Cadiff	Chasing Liberty 
+Mike Disa	Hoodwinked Too! Hood vs. Evil 
+Lasse Hallström	An Unfinished Life 
+Terry Gilliam	The Imaginarium of Doctor Parnassus 
+Richard J. Lewis	Barney's Version 
+Brad Furman	Runner Runner 
+Peter Howitt	Antitrust 
+Edward Zwick	Glory 
+Sergio Leone	Once Upon a Time in America 
+Niels Arden Oplev	Dead Man Down 
+Michael Radford	The Merchant of Venice 
+Neil Jordan	The Good Thief 
+Steve Boyum	Supercross 
+Chris Noonan	Miss Potter 
+Kaige Chen	The Promise 
+Corey Yuen	DOA: Dead or Alive 
+Andrew Dominik	The Assassination of Jesse James by the Coward Robert Ford 
+Li Zhang	1911 
+Laurent Tirard	Little Nicholas 
+Simon West	Wild Card 
+Marc Forster	Machine Gun Preacher 
+Reinhard Klooss	Animals United 
+Bille August	The Color of Freedom 
+Frédéric Auburtin	United Passions 
+Olivier Dahan	Grace of Monaco 
+Maksim Fadeev	A Warrior's Tail 
+Liliana Cavani	Ripley's Game 
+Greg Tiernan	Sausage Party 
+Elizabeth Banks	Pitch Perfect 2 
+James Mangold	Walk the Line 
+Edward Norton	Keeping the Faith 
+Peter Hewitt	The Borrowers 
+Ron Howard	Frost/Nixon 
+George Clooney	Confessions of a Dangerous Mind 
+Reginald Hudlin	Serving Sara 
+Ben Falcone	The Boss 
+Richard Attenborough	Cry Freedom 
+Lawrence Kasdan	Mumford 
+Don Mancini	Seed of Chucky 
+John Maybury	The Jacket 
+Ron Clements	Aladdin 
+F. Gary Gray	Straight Outta Compton 
+Steven Spielberg	Indiana Jones and the Temple of Doom 
+Igor Kovalyov	The Rugrats Movie 
+Lee Tamahori	Along Came a Spider 
+Stephen Frears	Florence Foster Jenkins 
+Robert Rodriguez	Once Upon a Time in Mexico 
+John McTiernan	Die Hard 
+David Wain	Role Models 
+Adam McKay	The Big Short 
+Ang Lee	Taking Woodstock 
+Gavin O'Connor	Miracle 
+Zack Snyder	Dawn of the Dead 
+Adam Shankman	The Wedding Planner 
+Shinji Aramaki	Harlock: Space Pirate 
+Wes Anderson	The Royal Tenenbaums 
+James Mangold	Identity 
+Jon Turteltaub	Last Vegas 
+John Glen	For Your Eyes Only 
+Peter Chelsom	Serendipity 
+Peter Hyams	Timecop 
+Ben Stiller	Zoolander 
+Lasse Hallström	Safe Haven 
+Kenny Ortega	Hocus Pocus 
+Scott Hicks	No Reservations 
+Matthew Vaughn	Kick-Ass 
+Ruben Fleischer	30 Minutes or Less 
+Patrick Lussier	Dracula 2000 
+Miguel Arteta	"Alexander and the Terrible, Horrible, No Good, Very Bad Day "
+Joe Wright	Pride & Prejudice 
+Ridley Scott	Blade Runner 
+Michael Caton-Jones	Rob Roy 
+McG	3 Days to Kill 
+James Gray	We Own the Night 
+Janusz Kaminski	Lost Souls 
+Jacques Perrin	Winged Migration 
+Donald Petrie	Just My Luck 
+Jay Roach	"Mystery, Alaska "
+Brian Levant	The Spy Next Door 
+Michael Ritchie	A Simple Wish 
+John Carpenter	Ghosts of Mars 
+David Gordon Green	Our Brand Is Crisis 
+Burr Steers	Pride and Prejudice and Zombies 
+Martin Scorsese	Kundun 
+Robert B. Weide	How to Lose Friends & Alienate People 
+Jeff Wadlow	Kick-Ass 2 
+Agustín Díaz Yanes	Captain Alatriste: The Spanish Musketeer 
+Camille Delamarre	Brick Mansions 
+John Glen	Octopussy 
+Judd Apatow	Knocked Up 
+Nick Cassavetes	My Sister's Keeper 
+Malcolm D. Lee	"Welcome Home, Roscoe Jenkins "
+David Lean	A Passage to India 
+Richard Eyre	Notes on a Scandal 
+Gavin Hood	Rendition 
+Nicholas Meyer	Star Trek VI: The Undiscovered Country 
+Callie Khouri	Divine Secrets of the Ya-Ya Sisterhood 
+Jon Favreau	The Jungle Book 
+Gary Fleder	Kiss the Girls 
+John Landis	The Blues Brothers 
+Sanaa Hamri	The Sisterhood of the Traveling Pants 2 
+Todd Graff	Joyful Noise 
+Chris Weitz	About a Boy 
+Steve Miner	Lake Placid 
+Paul McGuigan	Lucky Number Slevin 
+Philip Kaufman	The Right Stuff 
+Roland Emmerich	Anonymous 
+Wolfgang Petersen	The NeverEnding Story 
+Alex Proyas	Dark City 
+Saul Dibb	The Duchess 
+Walter Murch	Return to Oz 
+Richard Linklater	The Newton Boys 
+Christian Alvart	Case 39 
+E. Elias Merhige	Suspect Zero 
+Menno Meyjes	Martian Child 
+Robert Rodriguez	Spy Kids: All the Time in the World in 4D 
+Jodie Foster	Money Monster 
+Ronny Yu	Formula 51 
+Joel Schumacher	Flawless 
+Renny Harlin	Mindhunters 
+Barry Levinson	What Just Happened 
+Norman Jewison	The Statement 
+Kenneth Branagh	The Magic Flute 
+Steve Carr	Paul Blart: Mall Cop 
+Mark Waters	Freaky Friday 
+Judd Apatow	The 40-Year-Old Virgin 
+John Madden	Shakespeare in Love 
+Scott Frank	A Walk Among the Tombstones 
+Ivan Reitman	Kindergarten Cop 
+David Gordon Green	Pineapple Express 
+Andy Tennant	Ever After: A Cinderella Story 
+Kevin Costner	Open Range 
+Joel Schumacher	Flatliners 
+Richard Attenborough	A Bridge Too Far 
+Wes Craven	Red Eye 
+David R. Ellis	Final Destination 2 
+Joel Coen	"O Brother, Where Art Thou? "
+Scott Stewart	Legion 
+Michael Bay	Pain & Gain 
+Paul Weitz	In Good Company 
+Jonathan Frakes	Clockstoppers 
+Lawrence Kasdan	Silverado 
+Jim Sheridan	Brothers 
+Kevin Allen	Agent Cody Banks 2: Destination London 
+Garry Marshall	New Year's Eve 
+Michael Cristofer	Original Sin 
+James McTeigue	The Raven 
+Donald Petrie	Welcome to Mooseport 
+Andrew Morahan	Highlander: The Final Dimension 
+Bob Rafelson	Blood and Wine 
+Michael Cohn	Snow White: A Tale of Terror 
+Woody Allen	The Curse of the Jade Scorpion 
+David O. Russell	Accidental Love 
+Alan Shapiro	Flipper 
+Tarsem Singh	Self/less 
+Fernando Meirelles	The Constant Gardener 
+Mel Gibson	The Passion of the Christ 
+Chris Columbus	Mrs. Doubtfire 
+Barry Levinson	Rain Man 
+Clint Eastwood	Gran Torino 
+Oliver Stone	W. 
+Pierre Morel	Taken 
+Michael Hoffman	The Best of Me 
+Mick Jackson	The Bodyguard 
+Steven Spielberg	Schindler's List 
+Tate Taylor	The Help 
+Bill Condon	The Fifth Estate 
+Raja Gosnell	Scooby-Doo 2: Monsters Unleashed 
+Oleg Stepchenko	Viy 
+Ronny Yu	Freddy vs. Jason 
+Michael Winterbottom	The Face of an Angel 
+John A. Davis	Jimmy Neutron: Boy Genius 
+Matt Reeves	Cloverfield 
+Michael Pressman	Teenage Mutant Ninja Turtles II: The Secret of the Ooze 
+Brian De Palma	The Untouchables 
+Ethan Coen	No Country for Old Men 
+Tim Story	Ride Along 
+Sharon Maguire	Bridget Jones's Diary 
+Lasse Hallström	Chocolat 
+Charles Herman-Wurmfeld	"Legally Blonde 2: Red, White & Blonde "
+Andy Fickman	Parental Guidance 
+Ivan Reitman	No Strings Attached 
+George P. Cosmatos	Tombstone 
+Andrzej Bartkowiak	Romeo Must Die 
+Richard Donner	The Omen 
+James Wong	Final Destination 3 
+Scott Hicks	The Lucky One 
+Gabor Csupo	Bridge to Terabithia 
+Marc Forster	Finding Neverland 
+Tyler Perry	A Madea Christmas 
+Joe Carnahan	The Grey 
+John Polson	Hide and Seek 
+Adam McKay	Anchorman: The Legend of Ron Burgundy 
+Martin Scorsese	Goodfellas 
+Harald Zwart	Agent Cody Banks 
+Kirk Jones	Nanny McPhee 
+Brian De Palma	Scarface 
+Steve Oedekerk	Nothing to Lose 
+Bernardo Bertolucci	The Last Emperor 
+Baltasar Kormákur	Contraband 
+Brett Ratner	Money Talks 
+Paul Thomas Anderson	There Will Be Blood 
+Cathy Malkasian	The Wild Thornberrys Movie 
+John Eng	Rugrats Go Wild 
+Malcolm D. Lee	Undercover Brother 
+Ken Kwapis	The Sisterhood of the Traveling Pants 
+Chris Nahon	Kiss of the Dragon 
+Fred Wolf	The House Bunny 
+Bille Woodruff	Beauty Shop 
+Craig Gillespie	Million Dollar Arm 
+Phillip Noyce	The Giver 
+Dennie Gordon	What a Girl Wants 
+Victor Salva	Jeepers Creepers II 
+Mark Helfrich	Good Luck Chuck 
+Andrzej Bartkowiak	Cradle 2 the Grave 
+Stephen Daldry	The Hours 
+Andy Fickman	She's the Man 
+Steve Bendelack	Mr. Bean's Holiday 
+Dwight H. Little	Anacondas: The Hunt for the Blood Orchid 
+Guillaume Canet	Blood Ties 
+Kirsten Sheridan	August Rush 
+Shekhar Kapur	Elizabeth 
+Ronny Yu	Bride of Chucky 
+Richard Fleischer	Tora! Tora! Tora! 
+Bob Spiers	Spice World 
+David Gordon Green	The Sitter 
+Damien Dante Wayans	Dance Flick 
+Frank Darabont	The Shawshank Redemption 
+Simon Wincer	Crocodile Dundee in Los Angeles 
+Bobby Farrelly	Kingpin 
+Rupert Wyatt	The Gambler 
+John Wells	August: Osage County 
+Tim Fywell	Ice Princess 
+Nigel Cole	A Lot Like Love 
+Dexter Fletcher	Eddie the Eagle 
+Spike Lee	He Got Game 
+Jeremy Leven	Don Juan DeMarco 
+Sylvain White	The Losers 
+Troy Nixey	Don't Be Afraid of the Dark 
+Philip G. Atwell	War 
+Paul Thomas Anderson	Punch-Drunk Love 
+Jeff Schaffer	EuroTrip 
+Don Michael Paul	Half Past Dead 
+Paul Feig	Unaccompanied Minors 
+James Bridges	"Bright Lights, Big City "
+Steve Barron	The Adventures of Pinocchio 
+Bill Paxton	The Greatest Game Ever Played 
+Richard Kelly	The Box 
+Carter Smith	The Ruins 
+John Schlesinger	The Next Best Thing 
+Wes Craven	My Soul to Take 
+Luke Greenfield	The Girl Next Door 
+Ringo Lam	Maximum Risk 
+Bruce McCulloch	Stealing Harvard 
+Brian Helgeland	Legend 
+Akiva Schaffer	Hot Rod 
+David R. Ellis	Shark Night 3D 
+Alan Parker	Angela's Ashes 
+Ivan Reitman	Draft Day 
+Tobe Hooper	Lifeforce 
+Robert Redford	The Conspirator 
+Catherine Hardwicke	Lords of Dogtown 
+Patricia Riggen	The 33 
+John Carpenter	Big Trouble in Little China 
+Pascal Chaumeil	A Perfect Plan 
+Gavin O'Connor	Warrior 
+Neil Jordan	Michael Collins 
+Ron Maxwell	Gettysburg 
+Kimberly Peirce	Stop-Loss 
+Stephen Gaghan	Abandon 
+Jonathan Kaplan	Brokedown Palace 
+Ole Bornedal	The Possession 
+Richard Benjamin	Mrs. Winterbourne 
+Rod Lurie	Straw Dogs 
+Lasse Hallström	The Hoax 
+Craig R. Baxley	Stone Cold 
+John Hillcoat	The Road 
+John Guillermin	Sheena 
+Marcos Siega	Underclassman 
+J.B. Rogers	Say It Isn't So 
+Roger Donaldson	The World's Fastest Indian 
+David R. Ellis	Snakes on a Plane 
+Rachel Talalay	Tank Girl 
+Jeffrey W. Byrd	King's Ransom 
+Fernando Meirelles	Blindness 
+Uwe Boll	BloodRayne 
+Roman Polanski	Carnage 
+Atom Egoyan	Where the Truth Lies 
+Andrew Adamson	Cirque du Soleil: Worlds Away 
+Robert Towne	Without Limits 
+Richard Linklater	Me and Orson Welles 
+Giuseppe Tornatore	The Best Offer 
+Werner Herzog	Bad Lieutenant: Port of Call New Orleans 
+Ben Stassen	A Turtle's Tale: Sammy's Adventures 
+Guillaume Canet	Little White Lies 
+Taylor Hackford	Love Ranch 
+Jérôme Deschamps	The True Story of Puss'N Boots 
+Inna Evlannikova	Space Dogs 
+Ridley Scott	The Counselor 
+Jonathan English	Ironclad 
+Sergey Bondarchuk	Waterloo 
+Teddy Chan	Kung Fu Killer 
+Stephen Frears	Dangerous Liaisons 
+Walter Salles	On the Road 
+Leonard Nimoy	Star Trek IV: The Voyage Home 
+Sylvester Stallone	Rocky Balboa 
+Ericson Core	Point Break 
+Wes Craven	Scream 2 
+Gavin O'Connor	Jane Got a Gun 
+Tim Story	Think Like a Man Too 
+Jonathan Lynn	The Whole Nine Yards 
+Herbert Ross	Footloose 
+Todd Phillips	Old School 
+Terry Gilliam	The Fisher King 
+Danny Cannon	I Still Know What You Did Last Summer 
+Bonnie Hunt	Return to Me 
+Kevin Smith	Zack and Miri Make a Porno 
+Neil LaBute	Nurse Betty 
+Grant Heslov	The Men Who Stare at Goats 
+George Gallo	Double Take 
+James Mangold	"Girl, Interrupted "
+Robert Luketic	Win a Date with Tad Hamilton! 
+Tim Hill	Muppets from Space 
+Sidney Lumet	The Wiz 
+Brian Robbins	Ready to Rumble 
+Ron Shelton	Play It to the Bone 
+Douglas McGrath	I Don't Know How She Does It 
+Alexandre Aja	Piranha 3D 
+Kevin Spacey	Beyond the Sea 
+Steve Boyum	Meet the Deedles 
+Richard Williams	The Princess and the Cobbler 
+Mary McGuckian	The Bridge of San Luis Rey 
+George Tillman Jr.	Faster 
+Hayao Miyazaki	Howl's Moving Castle 
+Ruben Fleischer	Zombieland 
+Peter Jackson	King Kong 
+Frank Coraci	The Waterboy 
+Irvin Kershner	Star Wars: Episode V - The Empire Strikes Back 
+Michael Bay	Bad Boys 
+David Zucker	The Naked Gun 2½: The Smell of Fear 
+James Wong	Final Destination 
+George Clooney	The Ides of March 
+David Twohy	Pitch Black 
+Tony Goldwyn	Someone Like You... 
+Spike Jonze	Her 
+Dexter Fletcher	Eddie the Eagle 
+John Dahl	Joy Ride 
+Jonathan Newman	The Adventurer: The Curse of the Midas Box 
+Wayne Wang	Anywhere But Here 
+Andy Cadiff	Chasing Liberty 
+Michael Dinner	The Crew 
+Steven Soderbergh	Haywire 
+Joseph Sargent	Jaws: The Revenge 
+Jerry Zaks	Marvin's Room 
+Fred Durst	The Longshots 
+Neil Jordan	The End of the Affair 
+Simon Wincer	Harley Davidson and the Marlboro Man 
+Paul Haggis	In the Valley of Elah 
+Anne Fontaine	Coco Before Chanel 
+Jon Cassar	Forsaken 
+Stephen Frears	Chéri 
+Mira Nair	Vanity Fair 
+Teddy Chan	Bodyguards and Assassins 
+Mikael Håfström	1408 
+Mel Brooks	Spaceballs 
+Russell Crowe	The Water Diviner 
+Jerry Zucker	Ghost 
+Bobby Farrelly	There's Something About Mary 
+John Pasquin	The Santa Clause 
+John Lee Hancock	The Rookie 
+Andy Fickman	The Game Plan 
+Clint Eastwood	The Bridges of Madison County 
+Luke Greenfield	The Animal 
+Richard Attenborough	Gandhi 
+Lasse Hallström	The Hundred-Foot Journey 
+Irwin Winkler	The Net 
+Jessie Nelson	I Am Sam 
+Christopher Spencer	Son of God 
+Len Wiseman	Underworld 
+Mikael Håfström	Derailed 
+Steven Soderbergh	The Informant! 
+Richard Attenborough	Shadowlands 
+Mike Bigelow	Deuce Bigalow: European Gigolo 
+Ken Scott	Delivery Man 
+Paul McGuigan	Victor Frankenstein 
+Susanna White	Our Kind of Traitor 
+Dennis Dugan	Saving Silverman 
+David Bowers	Diary of a Wimpy Kid: Dog Days 
+Spike Lee	Summer of Sam 
+Kevin Smith	Jay and Silent Bob Strike Back 
+Michael Bay	The Island 
+Daniel Sackheim	The Glass House 
+Ethan Coen	"Hail, Caesar! "
+Harry Elfont	Josie and the Pussycats 
+Gary Fleder	Homefront 
+Uli Edel	The Little Vampire 
+David O. Russell	I Heart Huckabees 
+Fred Dekker	RoboCop 3 
+Brian Trenchard-Smith	Megiddo: The Omega Code 2 
+Blake Edwards	Darling Lili 
+Hugh Wilson	Dudley Do-Right 
+Camille Delamarre	The Transporter Refueled 
+Laurence Dunmore	The Libertine 
+Paul Verhoeven	Black Book 
+Christian Carion	Joyeux Noel 
+David Palmer	Hit and Run 
+Callie Khouri	Mad Money 
+Rowan Joffe	Before I Go to Sleep 
+William Friedkin	Sorcerer 
+John Curran	Stone 
+Laurent Tirard	Molière 
+Scott Cooper	Out of the Furnace 
+Tony Gilroy	Michael Clayton 
+Peter Segal	My Fellow Americans 
+Mark Pellington	Arlington Road 
+Juan José Campanella	Underdogs 
+Woody Allen	To Rome with Love 
+Clint Eastwood	Firefox 
+Trey Parker	South Park: Bigger Longer & Uncut 
+Frank Oz	Death at a Funeral 
+Stuart Gillard	Teenage Mutant Ninja Turtles III 
+Brian Robbins	Hardball 
+David O. Russell	Silver Linings Playbook 
+Richard LaGravenese	Freedom Writers 
+Tyler Perry	For Colored Girls 
+Louis Leterrier	The Transporter 
+Jeff Wadlow	Never Back Down 
+Katt Shea	The Rage: Carrie 2 
+Sam Mendes	Away We Go 
+Joshua Michael Stern	Swing Vote 
+Brad Silberling	Moonlight Mile 
+Tomas Alfredson	Tinker Tailor Soldier Spy 
+John Duigan	Molly 
+Jodie Foster	The Beaver 
+Colin Higgins	The Best Little Whorehouse in Texas 
+David Cronenberg	eXistenZ 
+Steven Spielberg	Raiders of the Lost Ark 
+Chris Columbus	Home Alone 2: Lost in New York 
+Steven Spielberg	Close Encounters of the Third Kind 
+Jim Sonzero	Pulse 
+Tony Scott	Beverly Hills Cop II 
+Adam Shankman	Bringing Down the House 
+Jonathan Demme	The Silence of the Lambs 
+Penelope Spheeris	Wayne's World 
+Jeff Tremaine	Jackass 3D 
+Jeannot Szwarc	Jaws 2 
+Raja Gosnell	Beverly Hills Chihuahua 
+James Wan	The Conjuring 
+Brian Levant	Are We There Yet? 
+Ben Falcone	Tammy 
+D.J. Caruso	Disturbia 
+Richard Linklater	School of Rock 
+Paul W.S. Anderson	Mortal Kombat 
+Paul McGuigan	Wicker Park 
+Keenen Ivory Wayans	White Chicks 
+Alexander Payne	The Descendants 
+Andrew Davis	Holes 
+Julie Anne Robinson	The Last Song 
+Steve McQueen	12 Years a Slave 
+Charles Stone III	Drumline 
+Tyler Perry	Why Did I Get Married Too? 
+Tim Burton	Edward Scissorhands 
+Thea Sharrock	Me Before You 
+Tyler Perry	Madea's Witness Protection 
+William Friedkin	The French Connection 
+Jon Lucas	Bad Moms 
+Aaron Seltzer	Date Movie 
+Robin Budd	Return to Never Land 
+Ava DuVernay	Selma 
+Steve Trenbirth	The Jungle Book 2 
+Stephen Kay	Boogeyman 
+Mennan Yapo	Premonition 
+Jun Falkenstein	The Tigger Movie 
+Jaume Collet-Serra	Orphan 
+Boaz Yakin	Max 
+Jason Friedberg	Epic Movie 
+John Milius	Conan the Barbarian 
+Tom McCarthy	Spotlight 
+Neil LaBute	Lakeview Terrace 
+Takashi Shimizu	The Grudge 2 
+Kevin Rodney Sullivan	How Stella Got Her Groove Back 
+Peter Hewitt	Bill & Ted's Bogus Journey 
+Barry Levinson	Man of the Year 
+Gary Nelson	The Black Hole 
+Anton Corbijn	The American 
+Gregory Nava	Selena 
+Jason Friedberg	Vampires Suck 
+Alejandro G. Iñárritu	Babel 
+Shawn Levy	This Is Where I Leave You 
+John Patrick Shanley	Doubt 
+Trey Parker	Team America: World Police 
+John Luessenhop	Texas Chainsaw 3D 
+Jon Amiel	Copycat 
+Malcolm D. Lee	Scary Movie 5 
+Joshua Logan	Paint Your Wagon 
+Gus Van Sant	Milk 
+Kevin Reynolds	Risen 
+Steve Beck	Ghost Ship 
+Todd Strauss-Schulson	A Very Harold & Kumar 3D Christmas 
+John McNaughton	Wild Things 
+Nelson McCormick	The Stepfather 
+John Madden	The Debt 
+Stephen Frears	High Fidelity 
+Eric Valette	One Missed Call 
+John Schlesinger	Eye for an Eye 
+Roger Donaldson	The Bank Job 
+Michel Gondry	Eternal Sunshine of the Spotless Mind 
+Andy Fickman	You Again 
+David Ayer	Street Kings 
+Edgar Wright	The World's End 
+Andrew Fleming	Nancy Drew 
+Michael Spierig	Daybreakers 
+Jim Field Smith	She's Out of My League 
+Thomas Bezucha	Monte Carlo 
+William Brent Bell	Stay Alive 
+Simon Wincer	Quigley Down Under 
+Anthony Bell	Alpha and Omega 
+Renny Harlin	The Covenant 
+Jessica Bendinger	Stick It 
+Robert Rodriguez	Shorts 
+Gus Van Sant	To Die For 
+Henry Joost	Nerve 
+Ed Harris	Appaloosa 
+John Carpenter	Vampires 
+Alfred Hitchcock	Psycho 
+Howard Deutch	My Best Friend's Girl 
+Shana Feste	Endless Love 
+Garry Marshall	Georgia Rule 
+Steve Rash	Under the Rainbow 
+Richard Donner	Ladyhawke 
+Mark Steven Johnson	Simon Birch 
+Mike Binder	Reign Over Me 
+Sean Penn	Into the Wild 
+Todd Phillips	School for Scoundrels 
+Michael J. Bassett	Silent Hill: Revelation 3D 
+Robert Rodriguez	From Dusk Till Dawn 
+Frank Nissen	Pooh's Heffalump Movie 
+Jodie Foster	Home for the Holidays 
+Stephen Chow	Kung Fu Hustle 
+Peter Hastings	The Country Bears 
+Marc Forster	The Kite Runner 
+Alejandro G. Iñárritu	21 Grams 
+Paul Abascal	Paparazzi 
+Catherine Hardwicke	Twilight 
+Chris Koch	A Guy Thing 
+Amy Heckerling	Loser 
+Michael Moore	Capitalism: A Love Story 
+George Stevens	The Greatest Story Ever Told 
+Billy Ray	Secret in Their Eyes 
+Jason Friedberg	Disaster Movie 
+Nimród Antal	Armored 
+Jon Amiel	The Man Who Knew Too Little 
+Mark Mylod	What's Your Number? 
+James Mather	Lockout 
+Barry Levinson	Envy 
+Mark Neveldine	Crank: High Voltage 
+Woody Allen	Bullets Over Broadway 
+Michael O. Sajbel	One Night with the King 
+Phillip Noyce	The Quiet American 
+Gore Verbinski	The Weather Man 
+Walter Hill	Undisputed 
+David Koepp	Ghost Town 
+Renny Harlin	12 Rounds 
+Matt Reeves	Let Me In 
+Charles T. Kanganis	3 Ninjas Kick Back 
+Michel Gondry	Be Kind Rewind 
+Stephen Frears	Mrs Henderson Presents 
+John Hillcoat	Triple 9 
+Woody Allen	Deconstructing Harry 
+Damon Santostefano	Three to Tango 
+John Wells	Burnt 
+Neil Jordan	We're No Angels 
+Woody Allen	Everyone Says I Love You 
+Frank Oz	Death at a Funeral 
+James Wan	Death Sentence 
+Kirk Jones	Everybody's Fine 
+Bob Clark	Superbabies: Baby Geniuses 2 
+Les Mayfield	The Man 
+Les Mayfield	Code Name: The Cleaner 
+Michael Lembeck	Connie and Carla 
+Bob Fosse	Sweet Charity 
+Paul Thomas Anderson	Inherent Vice 
+Dave Borthwick	Doogal 
+Benson Lee	Battle of the Year 
+David Zucker	An American Carol 
+Robert Rodriguez	Machete Kills 
+Glen Morgan	Willard 
+Fred Wolf	Strange Wilderness 
+Mike Leigh	Topsy-Turvy 
+Alejandro Monteverde	Little Boy 
+David Cronenberg	A Dangerous Method 
+Richard Linklater	A Scanner Darkly 
+Michael Apted	Chasing Mavericks 
+Uwe Boll	Alone in the Dark 
+Todd Graff	Bandslam 
+Jonathan Glazer	Birth 
+J.C. Chandor	A Most Violent Year 
+Paul Gross	Passchendaele 
+Marc Abraham	Flash of Genius 
+Todd Haynes	I'm Not There. 
+Mabrouk El Mechri	The Cold Light of Day 
+Rian Johnson	The Brothers Bloom 
+Charlie Kaufman	"Synecdoche, New York "
+Hayao Miyazaki	Princess Mononoke 
+Jean-Paul Rappeneau	Bon voyage 
+Nancy Walker	Can't Stop the Music 
+John Hillcoat	The Proposition 
+Angelo Pizzo	Courage 
+Richard Benjamin	Marci X 
+Kurt Wimmer	Equilibrium 
+Roger Spottiswoode	The Children of Huang Shi 
+James Gray	The Yards 
+Matthew Diamond	The Oogieloves in the Big Balloon Adventure 
+Angelina Jolie Pitt	By the Sea 
+Katsuhiro Ôtomo	Steamboy 
+David Anspaugh	The Game of Their Lives 
+Andrew Jarecki	All Good Things 
+Kevin Reynolds	Rapa Nui 
+Stephen Chow	CJ7 
+Jean-Marie Poiré	Les couloirs du temps: Les visiteurs II 
+Kevin Munroe	Dylan Dog: Dead of Night 
+Daniel Algrant	People I Know 
+Julie Taymor	The Tempest 
+Alejandro Amenábar	Regression 
+Jane Clark	The Touch 
+Daniel Lee	Three Kingdoms: Resurrection of the Dragon 
+Mike Barker	Shattered 
+Wayne Thornley	Zambezia 
+Gnana Rajasekaran	Ramanujan 
+Tom Walsh	Dwegons and Leprechauns 
+Jonathan Jakubowicz	Hands of Stone 
+James McTeigue	Survivor 
+Scott Walker	The Frozen Ground 
+John Curran	The Painted Veil 
+Uli Edel	The Baader Meinhof Complex 
+Kevin Costner	Dances with Wolves 
+Jake Kasdan	Bad Teacher 
+Harold Becker	Sea of Love 
+Mark Rosman	A Cinderella Story 
+Wes Craven	Scream 
+Steve Beck	Thir13en Ghosts 
+Stanley Kubrick	The Shining 
+Robert Zemeckis	Back to the Future 
+William Malone	House on Haunted Hill 
+Tyler Perry	I Can Do Bad All by Myself 
+Rob Hawk	Fight Valley 
+Josh Gordon	The Switch 
+Shawn Levy	Just Married 
+Lee Tamahori	The Devil's Double 
+Britt Allcroft	Thomas and the Magic Railroad 
+Breck Eisner	The Crazies 
+Hayao Miyazaki	Spirited Away 
+Alan Yuen	Firestorm 
+Roger Donaldson	The Bounty 
+Brian Percival	The Book Thief 
+Sean Anders	Sex Drive 
+Anand Tucker	Leap Year 
+Anthony Mann	The Fall of the Roman Empire 
+Michael Dowse	Take Me Home Tonight 
+Daniel Barnz	Won't Back Down 
+Emile Ardolino	The Nutcracker 
+Robert Altman	Kansas City 
+James Schamus	Indignation 
+Andrew Douglas	The Amityville Horror 
+Spike Jonze	Adaptation. 
+George A. Romero	Land of the Dead 
+Danny Pang	Out of Inferno 
+Terry Gilliam	Fear and Loathing in Las Vegas 
+Ricky Gervais	The Invention of Lying 
+Nicholas Stoller	Neighbors 
+Chuck Russell	The Mask 
+Penny Marshall	Big 
+Larry Charles	Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan 
+Robert Luketic	Legally Blonde 
+Leonard Nimoy	Star Trek III: The Search for Spock 
+Scott Derrickson	The Exorcism of Emily Rose 
+Mike Mitchell	Deuce Bigalow: Male Gigolo 
+Vic Armstrong	Left Behind 
+Thomas Bezucha	The Family Stone 
+Kevin Rodney Sullivan	Barbershop 2: Back in Business 
+Terry Zwigoff	Bad Santa 
+Jay Roach	Austin Powers: International Man of Mystery 
+Kirk Jones	My Big Fat Greek Wedding 2 
+David Bowers	Diary of a Wimpy Kid: Rodrick Rules 
+John McTiernan	Predator 
+Milos Forman	Amadeus 
+Nelson McCormick	Prom Night 
+Mark Waters	Mean Girls 
+Audrey Wells	Under the Tuscan Sun 
+Robert Altman	Gosford Park 
+Francis Ford Coppola	Peggy Sue Got Married 
+Alejandro G. Iñárritu	Birdman or (The Unexpected Virtue of Ignorance) 
+Woody Allen	Blue Jasmine 
+Paul Greengrass	United 93 
+Bille Woodruff	Honey 
+Edward Zwick	Glory 
+Rick Friedberg	Spy Hard 
+John Carpenter	The Fog 
+Sean McNamara	Soul Surfer 
+Mike Nichols	Catch-22 
+Jody Hill	Observe and Report 
+Richard Fleischer	Conan the Destroyer 
+Martin Scorsese	Raging Bull 
+Brandon Camp	Love Happens 
+Barry Levinson	Young Sherlock Holmes 
+Kevin Tancharoen	Fame 
+Danny Boyle	127 Hours 
+Woody Allen	Small Time Crooks 
+Nicholas Hytner	Center Stage 
+Jessie Nelson	Love the Coopers 
+Bart Freundlich	Catch That Kid 
+Irwin Winkler	Life as a House 
+Danny Boyle	Steve Jobs 
+Chris Columbus	"I Love You, Beth Cooper "
+Miguel Arteta	Youth in Revolt 
+William A. Fraker	The Legend of the Lone Ranger 
+John Boorman	The Tailor of Panama 
+Brian De Palma	Blow Out 
+Courtney Solomon	Getaway 
+Ang Lee	The Ice Storm 
+Rob Reiner	And So It Goes 
+Jeff Kanew	Troop Beverly Hills 
+István Szabó	Being Julia 
+Adrian Lyne	9½ Weeks 
+Matthew Robbins	Dragonslayer 
+Michael Hoffman	The Last Station 
+Tim Burton	Ed Wood 
+Jason Reitman	Labor Day 
+Sergey Bodrov	Mongol: The Rise of Genghis Khan 
+Guy Ritchie	RocknRolla 
+Hal Needham	Megaforce 
+Kenneth Branagh	Hamlet 
+Bruce Beresford	Mao's Last Dancer 
+Jeff Nichols	Midnight Special 
+Woody Allen	Anything Else 
+Jonathan Teplitzky	The Railway Man 
+Michael Haneke	The White Ribbon 
+Zack Ward	Restoration 
+Mike Marvin	The Wraith 
+D.J. Caruso	The Salton Sea 
+Nimród Antal	Metallica Through the Never 
+Gregor Jordan	The Informers 
+Tran Anh Hung	I Come with the Rain 
+Lance Hool	One Man's Hero 
+George A. Romero	Day of the Dead 
+Chuck Russell	I Am Wrath 
+Christian Volckman	Renaissance 
+Jon Cassar	Forsaken 
+Richard Fleischer	Red Sonja 
+Rodrigo Cortés	Red Lights 
+Greg Mottola	Superbad 
+Tyler Perry	Madea Goes to Jail 
+David Hayter	Wolves 
+Jon M. Chu	Step Up 2: The Streets 
+Cory Edwards	Hoodwinked! 
+Terry George	Hotel Rwanda 
+Xavier Gens	Hitman 
+Kasi Lemmons	Black Nativity 
+Brian A Miller	The Prince 
+Matt Dillon	City of Ghosts 
+Alejandro Amenábar	The Others 
+James Cameron	Aliens 
+George Cukor	My Fair Lady 
+Jim Gillespie	I Know What You Did Last Summer 
+Luke Greenfield	Let's Be Cops 
+Alexander Payne	Sideways 
+Jay Chandrasekhar	Beerfest 
+John Carpenter	Halloween 
+Yimou Zhang	Hero 
+John Hoffman	Good Boy! 
+Malcolm D. Lee	The Best Man Holiday 
+Joe Carnahan	Smokin' Aces 
+Kevin Greutert	Saw 3D: The Final Chapter 
+Michael Lehmann	40 Days and 40 Nights 
+Joseph Kosinski	TRON: Legacy 
+John Fortenberry	A Night at the Roxbury 
+Daniel Barnz	Beastly 
+Alexandre Aja	The Hills Have Eyes 
+Sam Weisman	Dickie Roberts: Former Child Star 
+Niki Caro	"McFarland, USA "
+Erik White	Lottery Ticket 
+Chris Robinson	ATL 
+Jason Moore	Pitch Perfect 
+Michael Tollin	Summer Catch 
+Sam Raimi	A Simple Plan 
+Robert Harmon	They 
+Trent Cooper	Larry the Cable Guy: Health Inspector 
+Gary Halvorson	The Adventures of Elmo in Grouchland 
+Antoine Fuqua	Brooklyn's Finest 
+Nicholas Ray	55 Days at Peking 
+Fede Alvarez	Evil Dead 
+Donald Petrie	My Life in Ruins 
+Paul Weitz	American Dreamz 
+Sidney J. Furie	Superman IV: The Quest for Peace 
+Ian Iqbal Rashid	How She Move 
+Wayne Kramer	Running Scared 
+Rowdy Herrington	Bobby Jones: Stroke of Genius 
+Jim Goddard	Shanghai Surprise 
+Neil Burger	The Illusionist 
+Noel Marshall	Roar 
+Joel Schumacher	Veronica Guerin 
+Andrea Di Stefano	Escobar: Paradise Lost 
+Richard Kelly	Southland Tales 
+Guillaume Ivernel	Dragon Hunters 
+Jack Smight	Damnation Alley 
+Todd Lincoln	The Apparition 
+Howard Zieff	My Girl 
+Steven Shainberg	Fur: An Imaginary Portrait of Diane Arbus 
+Neil Burger	The Illusionist 
+Oliver Stone	Wall Street 
+Ang Lee	Sense and Sensibility 
+Julian Jarrold	Becoming Jane 
+Joe Nussbaum	Sydney White 
+Vadim Perelman	House of Sand and Fog 
+Peter Weir	Dead Poets Society 
+Peter Farrelly	Dumb & Dumber 
+Rob Reiner	When Harry Met Sally... 
+Sidney Lumet	The Verdict 
+Todd Phillips	Road Trip 
+Brian Robbins	Varsity Blues 
+Michel Hazanavicius	The Artist 
+David S. Goyer	The Unborn 
+Wes Anderson	Moonrise Kingdom 
+Jonathan Liebesman	The Texas Chainsaw Massacre: The Beginning 
+Cyrus Nowrasteh	The Young Messiah 
+Perry Andelin Blake	The Master of Disguise 
+Guillermo del Toro	Pan's Labyrinth 
+John Whitesell	See Spot Run 
+John Singleton	Baby Boy 
+Christian E. Christiansen	The Roommate 
+Dennie Gordon	Joe Dirt 
+Sheldon Lettich	Double Impact 
+Edgar Wright	Hot Fuzz 
+Diane English	The Women 
+Woody Allen	Vicky Cristina Barcelona 
+Peter Flinth	Arn: The Knight Templar 
+Jon Lucas	Bad Moms 
+Robert Iscove	Boys and Girls 
+Peter Kosminsky	White Oleander 
+Karyn Kusama	Jennifer's Body 
+Nick Gomez	Drowning Mona 
+Woody Allen	Radio Days 
+Vic Armstrong	Left Behind 
+Allen Coulter	Remember Me 
+Clare Kilner	How to Deal 
+Richard Benjamin	My Stepmother Is an Alien 
+Jonathan Demme	Philadelphia 
+Josef Rusnak	The Thirteenth Floor 
+Lance Rivera	The Cookout 
+Ronald Neame	Meteor 
+Bruce Paltrow	Duets 
+Woody Allen	Hollywood Ending 
+Adam Rifkin	Detroit Rock City 
+Russell Mulcahy	Highlander 
+Susanne Bier	Things We Lost in the Fire 
+Kenneth Johnson	Steel 
+James Gray	The Immigrant 
+James Ivory	The White Countess 
+Danny Boyle	Trance 
+Jessy Terrero	Soul Plane 
+Dany Boon	Welcome to the Sticks 
+Vicente Amorim	Good 
+Gaspar Noé	Enter the Void 
+Amy Heckerling	Vamps 
+Lasse Hallström	Hachi: A Dog's Tale 
+Jérôme Salle	Zulu 
+Tommy Lee Jones	The Homesman 
+Jesse Vaughan	Juwanna Mann 
+Atom Egoyan	Ararat 
+William Bindley	Madison 
+Wayne Beach	Slow Burn 
+Gérard Krawczyk	Wasabi 
+James Gunn	Slither 
+Martin Brest	Beverly Hills Cop 
+Chris Columbus	Home Alone 
+Leonard Nimoy	3 Men and a Baby 
+Sydney Pollack	Tootsie 
+Tony Scott	Top Gun 
+Ang Lee	"Crouching Tiger, Hidden Dragon "
+Sam Mendes	American Beauty 
+Tom Hooper	The King's Speech 
+Ivan Reitman	Twins 
+Udayan Prasad	The Yellow Handkerchief 
+Steven Spielberg	The Color Purple 
+JK Youn	Tidal Wave 
+Timur Bekmambetov	Ben-Hur 
+Morten Tyldum	The Imitation Game 
+Howard Zieff	Private Benjamin 
+Michael Apted	Coal Miner's Daughter 
+Thor Freudenthal	Diary of a Wimpy Kid 
+Andrés Muschietti	Mama 
+John Carpenter	Halloween 
+Harold Ramis	National Lampoon's Vacation 
+Jeff Tremaine	Bad Grandpa 
+Stephen Frears	The Queen 
+Tim Burton	Beetlejuice 
+Tyler Perry	Why Did I Get Married? 
+Gillian Armstrong	Little Women 
+James Watkins	The Woman in Black 
+Simon West	When a Stranger Calls 
+Shawn Levy	Big Fat Liar 
+Michael Cimino	The Deer Hunter 
+Barry Levinson	Wag the Dog 
+Jim Fall	The Lizzie McGuire Movie 
+Ric Roman Waugh	Snitch 
+Michael Dougherty	Krampus 
+Robert Rodriguez	The Faculty 
+Brian Gibson	What's Love Got to Do with It 
+James Mangold	Cop Land 
+Joel Gallen	Not Another Teen Movie 
+David Ayer	End of Watch 
+Cameron Crowe	Aloha 
+Rob Cohen	The Skulls 
+James Marsh	The Theory of Everything 
+John Whitesell	Malibu's Most Wanted 
+Matt Williams	Where the Heart Is 
+David Lean	Lawrence of Arabia 
+Rob Zombie	Halloween II 
+Jean-Marc Vallée	Wild 
+Dennis Iliadis	The Last House on the Left 
+Clare Kilner	The Wedding Date 
+Rick Rosenthal	Halloween: Resurrection 
+Louis Leterrier	Clash of the Titans 
+Rob Reiner	The Princess Bride 
+Denzel Washington	The Great Debaters 
+Nicolas Winding Refn	Drive 
+Sara Sugarman	Confessions of a Teenage Drama Queen 
+Nicholas Hytner	The Object of My Affection 
+Juan Carlos Fresnadillo	28 Weeks Later 
+Thomas Carter	When the Game Stands Tall 
+Wayne Wang	Because of Winn-Dixie 
+Gina Prince-Bythewood	Love & Basketball 
+George Armitage	Grosse Pointe Blank 
+Phil Traill	All About Steve 
+Joe Berlinger	Book of Shadows: Blair Witch 2 
+Andrew Fleming	The Craft 
+Woody Allen	Match Point 
+Elizabeth Allen Rosenbaum	Ramona and Beezus 
+James Ivory	The Remains of the Day 
+Paul Thomas Anderson	Boogie Nights 
+Robert Harmon	Nowhere to Run 
+Michael Mayer	Flicka 
+Martin Weisz	The Hills Have Eyes II 
+John Ottman	Urban Legends: Final Cut 
+Jay Russell	Tuck Everlasting 
+John Bonito	The Marine 
+Peter Atencio	Keanu 
+Shana Feste	Country Strong 
+David Nutter	Disturbing Behavior 
+Derek Cianfrance	The Place Beyond the Pines 
+Roger Donaldson	The November Man 
+Stephan Elliott	Eye of the Beholder 
+Kathryn Bigelow	The Hurt Locker 
+Mark L. Lester	Firestarter 
+Andrew Dominik	Killing Them Softly 
+Anton Corbijn	A Most Wanted Man 
+Tom Green	Freddy Got Fingered 
+Mike Nawrocki	The Pirates Who Don't Do Anything: A VeggieTales Movie 
+Catherine Owens	U2 3D 
+Douglas Aarniokoski	Highlander: Endgame 
+Bryan Barber	Idlewild 
+Lone Scherfig	One Day 
+Drew Barrymore	Whip It 
+Brian Koppelman	Knockaround Guys 
+James Foley	Confidence 
+Albert Brooks	The Muse 
+Irwin Winkler	De-Lovely 
+Woody Allen	New York Stories 
+Steve Gomer	Barney's Great Adventure 
+RZA	The Man with the Iron Fists 
+Dean Parisot	Home Fries 
+Mark Piznarski	Here on Earth 
+Terry Gilliam	Brazil 
+Sean McNamara	Raise Your Voice 
+Joel Coen	The Big Lebowski 
+Craig Brewer	Black Snake Moan 
+Ron Shelton	Dark Blue 
+Michael Winterbottom	A Mighty Heart 
+David Raynr	Whatever It Takes 
+Mort Nathan	Boat Trip 
+Oliver Parker	The Importance of Being Earnest 
+Dan Curtis	The Love Letter 
+Wil Shriner	Hoot 
+Martin McDonagh	In Bruges 
+Tina Gordon Chism	Peeples 
+Peter Cattaneo	The Rocker 
+Vicky Jenson	Post Grad 
+Gus Van Sant	Promised Land 
+Woody Allen	Whatever Works 
+Mary Lambert	The In Crowd 
+Tommy Lee Jones	Three Burials 
+Peter Kassovitz	Jakob the Liar 
+Shane Black	Kiss Kiss Bang Bang 
+Rodman Flender	Idle Hands 
+David Lynch	Mulholland Drive 
+Katja von Garnier	Blood and Chocolate 
+Woody Allen	You Will Meet a Tall Dark Stranger 
+Mark Romanek	Never Let Me Go 
+Brad Anderson	Transsiberian 
+Michael Chapman	The Clan of the Cave Bear 
+Antonio Banderas	Crazy in Alabama 
+Michael Haneke	Funny Games 
+Khalil Sullins	Listening 
+Atom Egoyan	Felicia's Journey 
+Fritz Lang	Metropolis 
+Pierre Morel	District B13 
+Gary Fleder	Things to Do in Denver When You're Dead 
+Hsiao-Hsien Hou	The Assassin 
+Gregor Jordan	Buffalo Soldiers 
+Andrey Zvyagintsev	The Return 
+Tony Jaa	Ong-bak 2 
+Neil Marshall	Centurion 
+Russell Mulcahy	Silent Trigger 
+Ryûhei Kitamura	The Midnight Meat Train 
+Darrell Roodt	Winnie Mandela 
+Dito Montiel	The Son of No One 
+Stefan Ruzowitzky	All the Queen's Men 
+Jake Paltrow	The Good Night 
+Juraj Jakubisko	Bathory: Countess of Blood 
+Anthony Silverston	Khumba 
+Gabe Ibáñez	Automata 
+Gerry Lively	Dungeons & Dragons: Wrath of the Dragon God 
+Daniele Luchetti	Chiamatemi Francesco - Il Papa della gente 
+Julien Temple	Pandaemonium 
+Harold Ramis	Groundhog Day 
+Gregory Jacobs	Magic Mike XXL 
+Baz Luhrmann	Romeo + Juliet 
+Gilles Paquet-Brenner	Sarah's Key 
+Peter Cousens	Freedom 
+Clint Eastwood	Unforgiven 
+Lars von Trier	Manderlay 
+Danny Boyle	Slumdog Millionaire 
+Adrian Lyne	Fatal Attraction 
+Garry Marshall	Pretty Woman 
+John Cornell	Crocodile Dundee II 
+Vidhu Vinod Chopra	Broken Horses 
+Oliver Stone	Born on the Fourth of July 
+Jon Turteltaub	Cool Runnings 
+Patrick Lussier	My Bloody Valentine 
+Ole Bornedal	The Possession 
+Ted Kotcheff	First Blood 
+Sylvain White	Stomp the Yard 
+Lewis Gilbert	The Spy Who Loved Me 
+Jamie Blanks	Urban Legend 
+Stephen Frears	Dangerous Liaisons 
+Tyler Perry	Good Deeds 
+Randal Kleiser	White Fang 
+Bruce McCulloch	Superstar 
+Phyllida Lloyd	The Iron Lady 
+Mike Nawrocki	Jonah: A VeggieTales Movie 
+John Singleton	Poetic Justice 
+Kevin Bray	All About the Benjamins 
+Wes Craven	Vampire in Brooklyn 
+John Boorman	Exorcist II: The Heretic 
+Courtney Solomon	An American Haunting 
+David Zucker	My Boss's Daughter 
+David Twohy	A Perfect Getaway 
+Rick Famuyiwa	Our Family Wedding 
+Alan Cohn	Dead Man on Campus 
+Franco Zeffirelli	Tea with Mussolini 
+Tom Holland	Thinner 
+Martin Scorsese	"New York, New York "
+Spike Lee	Crooklyn 
+Chris Rock	I Think I Love My Wife 
+James Isaac	Jason X 
+Shawn Levy	Big Fat Liar 
+Emilio Estevez	Bobby 
+Mark Waters	Head Over Heels 
+Josh Schwartz	Fun Size 
+Julian Schnabel	The Diving Bell and the Butterfly 
+Todd Field	Little Children 
+Davis Guggenheim	Gossip 
+Tony Goldwyn	A Walk on the Moon 
+Phillip Noyce	Catch a Fire 
+Stephen Carpenter	Soul Survivors 
+James Ivory	Jefferson in Paris 
+Stephan Elliott	Easy Virtue 
+James Fargo	Caravans 
+Mike Leigh	Mr. Turner 
+Alain Resnais	Wild Grass 
+Costa-Gavras	Amen. 
+Chao-Bin Su	Reign of Assassins 
+Neil Burger	The Lucky Ones 
+Kenneth Lonergan	Margaret 
+Bo Zenga	Stan Helsing 
+Rob Reiner	Flipped 
+Ang Lee	Brokeback Mountain 
+Jonathan Liebesman	Teenage Mutant Ninja Turtles 
+Amy Heckerling	Clueless 
+Todd Haynes	Far from Heaven 
+Steve Pink	Hot Tub Time Machine 2 
+Philip Kaufman	Quills 
+Martin McDonagh	Seven Psychopaths 
+Kasi Lemmons	The Caveman's Valentine 
+Oliver Hirschbiegel	Downfall 
+Alejandro Amenábar	The Sea Inside 
+Jonathan Glazer	Under the Skin 
+Barry Levinson	"Good Morning, Vietnam "
+Hyung-rae Shim	The Last Godfather 
+Jon M. Chu	Justin Bieber: Never Say Never 
+Darren Aronofsky	Black Swan 
+José Padilha	RoboCop 
+Francis Ford Coppola	The Godfather: Part II 
+Thomas Carter	Save the Last Dance 
+Renny Harlin	A Nightmare on Elm Street 4: The Dream Master 
+Patricia Riggen	Miracles from Heaven 
+Danny Leiner	"Dude, Where's My Car? "
+Christopher Cain	Young Guns 
+Theodore Melfi	St. Vincent 
+Steve Pink	About Last Night 
+Gil Junger	10 Things I Hate About You 
+Ed Decter	The New Guy 
+Gene Quintano	Loaded Weapon 1 
+Jaume Collet-Serra	The Shallows 
+Eric Bress	The Butterfly Effect 
+Chris Koch	Snow Day 
+Preston A. Whitmore II	This Christmas 
+Bob Clark	Baby Geniuses 
+Kirk Wong	The Big Hit 
+Bronwen Hughes	Harriet the Spy 
+John Lafia	Child's Play 2 
+Sam Miller	No Good Deed 
+Frank Darabont	The Mist 
+Alex Garland	Ex Machina 
+Spike Jonze	Being John Malkovich 
+Mark Brown	Two Can Play That Game 
+Dave Green	Earth to Echo 
+John Stockwell	Crazy/Beautiful 
+Clint Eastwood	Letters from Iwo Jima 
+Michael Polish	The Astronaut Farmer 
+Daisy von Scherler Mayer	Woo 
+Lenny Abrahamson	Room 
+Bob Saget	Dirty Work 
+John Waters	Serial Mom 
+Andrew Fleming	Dick 
+Craig Bolotin	Light It Up 
+Mark Christopher	54 
+Blair Hayes	Bubble Boy 
+Jez Butterworth	Birthday Girl 
+Jon Lucas	21 & Over 
+Olivier Assayas	"Paris, je t'aime "
+Rod Lurie	Resurrecting the Champ 
+Paul Weitz	Admission 
+Patrice Leconte	The Widow of Saint-Pierre 
+Atom Egoyan	Chloe 
+Paul Mazursky	Faithful 
+Jim Sheridan	Brothers 
+Sidney Lumet	Find Me Guilty 
+Stephen Chbosky	The Perks of Being a Wallflower 
+Jon Hess	Excessive Force 
+Douglas McGrath	Infamous 
+Michael Winterbottom	The Claim 
+Mark Neveldine	The Vatican Tapes 
+Joe Cornish	Attack the Block 
+Angelina Jolie Pitt	In the Land of Blood and Honey 
+Brad Anderson	The Call 
+John H. Lee	Operation Chromite 
+John Stainton	The Crocodile Hunter: Collision Course 
+Glenn Ficarra	I Love You Phillip Morris 
+Jean-Jacques Annaud	Quest for Fire 
+Denzel Washington	Antwone Fisher 
+Michael Hoffman	The Emperor's Club 
+Tony Scott	True Romance 
+Benedek Fliegauf	Womb 
+James Foley	Glengarry Glen Ross 
+Michael Winterbottom	The Killer Inside Me 
+Paul Schrader	Cat People 
+Stewart Hendler	Sorority Row 
+John Cromwell	The Prisoner of Zenda 
+Craig Gillespie	Lars and the Real Girl 
+Mark Herman	The Boy in the Striped Pajamas 
+Lars von Trier	Dancer in the Dark 
+Gillian Armstrong	Oscar and Lucinda 
+Abel Ferrara	The Funeral 
+Brian Koppelman	Solitary Man 
+Ethan Maniquis	Machete 
+George Hickenlooper	Casino Jack 
+Don Bluth	The Land Before Time 
+Je-kyu Kang	Tae Guk Gi: The Brotherhood of War 
+William Dear	The Perfect Game 
+William Friedkin	The Exorcist 
+Steven Spielberg	Jaws 
+Paul Weitz	American Pie 
+Stéphane Aubier	Ernest & Celestine 
+Michael Ritchie	The Golden Child 
+Tim Story	Think Like a Man 
+Tim Story	Barbershop 
+Nicholas Meyer	Star Trek II: The Wrath of Khan 
+Tom Shadyac	Ace Ventura: Pet Detective 
+John Badham	WarGames 
+Peter Weir	Witness 
+Mike McCoy	Act of Valor 
+Anne Fletcher	Step Up 
+Mike Judge	Beavis and Butt-Head Do America 
+Quentin Tarantino	Jackie Brown 
+Jon Hurwitz	Harold & Kumar Escape from Guantanamo Bay 
+Josh Trank	Chronicle 
+Barbra Streisand	Yentl 
+Terry Gilliam	Time Bandits 
+Tamra Davis	Crossroads 
+Nima Nourizadeh	Project X 
+Franklin J. Schaffner	Patton 
+Mark Romanek	One Hour Photo 
+John Erick Dowdle	Quarantine 
+David Moreau	The Eye 
+Christopher Erskin	Johnson Family Vacation 
+Jesse Dylan	How High 
+Brian Henson	The Muppet Christmas Carol 
+Martin Campbell	Casino Royale 
+Julie Taymor	Frida 
+Dan Cutforth	Katy Perry: Part of Me 
+Josh Boone	The Fault in Our Stars 
+John Dahl	Rounders 
+Chris Rock	Top Five 
+John Frankenheimer	Prophecy 
+David Koepp	Stir of Echoes 
+Stephen Frears	Philomena 
+Mike Binder	The Upside of Anger 
+Franklin J. Schaffner	The Boys from Brazil 
+Elizabeth Allen Rosenbaum	Aquamarine 
+Jake Schreier	Paper Towns 
+Cheryl Dunye	My Baby's Daddy 
+Alexander Payne	Nebraska 
+Ernest R. Dickerson	Tales from the Crypt: Demon Knight 
+Tim Hill	Max Keeble's Big Move 
+Jason Reitman	Young Adult 
+Mark Neveldine	Crank 
+Lionel C. Martin	How to Be a Player 
+Richard LaGravenese	Living Out Loud 
+Sanaa Hamri	Just Wright 
+Jonathan Demme	Rachel Getting Married 
+Bob Rafelson	The Postman Always Rings Twice 
+Peter Webber	Girl with a Pearl Earring 
+Wolfgang Petersen	Das Boot 
+John Lee Hancock	The Alamo 
+Wallace Wolodarsky	Sorority Boys 
+Richard Curtis	About Time 
+Yimou Zhang	House of Flying Daggers 
+Nicholas Jarecki	Arbitrage 
+Dean Israelite	Project Almanac 
+Darnell Martin	Cadillac Records 
+Scott Alexander	Screwed 
+Stuart Gordon	Fortress 
+Christopher Guest	For Your Consideration 
+Woody Allen	Celebrity 
+Ryan Murphy	Running with Scissors 
+Robert Iscove	From Justin to Kelly 
+Spike Lee	Girl 6 
+Jane Campion	In the Cut 
+James Gray	Two Lovers 
+Fred Schepisi	Last Orders 
+Joon-ho Bong	The Host 
+Roger Spottiswoode	The Pursuit of D.B. Cooper 
+Antonia Bird	Ravenous 
+Jon Poll	Charlie Bartlett 
+Paolo Sorrentino	The Great Beauty 
+Peter Care	The Dangerous Lives of Altar Boys 
+Chan-wook Park	Stoker 
+Kar-Wai Wong	2046 
+Ira Sachs	Married Life 
+Carroll Ballard	Duma 
+Neil Jordan	Ondine 
+Takeshi Kitano	Brother 
+Anthony Russo	Welcome to Collinwood 
+Sidney Lumet	Critical Care 
+Vadim Perelman	The Life Before Her Eyes 
+Lawrence Kasdan	Darling Companion 
+Marco Kreuzpaintner	Trade 
+Lajos Koltai	Fateless 
+Alan Rudolph	Breakfast of Champions 
+Yimou Zhang	"A Woman, a Gun and a Noodle Shop "
+Vincenzo Natali	Cypher 
+Chuan Lu	City of Life and Death 
+Tim Johnson	Home 
+Lijun Sun	Legend of Kung Fu Rabbit 
+Takashi Yamazaki	Space Battleship Yamato 
+Renny Harlin	5 Days of War 
+Christopher Smith	Triangle 
+Timothy Hines	10 Days in a Madhouse 
+Randall Wallace	Heaven Is for Real 
+Guy Ritchie	Snatch 
+David Winters	Dancin' It's On 
+Mary Lambert	Pet Sematary 
+Akira Kurosawa	Madadayo 
+Jamie Thraves	The Cry of the Owl 
+Mabel Cheung	A Tale of Three Cities 
+Joe Dante	Gremlins 
+George Lucas	Star Wars: Episode IV - A New Hope 
+Dan Mazer	Dirty Grandpa 
+David Lean	Doctor Zhivago 
+Stephen Daldry	Trash 
+Kenny Ortega	High School Musical 3: Senior Year 
+David O. Russell	The Fighter 
+Jeff Tremaine	Jackass Number Two 
+Jonathan Lynn	My Cousin Vinny 
+R.J. Cutler	If I Stay 
+Brian Trenchard-Smith	Drive Hard 
+David S. Ward	Major League 
+Oliver Parker	St. Trinian's 
+Joel Schumacher	Phone Booth 
+Adam Shankman	A Walk to Remember 
+Tim Robbins	Dead Man Walking 
+Roger Kumble	Cruel Intentions 
+Kevin Greutert	Saw VI 
+Mel Brooks	History of the World: Part I 
+Gina Prince-Bythewood	The Secret Life of Bees 
+Rob Pritts	Corky Romano 
+Brian De Palma	Raising Cain 
+Norman Jewison	F.I.S.T. 
+Tobe Hooper	Invaders from Mars 
+John Crowley	Brooklyn 
+Stanley Kubrick	Barry Lyndon 
+Brendan Malloy	Out Cold 
+Reginald Hudlin	The Ladies Man 
+Dustin Hoffman	Quartet 
+Gregory Poirier	Tomcats 
+Bill Paxton	Frailty 
+Simon Curtis	Woman in Gold 
+Bill Condon	Kinsey 
+Sam Raimi	Army of Darkness 
+Dewey Nicks	Slackers 
+Lasse Hallström	What's Eating Gilbert Grape 
+Philip Saville	The Visual Bible: The Gospel of John 
+Mike Leigh	Vera Drake 
+Daisy von Scherler Mayer	The Guru 
+Mira Nair	The Perez Family 
+Ethan Coen	Inside Llewyn Davis 
+Tim Blake Nelson	O 
+William A. Graham	Return to the Blue Lagoon 
+Martin Ritt	The Molly Maguires 
+John Turturro	Romance & Cigarettes 
+Agnieszka Holland	Copying Beethoven 
+Tobe Hooper	Poltergeist 
+Rowan Joffe	Brighton Rock 
+David Hackl	Saw V 
+Giuliano Montaldo	Machine Gun McCain 
+Lisa Azuelos	LOL 
+Ray Lawrence	Jindabyne 
+Karan Johar	Kabhi Alvida Naa Kehna 
+Oliver Parker	An Ideal Husband 
+Ruairi Robinson	The Last Days on Mars 
+Jaume Balagueró	Darkness 
+Stanley Kubrick	2001: A Space Odyssey 
+Steven Spielberg	E.T. the Extra-Terrestrial 
+Jon Kasdan	In the Land of Women 
+Léa Pool	The Blue Butterfly 
+Floyd Mutrux	There Goes My Baby 
+Sajid Khan	Housefull 
+Christopher Cain	September Dawn 
+Dean Wright	For Greater Glory: The True Story of Cristiada 
+Eric Lartigau	La Famille Bélier 
+Gus Van Sant	Good Will Hunting 
+Shintaro Shimosawa	Misconduct 
+Darren Lynn Bousman	Saw III 
+Ivan Reitman	Stripes 
+Peyton Reed	Bring It On 
+James DeMonaco	The Purge: Election Year 
+Robert Iscove	She's All That 
+Lee Daniels	Precious 
+Darren Lynn Bousman	Saw IV 
+Geoffrey Sax	White Noise 
+Tyler Perry	Madea's Family Reunion 
+Martin Scorsese	The Color of Money 
+Ken Annakin	The Longest Day 
+Stephen Herek	The Mighty Ducks 
+Takashi Shimizu	The Grudge 
+Dennis Dugan	Happy Gilmore 
+Victor Salva	Jeepers Creepers 
+Stephen Herek	Bill & Ted's Excellent Adventure 
+Carol Reed	Oliver! 
+John Madden	The Best Exotic Marigold Hotel 
+Chuck Sheetz	Recess: School's Out 
+George Miller	Mad Max Beyond Thunderdome 
+Mark L. Lester	Commando 
+William Brent Bell	The Boy 
+John Erick Dowdle	Devil 
+Marcus Raboy	Friday After Next 
+Leigh Whannell	Insidious: Chapter 3 
+Michael Schultz	The Last Dragon 
+Guy Ritchie	Snatch 
+Brett Leonard	The Lawnmower Man 
+Peter Sollett	Nick and Norah's Infinite Playlist 
+Kevin Smith	Dogma 
+Bob Dolman	The Banger Sisters 
+Joe Dante	Twilight Zone: The Movie 
+Rowdy Herrington	Road House 
+Keenen Ivory Wayans	A Low Down Dirty Shame 
+John Polson	Swimfan 
+Greg Coolidge	Employee of the Month 
+Harry Elfont	Can't Hardly Wait 
+Francis Ford Coppola	The Outsiders 
+David Lowery	Pete's Dragon 
+David Cronenberg	The Dead Zone 
+Ciarán Foy	Sinister 2 
+Salim Akil	Sparkle 
+Jamie Blanks	Valentine 
+Olatunde Osunsanmi	The Fourth Kind 
+Robert Altman	A Prairie Home Companion 
+Leon Ichaso	Sugar Hill 
+Joseph Zito	Invasion U.S.A. 
+Malcolm D. Lee	Roll Bounce 
+Wes Anderson	Rushmore 
+Colin Strause	Skyline 
+John Madden	The Second Best Exotic Marigold Hotel 
+Patricia Rozema	Kit Kittredge: An American Girl 
+Mark Rosman	The Perfect Man 
+Spike Lee	Mo' Better Blues 
+Steve Oedekerk	Kung Pow: Enter the Fist 
+Ron Underwood	Tremors 
+Rob Schmidt	Wrong Turn 
+Walter Hill	The Long Riders 
+James Foley	The Corruptor 
+Jeff Nichols	Mud 
+Robert Ben Garant	Reno 911!: Miami 
+Morgan Spurlock	One Direction: This Is Us 
+Neal Brennan	"The Goods: Live Hard, Sell Hard "
+Tuck Tucker	Hey Arnold! The Movie 
+Simon Curtis	My Week with Marilyn 
+Richard Shepard	The Matador 
+Theodore Witcher	Love Jones 
+Joel Edgerton	The Gift 
+Jim Hanon	End of the Spear 
+Tommy O'Haver	Get Over It 
+Mike Judge	Office Space 
+Michael Patrick Jann	Drop Dead Gorgeous 
+Tim Burton	Big Eyes 
+Peter Berg	Very Bad Things 
+Joe Nussbaum	Sleepover 
+Brian De Palma	Body Double 
+Jorma Taccone	MacGruber 
+Stephen Frears	Dirty Pretty Things 
+Elizabeth Banks	Movie 43 
+Florian Henckel von Donnersmarck	The Tourist 
+Jeff Lowell	Over Her Dead Body 
+Lorene Scafaria	Seeking a Friend for the End of the World 
+Miguel Arteta	Cedar Rapids 
+Tony Kaye	American History X 
+Marcus Dunstan	The Collection 
+Timothy Björklund	Teacher's Pet 
+François Girard	The Red Violin 
+David Lynch	The Straight Story 
+Scott Kalvert	Deuces Wild 
+Jason Bateman	Bad Words 
+David Schwimmer	"Run, Fatboy, Run "
+Allan Arkush	Heartbeeps 
+Mike Binder	Black or White 
+Eric Bross	On the Line 
+Werner Herzog	Rescue Dawn 
+Dan Fogelman	Danny Collins 
+Jay Duplass	"Jeff, Who Lives at Home "
+Luca Guadagnino	I Am Love 
+John Putch	Atlas Shrugged II: The Strike 
+Peter Medak	Romeo Is Bleeding 
+Steven Soderbergh	The Limey 
+Paul Haggis	Crash 
+Terence Davies	The House of Mirth 
+Harley Cokeliss	Malone 
+Victor Salva	Peaceful Warrior 
+Tom Brady	Bucky Larson: Born to Be a Star 
+Spike Lee	Bamboozled 
+Jason Zada	The Forest 
+Franklin J. Schaffner	Sphinx 
+Noah Baumbach	While We're Young 
+Chris Weitz	A Better Life 
+David Cronenberg	Spider 
+Eric Blakeney	Gun Shy 
+Douglas McGrath	Nicholas Nickleby 
+Ariel Vromen	The Iceman 
+Rakesh Roshan	Krrish 
+John Waters	Cecil B. DeMented 
+William Friedkin	Killer Joe 
+Derrick Borte	The Joneses 
+Richard Kwietniowski	Owning Mahowny 
+Bob Odenkirk	The Brothers Solomon 
+Kar-Wai Wong	My Blueberry Nights 
+John Turturro	Illuminata 
+Guy Ritchie	Swept Away 
+Joshua Seftel	"War, Inc. "
+Stephen Chow	Shaolin Soccer 
+Vincent Gallo	The Brown Bunny 
+Claude Chabrol	The Swindle 
+Jon Stewart	Rosewater 
+Bigas Luna	The Chambermaid on the Titanic 
+Ralph Fiennes	Coriolanus 
+Dan Harris	Imaginary Heroes 
+Mel Smith	High Heels and Low Lifes 
+Bobcat Goldthwait	World's Greatest Dad 
+Christopher Smith	Severance 
+Stuart Gordon	Edmond 
+Jake Scott	Welcome to the Rileys 
+Alan Metter	Police Academy: Mission to Moscow 
+Jeb Stuart	Blood Done Sign My Name 
+Rafa Lara	"Cinco de Mayo, La Batalla "
+Michael Radford	Elsa & Fred 
+Arthur Hiller	An Alan Smithee Film: Burn Hollywood Burn 
+Michael Meredith	The Open Road 
+Julio DePietro	The Good Guy 
+Katherine Dieckmann	Motherhood 
+William Dear	Free Style 
+Kim Farrant	Strangerland 
+Marcus Raboy	The Janky Promoters 
+Scott Marshall	Blonde Ambition 
+Álex de la Iglesia	The Oxford Murders 
+Andrew Traucki	The Reef 
+Michael Clancy	Eulogy 
+Patrick Lussier	White Noise 2: The Light 
+Robert Adetuyi	You Got Served: Beat the World 
+Kari Skogland	Fifty Dead Men Walking 
+Taedong Park	Jungle Shuffle 
+Paul Schrader	Adam Resurrected 
+Benedikt Erlingsson	Of Horses and Men 
+Gurinder Chadha	It's a Wonderful Afterlife 
+Jason Connery	The Devil's Tomb 
+Vic Sarin	Partition 
+Jim Issa	Good Intentions 
+Jee-woon Kim	"The Good, the Bad, the Weird "
+Douglas Aarniokoski	Nurse 3D 
+William Phillips	Gunless 
+Greg Mottola	Adventureland 
+Andy Garcia	The Lost City 
+Steve Carr	Next Friday 
+Sarik Andreasyan	American Heist 
+Lewis Gilbert	You Only Live Twice 
+Julian Gilbey	Plastic 
+Michael Haneke	Amour 
+Gary Sherman	Poltergeist III 
+Valeri Milev	Re-Kill 
+Stanley Kramer	"It's a Mad, Mad, Mad, Mad World "
+Pedro Almodóvar	Volver 
+Gerald Potterton	Heavy Metal 
+Jared Hess	Gentlemen Broncos 
+Richard Loncraine	Richard III 
+Anurag Basu	Kites 
+Lars von Trier	Melancholia 
+Kriv Stenders	Red Dog 
+Yash Chopra	Jab Tak Hai Jaan 
+Ridley Scott	Alien 
+Tobe Hooper	The Texas Chain Saw Massacre 
+Floria Sigismondi	The Runaways 
+Norman Jewison	Fiddler on the Roof 
+Terence Young	Thunderball 
+Joseph Kahn	Detention 
+Ferzan Ozpetek	Loose Cannons 
+F. Gary Gray	Set It Off 
+Malcolm D. Lee	The Best Man 
+Tom Holland	Child's Play 
+Michael Moore	Sicko 
+James DeMonaco	The Purge: Anarchy 
+Kris Isacsson	Down to You 
+Danny Leiner	Harold & Kumar Go to White Castle 
+Rod Lurie	The Contender 
+Ben Younger	Boiler Room 
+John Landis	Trading Places 
+Glen Morgan	Black Christmas 
+Daniel Taplitz	Breakin' All the Rules 
+Kenneth Branagh	Henry V 
+Tamara Jenkins	The Savages 
+Linda Mendoza	Chasing Papi 
+Christopher McQuarrie	The Way of the Gun 
+Burr Steers	Igby Goes Down 
+Hart Bochner	PCU 
+Michael O. Sajbel	The Ultimate Gift 
+Stewart Raffill	The Ice Pirates 
+Davis Guggenheim	Gracie 
+Bart Freundlich	Trust the Man 
+Andrew Fleming	Hamlet 2 
+Todd Haynes	Velvet Goldmine 
+Hong-jin Na	The Wailing 
+Kevin Tancharoen	Glee: The 3D Concert Movie 
+Chatrichalerm Yukol	The Legend of Suriyothai 
+Dario Argento	Two Evil Eyes 
+Eric Lavaine	Barbecue 
+Mike Leigh	All or Nothing 
+Marc Forby	Princess Kaiulani 
+Peter Cattaneo	Opal Dream 
+Scott Mann	Heist 
+Ole Christian Madsen	Flame and Citron 
+Meiert Avis	Undiscovered 
+Julian Jarrold	Red Riding: In the Year of Our Lord 1974 
+André Téchiné	The Girl on the Train 
+Emily Young	Veronika Decides to Die 
+Peter Faiman	Crocodile Dundee 
+Martyn Pick	"Ultramarines: A Warhammer 40,000 Movie "
+Roland Suso Richter	The I Inside 
+Jeremy Sims	Beneath Hill 60 
+Maïwenn	Polisse 
+Joby Harold	Awake 
+Ekachai Uekrongtham	Skin Trade 
+Joel Schumacher	The Lost Boys 
+Scott Cooper	Crazy Heart 
+Mark Rydell	The Rose 
+David E. Talbert	Baggage Claim 
+Roger Vadim	Barbarella 
+Nils Gaup	Shipwrecked 
+Alexander Payne	Election 
+Mira Nair	The Namesake 
+Ari Sandel	The DUFF 
+Vondie Curtis-Hall	Glitter 
+Tom Elkins	The Haunting in Connecticut 2: Ghosts of Georgia 
+Woo-Suk Kang	Silmido 
+Jane Campion	Bright Star 
+Karan Johar	My Name Is Khan 
+Herbert Ross	Footloose 
+J.C. Chandor	All Is Lost 
+John Sayles	Limbo 
+Vipul Amrutlal Shah	Namastey London 
+Ken Loach	The Wind That Shakes the Barley 
+Ayan Mukerji	Yeh Jawaani Hai Deewani 
+John G. Avildsen	The Karate Kid 
+Mervyn LeRoy	Quo Vadis 
+Darren Lynn Bousman	Repo! The Genetic Opera 
+Serdar Akar	Valley of the Wolves: Iraq 
+Quentin Tarantino	Pulp Fiction 
+James Frawley	The Muppet Movie 
+Dan Gilroy	Nightcrawler 
+Jay Chandrasekhar	Club Dread 
+Robert Wise	The Sound of Music 
+Ron Howard	Splash 
+Jonathan Dayton	Little Miss Sunshine 
+Rob Reiner	Stand by Me 
+Danny Boyle	28 Days Later... 
+Chris Stokes	You Got Served 
+Don Siegel	Escape from Alcatraz 
+Rick Famuyiwa	Brown Sugar 
+Martin Lawrence	A Thin Line Between Love and Hate 
+Jonathan Levine	50/50 
+Masayuki Ochiai	Shutter 
+George A. Romero	Creepshow 
+Tom Gormican	That Awkward Moment 
+Ken Shapiro	Modern Problems 
+Justin Tipping	Kicks 
+Kenneth Branagh	Much Ado About Nothing 
+Peter R. Hunt	On Her Majesty's Secret Service 
+Wes Craven	New Nightmare 
+John Schultz	Drive Me Crazy 
+Doug Atchison	Akeelah and the Bee 
+Tamra Davis	Half Baked 
+Jonas Elmer	New in Town 
+Stephen Gaghan	Syriana 
+Mary Harron	American Psycho 
+Miguel Arteta	The Good Girl 
+Erik Canuel	Bon Cop Bad Cop 
+Troy Duffy	The Boondock Saints II: All Saints Day 
+James Ivory	The City of Your Final Destination 
+Nicole Holofcener	Enough Said 
+Will Gluck	Easy A 
+Matty Rich	The Inkwell 
+E. Elias Merhige	Shadow of the Vampire 
+Joe Nussbaum	Prom 
+Matt Reeves	The Pallbearer 
+Steve Rash	Held Up 
+Fina Torres	Woman on Top 
+James Ivory	Howards End 
+Duke Johnson	Anomalisa 
+Mike Leigh	Another Year 
+François Ozon	8 Women 
+Mark L. Lester	Showdown in Little Tokyo 
+David Dobkin	Clay Pigeons 
+Anna Boden	It's Kind of a Funny Story 
+Nigel Cole	Made in Dagenham 
+Anand Tucker	When Did You Last See Your Father? 
+Steve James	Prefontaine 
+Michael Winner	The Wicked Lady 
+Tomm Moore	The Secret of Kells 
+John Carney	Begin Again 
+David Jacobson	Down in the Valley 
+Michael Corrente	Brooklyn Rules 
+Edward Hall	Restless 
+Keith Gordon	The Singing Detective 
+David Leland	The Land Girls 
+Andrew Currie	Fido 
+Andrew Wilson	The Wendell Baker Story 
+Jonathan Lynn	Wild Target 
+Marc Schölermann	Pathology 
+Robert Moresco	10th & Wolf 
+Thomas Vinterberg	Dear Wendy 
+Claudia Llosa	Aloft 
+Katsuhiro Ôtomo	Akira 
+John Herzfeld	The Death and Life of Bobby Z 
+Charles Binamé	The Rocket: The Legend of Rocket Richard 
+Keith Parmer	Swelter 
+Dennie Gordon	My Lucky Star 
+Ol Parker	Imagine Me & You 
+Bruce Beresford	Mr. Church 
+François Ozon	Swimming Pool 
+James Nunn	Green Street 3: Never Back Down 
+David Webb Peoples	The Blood of Heroes 
+Michael Winnick	Code of Honor 
+Bruce Beresford	Driving Miss Daisy 
+George Tillman Jr.	Soul Food 
+Stanley Tong	Rumble in the Bronx 
+David Oelhoffen	Far from Men 
+Jason Reitman	Thank You for Smoking 
+Eli Roth	Hostel: Part II 
+Lone Scherfig	An Education 
+Anand Tucker	Shopgirl 
+Tony Richardson	The Hotel New Hampshire 
+Joe Carnahan	Narc 
+Paul Gross	Men with Brooms 
+Charles Robert Carner	Witless Protection 
+Russell Holt	The Work and the Glory 
+Mike Judge	Extract 
+Larry Charles	Masked and Anonymous 
+Claude Miller	Alias Betty 
+Michael Winterbottom	Code 46 
+Sacha Bennett	Outside Bet 
+Paul Haggis	Crash 
+Rodrigo García	Albert Nobbs 
+Jeta Amata	Black November 
+Siddharth Anand	Ta Ra Rum Pum 
+Vincent Paronnaud	Persepolis 
+Joe Dante	The Hole 
+Dennis Gansel	The Wave 
+Nicolas Winding Refn	The Neon Demon 
+Daniel Barber	Harry Brown 
+Sam Raimi	Spider-Man 3 
+Robert Marcarelli	The Omega Code 
+Jason Reitman	Juno 
+Ernie Barbarash	Pound of Flesh 
+Guy Hamilton	Diamonds Are Forever 
+Francis Ford Coppola	The Godfather 
+Adrian Lyne	Flashdance 
+Marc Webb	500 Days of Summer 
+Jane Campion	The Piano 
+Steven Soderbergh	Magic Mike 
+Jonathan Liebesman	Darkness Falls 
+Guy Hamilton	Live and Let Die 
+Jay Russell	My Dog Skip 
+Adam Brooks	"Definitely, Maybe "
+Salim Akil	Jumping the Broom 
+Baz Luhrmann	The Great Gatsby 
+George Clooney	"Good Night, and Good Luck. "
+Bennett Miller	Capote 
+Robert Rodriguez	Desperado 
+Michael Winterbottom	The Claim 
+Michael Anderson	Logan's Run 
+Guy Hamilton	The Man with the Golden Gun 
+Craig R. Baxley	Action Jackson 
+Neil Marshall	The Descent 
+Don Kempf	Michael Jordan to the Max 
+Matt Bettinelli-Olpin	Devil's Due 
+David O. Russell	Flirting with Disaster 
+Rob Zombie	The Devil's Rejects 
+Rick Famuyiwa	Dope 
+Michael Rymer	In Too Deep 
+Sam Mendes	Skyfall 
+Rob Zombie	House of 1000 Corpses 
+Sharron Miller	Alien Zone 
+Ethan Coen	A Serious Man 
+Aaron Schneider	Get Low 
+Steve Miner	Warlock 
+Gina Prince-Bythewood	Beyond the Lights 
+Tom Ford	A Single Man 
+Martin Scorsese	The Last Temptation of Christ 
+Michael Corrente	Outside Providence 
+Gurinder Chadha	Bride & Prejudice 
+Phillip Noyce	Rabbit-Proof Fence 
+Don Michael Paul	Who's Your Caddy? 
+Tony Maylam	Split Second 
+Mitch Davis	The Other Side of Heaven 
+Yash Chopra	Veer-Zaara 
+David Mamet	Redbelt 
+Jay Duplass	Cyrus 
+Kevin Brodie	A Dog of Flanders 
+Paul Schrader	Auto Focus 
+George Hickenlooper	Factory Girl 
+Lynne Ramsay	We Need to Talk About Kevin 
+John Stephenson	The Christmas Candle 
+Tim Chambers	The Mighty Macs 
+Curtis Hanson	Losin' It 
+Rodrigo García	Mother and Child 
+Dick Richards	March or Die 
+Jean-Marie Poiré	Les visiteurs 
+Sofia Coppola	Somewhere 
+Bob Gosse	I Hope They Serve Beer in Hell 
+Alex Zamm	Chairman of the Board 
+Spencer Susser	Hesher 
+Richard Shepard	Dom Hemingway 
+Gus Van Sant	Gerry 
+Thaddeus O'Sullivan	The Heart of Me 
+Peter Sollett	Freeheld 
+Shari Springer Berman	The Extra Man 
+Aleksey German	Hard to Be a God 
+Stephen Milburn Anderson	Ca$h 
+Richard E. Grant	Wah-Wah 
+Troy Duffy	The Boondock Saints 
+David Lam	Z Storm 
+Francis Ford Coppola	Twixt 
+Vladlen Barbe	Snow Queen 
+Clint Eastwood	Pale Rider 
+Robert C. Cooper	Stargate: The Ark of Truth 
+Richard Linklater	Dazed and Confused 
+Kenny Ortega	High School Musical 2 
+Kim Nguyen	Two Lovers and a Bear 
+Jackie Earle Haley	Criminal Activities 
+Max Färberböck	Aimee & Jaguar 
+Arie Posin	The Chumscrubber 
+Damian Nieman	Shade 
+Mark Tonderai	House at the End of the Street 
+Denis Villeneuve	Incendies 
+Gabriele Muccino	"Remember Me, My Love "
+Ian Fitzgibbon	Perrier's Bounty 
+José Padilha	Elite Squad 
+John R. Leonetti	Annabelle 
+Rachel Perkins	Bran Nue Dae 
+John Singleton	Boyz n the Hood 
+Luis Valdez	La Bamba 
+Alan Alda	The Four Seasons 
+Brian De Palma	Dressed to Kill 
+Stephen Sommers	The Adventures of Huck Finn 
+Doug Liman	Go 
+Nicole Holofcener	Friends with Money 
+Robert Wise	The Andromeda Strain 
+Louis Morneau	Bats 
+Caroline Link	Nowhere in Africa 
+Steve McQueen	Shame 
+Matthew Vaughn	Layer Cake 
+Sterling Van Wagenen	The Work and the Glory II: American Zion 
+Zal Batmanglij	The East 
+Michael Mayer	A Home at the End of the World 
+Hans Petter Moland	Aberdeen 
+Oren Moverman	The Messenger 
+Ian Sharp	Tracker 
+Anton Corbijn	Control 
+James Cameron	The Terminator 
+Wolfgang Becker	Good Bye Lenin! 
+Tom Hooper	The Damned United 
+Dan O'Bannon	The Return of the Living Dead 
+Kevin Smith	Mallrats 
+Randal Kleiser	Grease 
+Oliver Stone	Platoon 
+Michael Moore	Fahrenheit 9/11 
+George Roy Hill	Butch Cassidy and the Sundance Kid 
+Robert Stevenson	Mary Poppins 
+Robert Redford	Ordinary People 
+Frank Coraci	Around the World in 80 Days 
+Jerome Robbins	West Side Story 
+Harold Ramis	Caddyshack 
+Gary Hardwick	The Brothers 
+Rick Famuyiwa	The Wood 
+Bryan Singer	The Usual Suspects 
+Stephen Hopkins	A Nightmare on Elm Street 5: The Dream Child 
+Walt Becker	Van Wilder: Party Liaison 
+Darren Aronofsky	The Wrestler 
+King Vidor	Duel in the Sun 
+Christopher Guest	Best in Show 
+John Carpenter	Escape from New York 
+Spike Lee	School Daze 
+Fred Savage	Daddy Day Camp 
+Sammo Kam-Bo Hung	Mr. Nice Guy 
+Christopher Guest	A Mighty Wind 
+Donald Petrie	Mystic Pizza 
+Peter Howitt	Sliding Doors 
+Rusty Cundieff	Tales from the Hood 
+Kevin Macdonald	The Last King of Scotland 
+Dominique Othenin-Girard	Halloween 5 
+Richard Linklater	Bernie 
+Jean-Jacques Mantello	Dolphins and Whales 3D: Tribes of the Ocean 
+Ed Harris	Pollock 
+Risa Bramon Garcia	200 Cigarettes 
+Brian Klugman	The Words 
+Matt Piedmont	Casa de mi Padre 
+Raymond De Felitta	City Island 
+John Michael McDonagh	The Guard 
+Deb Hagan	College 
+Sofia Coppola	The Virgin Suicides 
+Mark Herman	Little Voice 
+Zach Cregger	Miss March 
+Zach Braff	Wish I Was Here 
+Mark Tarlov	Simply Irresistible 
+John Cameron Mitchell	Hedwig and the Angry Inch 
+Sheldon Lettich	Only the Strong 
+Jon Knautz	Goddess of Love 
+Billy Ray	Shattered Glass 
+David Atkins	Novocaine 
+Patrick Stettner	The Business of Strangers 
+Sam Peckinpah	The Wild Bunch 
+Jonathan Levine	The Wackness 
+Michael Crichton	The Great Train Robbery 
+Lynne Ramsay	Morvern Callar 
+Sylvio Tabet	Beastmaster 2: Through the Portal of Time 
+Rick Bieber	The 5th Quarter 
+Claude Chabrol	The Flower of Evil 
+Shana Feste	The Greatest 
+Joey Lauren Adams	Come Early Morning 
+Peter Cattaneo	Lucky Break 
+Fred Zinnemann	Julia 
+S.R. Bindler	"Surfer, Dude "
+Tony Kaye	Lake of Fire 
+Greg Marcks	11:14 
+Perry Lang	Men of War 
+Jake Goldberger	Don McKay 
+Stefan Ruzowitzky	Deadfall 
+Vic Sarin	A Shine of Rainbows 
+William Kaufman	The Hit List 
+David Cronenberg	Videodrome 
+Cédric Klapisch	L'auberge espagnole 
+Kate Barker-Froyland	Song One 
+Barbet Schroeder	Murder by Numbers 
+Martin Koolhoven	Winter in Wartime 
+John Frankenheimer	The Train 
+Christopher M. Bessette	Trade of Innocents 
+Prachya Pinkaew	The Protector 
+Gary Sinyor	Stiff Upper Lips 
+Gurinder Chadha	Bend It Like Beckham 
+John Sayles	Sunshine State 
+Preston A. Whitmore II	Crossover 
+Ashish R. Mohan	Khiladi 786 
+Jaume Balagueró	[Rec] 2 
+Stewart Raffill	Standing Ovation 
+George Roy Hill	The Sting 
+Hugh Hudson	Chariots of Fire 
+Darren Grant	Diary of a Mad Black Woman 
+Scott Hicks	Shine 
+Joseph Gordon-Levitt	Don Jon 
+Clint Eastwood	High Plains Drifter 
+Terry Zwigoff	Ghost World 
+Richard Eyre	Iris 
+William Sachs	Galaxina 
+Christophe Barratier	The Chorus 
+Émile Gaudreault	Mambo Italiano 
+James Cox	Wonderland 
+Spike Lee	Do the Right Thing 
+James Toback	Harvard Man 
+Aki Kaurismäki	Le Havre 
+Gaspar Noé	Irreversible 
+Hitoshi Matsumoto	R100 
+Rakeysh Omprakash Mehra	Rang De Basanti 
+Collin Schiffli	Animals 
+George Ratliff	Salvation Boulevard 
+David Wain	The Ten 
+Shane Meadows	A Room for Romeo Brass 
+Morten Tyldum	Headhunters 
+Jon Wright	Grabbers 
+Michael McGowan	Saint Ralph 
+Liv Ullmann	Miss Julie 
+Jeannot Szwarc	Somewhere in Time 
+Rohan Sippy	Dum Maaro Dum 
+James Wan	Insidious: Chapter 2 
+Darren Lynn Bousman	Saw II 
+Dan Trachtenberg	10 Cloverfield Lane 
+Jeff Tremaine	Jackass: The Movie 
+David F. Sandberg	Lights Out 
+Henry Joost	Paranormal Activity 3 
+Stiles White	Ouija 
+Chuck Russell	A Nightmare on Elm Street 3: Dream Warriors 
+Joel Edgerton	The Gift 
+Eugenio Derbez	Instructions Not Included 
+Henry Joost	Paranormal Activity 4 
+Henry Koster	The Robe 
+Blake Edwards	The Return of the Pink Panther 
+Rachel Talalay	Freddy's Dead: The Final Nightmare 
+Patty Jenkins	Monster 
+Richard Fleischer	"20,000 Leagues Under the Sea "
+Christopher Landon	Paranormal Activity: The Marked Ones 
+David Lynch	The Elephant Man 
+Jean-Marc Vallée	Dallas Buyers Club 
+David Gelb	The Lazarus Effect 
+Christopher Nolan	Memento 
+Mike Flanagan	Oculus 
+Kevin Smith	Clerks II 
+Stephen Daldry	Billy Elliot 
+Nat Faxon	The Way Way Back 
+George Jackson	House Party 2 
+George Miller	The Man from Snowy River 
+Maurice Joyce	Doug's 1st Movie 
+Robert Duvall	The Apostle 
+Frank Perry	Mommie Dearest 
+Jesse Peretz	Our Idiot Brother 
+Stephen Hopkins	Race 
+Ice Cube	The Players Club 
+Tim Blake Nelson	O 
+John Erick Dowdle	"As Above, So Below "
+Bille Woodruff	Addicted 
+Kasi Lemmons	Eve's Bayou 
+Richard Glatzer	Still Alice 
+Michael Curtiz	The Egyptian 
+Bruce Malmuth	Nighthawks 
+Rob Hedden	Friday the 13th Part VIII: Jason Takes Manhattan 
+Joel Zwick	My Big Fat Greek Wedding 
+Harmony Korine	Spring Breakers 
+Joe Chappelle	Halloween: The Curse of Michael Myers 
+Alfonso Cuarón	Y Tu Mamá También 
+Edgar Wright	Shaun of the Dead 
+Mickey Liddell	The Haunting of Molly Hartley 
+John Sayles	Lone Star 
+Dwight H. Little	Halloween 4: The Return of Michael Myers 
+Fred Walton	April Fool's Day 
+Barry Levinson	Diner 
+Steve Carver	Lone Wolf McQuade 
+Gonzalo López-Gallego	Apollo 18 
+Christine Jeffs	Sunshine Cleaning 
+John Erick Dowdle	No Escape 
+Don Coscarelli	The Beastmaster 
+King Vidor	Solomon and Sheba 
+Michael Tiddes	Fifty Shades of Black 
+Bill Duke	Not Easily Broken 
+Frank Borzage	A Farewell to Arms 
+Bille Woodruff	The Perfect Match 
+Mamoru Hosoda	Digimon: The Movie 
+Brian Dannelly	Saved! 
+Denys Arcand	The Barbarian Invasions 
+Richard Lester	Robin and Marian 
+J.S. Cardone	The Forsaken 
+Guy Hamilton	Force 10 from Navarone 
+Jay Levey	UHF 
+Nicholaus Goossen	Grandma's Boy 
+Tamara Jenkins	Slums of Beverly Hills 
+Sergio Leone	Once Upon a Time in the West 
+Jon Favreau	Made 
+Duncan Jones	Moon 
+Scott Marshall	Keeping Up with the Steins 
+Ronan Chapalain	Sea Rex 3D: Journey to a Prehistoric World 
+Atom Egoyan	The Sweet Hereafter 
+Xavier Beauvois	Of Gods and Men 
+Randall Miller	Bottle Shock 
+Jerry Belson	Jekyll and Hyde... Together Again 
+Peter Jackson	Heavenly Creatures 
+Michael Polish	90 Minutes in Heaven 
+Dan Rush	Everything Must Go 
+Jake Kasdan	Zero Effect 
+Brad Anderson	The Machinist 
+Paul Schrader	Light Sleeper 
+Michael Cuesta	Kill the Messenger 
+John Cameron Mitchell	Rabbit Hole 
+Fenton Bailey	Party Monster 
+Jeremy Saulnier	Green Room 
+Billy Kent	The Oh in Ohio 
+James Manera	Atlas Shrugged: Who Is John Galt? 
+Wes Anderson	Bottle Rocket 
+Kevin Spacey	Albino Alligator 
+Feroz Abbas Khan	"Gandhi, My Father "
+Errol Morris	Standard Operating Procedure 
+Dennis Hopper	Out of the Blue 
+Eli Craig	Tucker and Dale vs Evil 
+Nicholas Fackler	"Lovely, Still "
+Richard Wallace	Tycoon 
+Morgan J. Freeman	Desert Blue 
+Matthew Hastings	Decoys 
+M. Night Shyamalan	The Visit 
+Brian De Palma	Redacted 
+Klaus Menzel	Fascination 
+Oren Peli	Area 51 
+Jaume Balagueró	Sleep Tight 
+Paul Andrew Williams	The Cottage 
+Stephen Herek	Dead Like Me: Life After Death 
+Bob Saget	Farce of the Penguins 
+Jim Amatulli	Flying By 
+William H. Macy	Rudderless 
+Barrett Esposito	Henry & Me 
+Mitch Davis	Christmas Eve 
+Eric Bross	We Have Your Husband 
+Paul Schrader	Dying of the Light 
+Vicky Jewson	Born of War 
+Peter Hyams	Capricorn One 
+Marc Bennett	Should've Been Romeo 
+Mike Mayhall	Running Forever 
+Kevin Smith	Yoga Hosers 
+Stanton Barrett	Navy Seals vs. Zombies 
+Jirí Menzel	I Served the King of England 
+Fatih Akin	Soul Kitchen 
+Billy Bob Thornton	Sling Blade 
+Nick Murphy	The Awakening 
+Eli Roth	Hostel 
+Michael Winterbottom	Tristram Shandy: A Cock and Bull Story 
+Jeff Nichols	Take Shelter 
+Frank LaLoggia	Lady in White 
+Jeremy Brock	Driving Lessons 
+Scott Foley	Let's Kill Ward's Wife 
+Tobe Hooper	The Texas Chainsaw Massacre 2 
+Sam Peckinpah	Pat Garrett & Billy the Kid 
+Nicolas Winding Refn	Only God Forgives 
+Christophe Ali	Camping sauvage 
+Gabriela Tagliavini	Without Men 
+Shekar	Barfi 
+Shona Auerbach	Dear Frankie 
+Leonard Farlinger	All Hat 
+Michel Leclerc	The Names of Love 
+Analeine Cal y Mayor	Treading Water 
+Tom Kalin	Savage Grace 
+Robert Sarkies	Out of the Blue 
+Hugh Wilson	Police Academy 
+Randal Kleiser	The Blue Lagoon 
+Mike Newell	Four Weddings and a Funeral 
+Amy Heckerling	Fast Times at Ridgemont High 
+John Huston	Moby Dick 
+Spike Lee	25th Hour 
+Lana Wachowski	Bound 
+Darren Aronofsky	Requiem for a Dream 
+Walter Lang	State Fair 
+Carlos Saura	Tango 
+Oliver Stone	Salvador 
+Andrew Erwin	Moms' Night Out 
+Richard Kelly	Donnie Darko 
+Beto Gómez	Saving Private Perez 
+Mike van Diem	Character 
+Jonas Åkerlund	Spun 
+Todd Solondz	Life During Wartime 
+Chan-wook Park	Lady Vengeance 
+René Féret	Mozart's Sister 
+Barry Skolnick	Mean Machine 
+Johnnie To	Exiled 
+Mateo Gil	Blackthorn 
+Lukas Moodysson	Lilya 4-Ever 
+Agnieszka Wojtowicz-Vosloo	After.Life 
+Kabir Sadanand	Fugly 
+Milos Forman	One Flew Over the Cuckoo's Nest 
+Peter DeLuise	R.L. Stine's Monsterville: The Cabinet of Souls 
+Mel Brooks	Silent Movie 
+Raja Menon	Airlift 
+Ernie Barbarash	Falcon Rising 
+Nick Love	The Sweeney 
+Jonathan Glazer	Sexy Beast 
+Daniel Espinosa	Easy Money 
+Niki Caro	Whale Rider 
+R. Balki	Paa 
+Ivan Engler	Cargo 
+Joe Wright	Pan 
+Kenny Ortega	High School Musical 
+Richard Kwietniowski	Love and Death on Long Island 
+Timur Bekmambetov	Night Watch 
+Neil Jordan	The Crying Game 
+Bob Clark	Porky's 
+George A. Romero	Survival of the Dead 
+George A. Romero	Night of the Living Dead 
+Sofia Coppola	Lost in Translation 
+Woody Allen	Annie Hall 
+Cecil B. DeMille	The Greatest Show on Earth 
+Ridley Scott	Exodus: Gods and Kings 
+Marc Forster	Monster's Ball 
+Henry Hobson	Maggie 
+Mike Figgis	Leaving Las Vegas 
+Duane Journey	Hansel & Gretel Get Baked 
+Dan O'Bannon	The Return of the Living Dead 
+Billy Wilder	The Front Page 
+Rob Cohen	The Boy Next Door 
+Carol Reed	Trapeze 
+Lisa Cholodenko	The Kids Are All Right 
+John Carpenter	They Live 
+John Sturges	The Great Escape 
+William Arntz	What the #$*! Do We (K)now!? 
+Ed Gass-Donnelly	The Last Exorcism Part II 
+Richard Linklater	Boyhood 
+Woody Allen	Scoop 
+Tim Burton	Planet of the Apes 
+DJ Pooh	The Wash 
+DJ Pooh	3 Strikes 
+Wayne Kramer	The Cooler 
+John Huston	The Misfits 
+Patrick Stettner	The Night Listener 
+James Melkonian	The Jerky Boys 
+Wes Craven	My Soul to Take 
+J.A. Bayona	The Orphanage 
+Michael Tiddes	A Haunted House 2 
+Roger Avary	The Rules of Attraction 
+Alfred Hitchcock	Topaz 
+Bob Odenkirk	Let's Go to Prison 
+Allison Anders	Four Rooms 
+Steven Shainberg	Secretary 
+Rick de Oliveira	The Real Cancun 
+Oliver Stone	Talk Radio 
+Christopher Guest	Waiting for Guffman 
+Jeff Franklin	Love Stinks 
+John Dahl	You Kill Me 
+Mike Mills	Thumbsucker 
+Kevin Smith	Red State 
+Dave McKean	Mirrormask 
+Ron Fricke	Samsara 
+Ruggero Deodato	The Barbarians 
+Gavin Wiesen	The Art of Getting By 
+Mora Stephens	Zipper 
+Mars Callahan	Poolhall Junkies 
+Mike Figgis	The Loss of Sexual Innocence 
+Leos Carax	Holy Motors 
+David Gordon Green	Joe 
+Stefan Schwartz	Shooting Fish 
+Renny Harlin	Prison 
+Robert Lee King	Psycho Beach Party 
+Kevin Allen	The Big Tease 
+Jorge Ramírez Suárez	"Buen Día, Ramón "
+David Schwimmer	Trust 
+Barry Levinson	An Everlasting Piece 
+Sam Miller	Among Giants 
+Anne Fontaine	Adore 
+Dan Ireland	The Velocity of Gary 
+Fernando León de Aranoa	Mondays in the Sun 
+Jim Mickle	Stake Land 
+Stephen Kay	The Last Time I Committed Suicide 
+Karim Aïnouz	Futuro Beach 
+Sam Levinson	Another Happy Day 
+Julian Gilbey	A Lonely Place to Die 
+Vincenzo Natali	Nothing 
+Aleksandr Veledinskiy	The Geographer Drank His Globe Away 
+Peter H. Hunt	1776 
+Ruba Nadda	Inescapable 
+Howard Hughes	Hell's Angels 
+Edward Burns	Purple Violets 
+Phil Joanou	The Veil 
+Sean Byrne	The Loved Ones 
+Chris Stokes	No Vacancy 
+Mark Griffiths	How to Fall in Love 
+Bruce Macdonald	The Perfect Wave 
+Timur Bekmambetov	Ben-Hur 
+Fred Zinnemann	A Man for All Seasons 
+Sidney Lumet	Network 
+Victor Fleming	Gone with the Wind 
+Richard Raymond	Desert Dancer 
+Sam Peckinpah	Major Dundee 
+Alan Jacobs	Down for Life 
+George Sidney	Annie Get Your Gun 
+Christopher Morris	Four Lions 
+Andrucha Waddington	House of Sand 
+Peter Stebbings	Defendor 
+Vincente Minnelli	The Pirate 
+Dagur Kári	The Good Heart 
+Nicholas Hytner	The History Boys 
+Jaume Collet-Serra	Unknown 
+John Schlesinger	Midnight Cowboy 
+Peter Cattaneo	The Full Monty 
+Jim Abrahams	Airplane! 
+Kevin Carraway	Chain of Command 
+F. Gary Gray	Friday 
+Albert Hughes	Menace II Society 
+Michael Gornick	Creepshow 2 
+Sam Peckinpah	The Ballad of Cable Hogue 
+Richard Brooks	In Cold Blood 
+Fred Zinnemann	The Nun's Story 
+Jack Smight	Harper 
+Alfred Hitchcock	Frenzy 
+Robert Eggers	The Witch 
+Michael Martin	I Got the Hook Up 
+Edward Burns	She's the One 
+Bill Condon	Gods and Monsters 
+Juan José Campanella	The Secret in Their Eyes 
+George A. Romero	Day of the Dead 
+Gideon Raff	Train 
+Sam Raimi	Evil Dead II 
+Louis C.K.	Pootie Tang 
+Anthony C. Ferrante	Sharknado 
+Salvador Carrasco	La otra conquista 
+André Øvredal	Trollhunter 
+Robert Cary	Ira & Abby 
+Akiva Schaffer	The Watch 
+Adam Rapp	Winter Passing 
+Angela Robinson	D.E.B.S. 
+Warren P. Sonoda	The Masked Saint 
+Amanda Gusack	The Betrayed 
+Avi Nesher	Taxman 
+Charles Adelman	2:13 
+Jay Oliva	"Batman: The Dark Knight Returns, Part 2 "
+Charles Ferguson	Time to Choose 
+Uwe Boll	In the Name of the King: The Last Job 
+Mark Young	Wicked Blood 
+Daniel Petrie Jr.	Dawn Patrol 
+Antonio Simoncini	Lords of London 
+Mel Brooks	High Anxiety 
+Luc Jacquet	March of the Penguins 
+J.C. Chandor	Margin Call 
+Eldar Rapaport	August 
+Clark Gregg	Choke 
+Damien Chazelle	Whiplash 
+Fernando Meirelles	City of God 
+Justin Kerrigan	Human Traffic 
+Nathan Frankowski	Day One 
+Karen Moncrieff	The Dead Girl 
+Thomas Vinterberg	The Hunt 
+Bob Clark	A Christmas Story 
+Alejandro Monteverde	Bella 
+Mark L. Lester	Class of 1984 
+Jennifer Finnigan	The Opposite Sex 
+Eric Styles	Dreaming of Joseph Lees 
+Laurent Cantet	The Class 
+Roman Polanski	Rosemary's Baby 
+John Ford	The Man Who Shot Liberty Valance 
+Max Mayer	Adam 
+Joshua Marston	Maria Full of Grace 
+Mike Mills	Beginners 
+John Gulager	Feast 
+John Landis	Animal House 
+Guy Hamilton	Goldfinger 
+Brandon Cronenberg	Antiviral 
+Frank Capra	It's a Wonderful Life 
+Danny Boyle	Trainspotting 
+Spike Lee	The Original Kings of Comedy 
+Tod Williams	Paranormal Activity 2 
+Kirk Jones	Waking Ned Devine 
+Michael Moore	Bowling for Columbine 
+Yimou Zhang	Coming Home 
+Jack Sholder	A Nightmare on Elm Street 2: Freddy's Revenge 
+James Ivory	A Room with a View 
+James DeMonaco	The Purge 
+Scott Derrickson	Sinister 
+David Raynr	Martin Lawrence Live: Runteldat 
+Richard Brooks	Cat on a Hot Tin Roof 
+Ted Post	Beneath the Planet of the Apes 
+Charles Martin Smith	Air Bud 
+Kunihiko Yuyama	Pokémon 3: The Movie 
+Tom McLoughlin	Jason Lives: Friday the 13th Part VI 
+David Lean	The Bridge on the River Kwai 
+Patrick Read Johnson	Spaced Invaders 
+Alfred Hitchcock	Family Plot 
+Billy Wilder	The Apartment 
+Adam Marcus	Jason Goes to Hell: The Final Friday 
+Alfred Hitchcock	Torn Curtain 
+Michel Gondry	Dave Chappelle's Block Party 
+John Maclean	Slow West 
+Michael Schultz	Krush Groove 
+Benny Boom	Next Day Air 
+Richard Brooks	Elmer Gantry 
+Stanley Kramer	Judgment at Nuremberg 
+David Raynr	Trippin' 
+Howard Hawks	Red River 
+Nnegest Likké	Phat Girlz 
+Richard Linklater	Before Midnight 
+Christopher Leitch	Teen Wolf Too 
+Don Coscarelli	Phantasm II 
+Michael Schultz	Woman Thou Art Loosed 
+Patricia Cardoso	Real Women Have Curves 
+Deepa Mehta	Water 
+Damien O'Donnell	East Is East 
+Peter M. Cohen	Whipped 
+Mira Nair	Kama Sutra: A Tale of Love 
+Nicole Holofcener	Please Give 
+Mel Stuart	Willy Wonka & the Chocolate Factory 
+Anthony Hickox	Warlock: The Armageddon 
+Tom Schulman	8 Heads in a Duffel Bag 
+Terrence Malick	Days of Heaven 
+Jill Sprecher	Thirteen Conversations About One Thing 
+Darren Stein	Jawbreaker 
+Julian Schnabel	Basquiat 
+Noah Baumbach	Frances Ha 
+Gavin Hood	Tsotsi 
+Todd Solondz	Happiness 
+George Gallo	DysFunktional Family 
+Kevin Smith	Tusk 
+Chan-wook Park	Oldboy 
+David Nixon	Letters to God 
+Jason Eisener	Hobo with a Shotgun 
+Enrique Begne	Compadres 
+Matthew Bright	Freeway 
+Michael Landon Jr.	Love's Abiding Joy 
+Andrea Arnold	Fish Tank 
+Whit Stillman	Damsels in Distress 
+Leslye Headland	Bachelorette 
+Bobby Roth	Brave New Girl 
+Tim Heidecker	Tim and Eric's Billion Dollar Movie 
+Rupert Wyatt	The Gambler 
+Marco Kreuzpaintner	Summer Storm 
+Kate Connor	Fort McCoy 
+Deon Taylor	Chain Letter 
+Jason Alexander	Just Looking 
+Xavier Gens	The Divide 
+Conor McPherson	The Eclipse 
+Will Canon	Demonic 
+Philip Zlotorynski	My Big Fat Independent Movie 
+Tim Burton	Alice in Wonderland 
+Lance Kawas	The Deported 
+Francesca Gregorini	Tanner Hall 
+Marcio Garcia	Open Road 
+David Wain	They Came Together 
+Craig Moss	30 Nights of Paranormal Activity with the Devil Inside the Girl with the Dragon Tattoo 
+Michael Jai White	Never Back Down 2: The Beatdown 
+John Boorman	Point Blank 
+Paolo Monico	Four Single Fathers 
+Youssef Delara	Enter the Dangerous Mind 
+Christian Sesma	AWOL-72 
+Monte Hellman	Iguana 
+Kenneth Branagh	Cinderella 
+Brian Caunter	Chicago Overcoat 
+Chris D'Arienzo	Barry Munday 
+Walter Salles	Central Station 
+Frank Capra	Pocketful of Miracles 
+Isaac Florentine	Close Range 
+Susan Seidelman	Boynton Beach Club 
+Michael Polish	Amnesiac 
+Heidi Ewing	Freakonomics 
+Richard Donner	The Omen 
+Alexandre Aja	High Tension 
+Leon Ford	Griff the Invisible 
+Hank Braxtan	Unnatural 
+Craig Brewer	Hustle & Flow 
+Billy Wilder	Some Like It Hot 
+John Carl Buechler	Friday the 13th Part VII: The New Blood 
+Victor Fleming	The Wizard of Oz 
+Mel Brooks	Young Frankenstein 
+George A. Romero	Diary of the Dead 
+Rajkumar Hirani	Lage Raho Munna Bhai 
+Victor Nunez	Ulee's Gold 
+Carroll Ballard	The Black Stallion 
+Rohit Jugraj	Sardaar Ji 
+Thorbjørn Christoffersen	Journey to Saturn 
+John Ford	Donovan's Reef 
+Alex van Warmerdam	The Dress 
+Victor Fleming	A Guy Named Joe 
+Mel Brooks	Blazing Saddles 
+Joseph Zito	Friday the 13th: The Final Chapter 
+Pawel Pawlikowski	Ida 
+James Ivory	Maurice 
+Frank Sebastiano	Beer League 
+Rand Ravich	The Astronaut's Wife 
+Stacy Peralta	Riding Giants 
+Nacho Vigalondo	Timecrimes 
+Hao Ning	Silver Medallist 
+Tony Giglio	Timber Falls 
+Stanley Donen	Singin' in the Rain 
+Joe Cross	"Fat, Sick & Nearly Dead "
+Michael Tiddes	A Haunted House 
+Dinesh D'Souza	2016: Obama's America 
+Rob Zombie	Halloween II 
+Tom Hanks	That Thing You Do! 
+Tommy Lee Wallace	Halloween III: Season of the Witch 
+Don Taylor	Escape from the Planet of the Apes 
+Martin Ritt	Hud 
+Leslie Small	Kevin Hart: Let Me Explain 
+Gus Van Sant	My Own Private Idaho 
+Zach Braff	Garden State 
+Richard Linklater	Before Sunrise 
+Éric Tessier	Sur le seuil 
+Alison Maclean	Jesus' Son 
+Alice Wu	Saving Face 
+Sarah Gavron	Brick Lane 
+Jake Schreier	Robot & Frank 
+Isabel Coixet	My Life Without Me 
+James Ponsoldt	The Spectacular Now 
+Randall Miller	Marilyn Hotchkiss' Ballroom Dancing and Charm School 
+Larry Charles	Religulous 
+Joshua Tickell	Fuel 
+Tim Boxell	Valley of the Heart's Delight 
+Rawson Marshall Thurber	Dodgeball: A True Underdog Story 
+Michael D. Sellers	Eye of the Dolphin 
+Reed Cowan	8: The Mormon Proposition 
+James Dodson	The Other End of the Line 
+Stefan Ruzowitzky	Anatomy 
+Alex Rivera	Sleep Dealer 
+James Gunn	Super 
+John Murlowski	Christmas Mail 
+Benni Diez	Stung 
+Danny Perez	Antibirth 
+Spike Lee	Get on the Bus 
+Robby Henson	Thr3e 
+Mike Judge	Idiocracy 
+Shane Meadows	This Is England 
+Dominic Burns	Alien Uprising 
+George Sidney	Bathing Beauty 
+Carmen Marron	Go for It! 
+Tim McCanlies	"Dancer, Texas Pop. 81 "
+George Sidney	Show Boat 
+Mario Van Peebles	Redemption Road 
+Jason Stone	The Calling 
+Jerry Rees	The Brave Little Toaster 
+James Algar	Fantasia 
+William Friedkin	The French Connection 
+Jaco Booyens	8 Days 
+Steve Miner	Friday the 13th Part III 
+Danny Steinmann	Friday the 13th: A New Beginning 
+Michael Landon Jr.	The Last Sin Eater 
+Jon Gunn	Do You Believe? 
+Hayley Cloake	Impact Point 
+Tay Garnett	The Valley of Decision 
+Shyam Madiraju	Eden 
+Harmage Singh Kalirai	Chicken Tikka Masala 
+Rita Merson	Always Woodstock 
+Jon Knautz	Jack Brooks: Monster Slayer 
+William Wyler	The Best Years of Our Lives 
+Larry Clark	Bully 
+Petter Næss	Elling 
+Robert Fontaine	Mi America 
+Jaume Balagueró	[Rec] 
+Patricia Cardoso	Lies in Plain Sight 
+Dan Perri	Sharkskin 
+Neil Mcenery-West	Containment 
+Anthony O'Brien	The Timber 
+Terence Young	From Russia with Love 
+Michael Herz	The Toxic Avenger Part II 
+Woody Allen	Sleeper 
+David Robert Mitchell	It Follows 
+Woody Allen	Everything You Always Wanted to Know About Sex * But Were Afraid to Ask 
+Robert Mulligan	To Kill a Mockingbird 
+George Miller	Mad Max 2: The Road Warrior 
+Chia-Liang Liu	The Legend of Drunken Master 
+Stanley Kubrick	Lolita 
+Kimberly Peirce	Boys Don't Cry 
+Chris Kentis	Silent House 
+Florian Henckel von Donnersmarck	The Lives of Others 
+Alex Kendrick	Courageous 
+Robert Rossen	The Hustler 
+Jack Conway	Boom Town 
+Sylvain Chomet	The Triplets of Belleville 
+Chris Eyre	Smoke Signals 
+Shari Springer Berman	American Splendor 
+Richard Linklater	Before Sunset 
+Alejandro G. Iñárritu	Amores Perros 
+Catherine Hardwicke	Thirteen 
+Elia Kazan	Gentleman's Agreement 
+Debra Granik	Winter's Bone 
+Kevin Macdonald	Touching the Void 
+Henry King	Alexander's Ragtime Band 
+Miranda July	Me and You and Everyone We Know 
+Charles Ferguson	Inside Job 
+Max Joseph	We Are Your Friends 
+Jim Jarmusch	Ghost Dog: The Way of the Samurai 
+David Ayer	Harsh Times 
+Jerry Jameson	Captive 
+Steven Soderbergh	Full Frontal 
+Kevin Tenney	Witchboard 
+Kenneth Branagh	Hamlet 
+John Cameron Mitchell	Shortbus 
+Ari Folman	Waltz with Bashir 
+Gary Rogers	"The Book of Mormon Movie, Volume 1: The Journey "
+Charles Ferguson	No End in Sight 
+Marielle Heller	The Diary of a Teenage Girl 
+David Sington	In the Shadow of the Moon 
+Kelly Reichardt	Meek's Cutoff 
+Fenton Bailey	Inside Deep Throat 
+Bob Giraldi	Dinner Rush 
+Jill Sprecher	Clockwatchers 
+Huck Botko	The Virginity Hit 
+Luc Besson	Subway 
+David Duchovny	House of D 
+Mitchell Lichtenstein	Teeth 
+Lance Mungia	Six-String Samurai 
+Kundan Shah	Hum To Mohabbat Karega 
+Michael Dowse	It's All Gone Pete Tong 
+Hue Rhodes	Saint John of Las Vegas 
+Shane Meadows	24 7: Twenty Four Seven 
+Roland Emmerich	Stonewall 
+Jugal Hansraj	Roadside Romeo 
+Danny Provenzano	This Thing of Ours 
+Bill Muir	The Lost Medallion: The Adventures of Billy Stone 
+Richard LaGravenese	The Last Five Years 
+Noah Buschel	The Missing Person 
+Brian Yuzna	Return of the Living Dead III 
+Hunter Richards	London 
+Laurie Collyer	Sherrybaby 
+Bruce McCulloch	Stealing Harvard 
+Aaron Hann	Circle 
+James Watkins	Eden Lake 
+Catherine Hardwicke	Plush 
+Phil Claydon	Vampire Killers 
+Ralph Ziman	Gangster's Paradise: Jerusalema 
+John Simpson	Freeze Frame 
+Colin Minihan	Grave Encounters 
+Conor McMahon	Stitches 
+Chris Shadley	Nine Dead 
+Simon Napier-Bell	"To Be Frank, Sinatra at 100 "
+Woody Allen	Bananas 
+Simon Yin	Supercapitalist 
+Jeff Crook	Rockaway 
+Orson Welles	The Lady from Shanghai 
+Dave Payne	No Man's Land: The Rise of Reeker 
+James Cox	Highway 
+Brad Copeland	Coffee Town 
+Paul Bunnell	The Ghastly Love of Johnny X 
+Phil Morrison	All Is Bright 
+Harald Reinl	The Torture Chamber of Dr. Sadism 
+James Cox	Straight A's 
+Richard Lester	A Funny Thing Happened on the Way to the Forum 
+Michael Moore	Slacker Uprising 
+Tanner Beard	The Legend of Hell's Gate: An American Conspiracy 
+Scott Dow	The Walking Deceased 
+Derick Martini	The Curse of Downers Grove 
+Jerry Dugan	Shark Lake 
+Tim Hunter	River's Edge 
+Michael Polish	Northfork 
+William Kaufman	The Marine 4: Moving Target 
+Rodrigo Cortés	Buried 
+Richard Ayoade	Submarine 
+Jehane Noujaim	The Square 
+Pascal Arnold	One to Another 
+Kimberly Peirce	Carrie 
+Remo	ABCD (Any Body Can Dance) 
+Wes Craven	A Nightmare on Elm Street 
+James Marsh	Man on Wire 
+John Laing	Abandoned 
+Jamal Hill	Brotherly Love 
+Daniel Stamm	The Last Exorcism 
+Sam Taylor-Johnson	Nowhere Boy 
+Elia Kazan	A Streetcar Named Desire 
+Stanley Kubrick	Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb 
+Carlos Carrera	El crimen del padre Amaro 
+Benh Zeitlin	Beasts of the Southern Wild 
+J. Lee Thompson	Battle for the Planet of the Apes 
+Maggie Greenwald	Songcatcher 
+Vera Farmiga	Higher Ground 
+Vijay Chandar	Vaalu 
+Morgan Spurlock	The Greatest Movie Ever Sold 
+Jonathan Wacks	Ed and His Dead Mother 
+Khyentse Norbu	Travelers and Magicians 
+Ted Post	Hang 'Em High 
+Richard Brooks	Deadline - U.S.A. 
+Tony Krantz	Sublime 
+Mitchell Altieri	A Beginner's Guide to Snuff 
+W.D. Hogan	Independence Daysaster 
+Corey Grant	Dysfunctional Friends 
+Tom Tykwer	Run Lola Run 
+Lucky McKee	May 
+Richard Boddington	Against the Wild 
+David Hunt	Living Dark: The Story of Ted the Caver 
+Patricia Riggen	Under the Same Moon 
+J. Lee Thompson	Conquest of the Planet of the Apes 
+Todd Field	In the Bedroom 
+Steven R. Monroe	I Spit on Your Grave 
+Mark Illsley	"Happy, Texas "
+Pawel Pawlikowski	My Summer of Love 
+Ritesh Batra	The Lunchbox 
+Sally Potter	Yes 
+Frank Capra	You Can't Take It with You 
+Fred Zinnemann	From Here to Eternity 
+John Ford	She Wore a Yellow Ribbon 
+Brad J. Silverman	Grace Unplugged 
+Dave Meyers	Foolish 
+David M. Matthews	N-Secure 
+Nadine Labaki	Caramel 
+Lluís Quílez	Out of the Dark 
+Eytan Fox	The Bubble 
+Francis Ford Coppola	The Conversation 
+Romesh Sharma	Dil Jo Bhi Kahey... 
+François Truffaut	Mississippi Mermaid 
+Adam Goldberg	I Love Your Work 
+Travis Zariwny	Cabin Fever 
+Zack Snyder	Dawn of the Dead 
+Adrienne Shelly	Waitress 
+Newt Arnold	Bloodsport 
+Frank Capra	Mr. Smith Goes to Washington 
+Larry Clark	Kids 
+Noah Baumbach	The Squid and the Whale 
+Charles Herman-Wurmfeld	Kissing Jessica Stein 
+Yimou Zhang	"A Woman, a Gun and a Noodle Shop "
+Alfred Hitchcock	Spellbound 
+Atom Egoyan	Exotica 
+Vincent Gallo	Buffalo '66 
+James Wan	Insidious 
+Alex Cox	Repo Man 
+Fabián Bielinsky	Nine Queens 
+Dror Moreh	The Gatekeepers 
+Rebecca Miller	The Ballad of Jack and Rose 
+Maggie Carey	The To Do List 
+Roger Avary	Killing Zoe 
+Henry Bean	The Believer 
+David Gordon Green	Snow Angels 
+Simeon Rice	Unsullied 
+Brad Anderson	Session 9 
+Jeff Garlin	I Want Someone to Eat Cheese With 
+Qasim Basir	Mooz-Lum 
+Adam Green	Hatchet 
+Charles Chaplin	Modern Times 
+Pete Jones	Stolen Summer 
+Bruce Campbell	My Name Is Bruce 
+Mark Brown	The Salon 
+Adam Carolla	Road Hard 
+Ira Sachs	Forty Shades of Blue 
+John Sayles	Amigo 
+Bruce McDonald	Pontypool 
+James Mottern	Trucker 
+Jaime Zevallos	Me You and Five Bucks 
+Rob Zombie	The Lords of Salem 
+Gerard Johnstone	Housebound 
+Robert Greenwald	Wal-Mart: The High Cost of Low Price 
+David Ray	Fetching Cody 
+Nae Caranfil	Closer to the Moon 
+David Winning	Mutant World 
+Frank Lotito	Growing Up Smith 
+Timothy Woodward Jr.	Checkmate 
+Christopher McQuarrie	Jack Reacher 
+Tara Subkoff	#Horror 
+Russell Friedenberg	Wind Walkers 
+William Cottrell	Snow White and the Seven Dwarfs 
+Lucrecia Martel	The Holy Girl 
+Edward Dmytryk	Shalako 
+Zak Penn	Incident at Loch Ness 
+Alex Ranarivelo	The Dog Lover 
+Jon Knautz	Girl House 
+Mathieu Amalric	The Blue Room 
+David Worth	House at the End of the Drive 
+Leslie H. Martinson	Batman: The Movie 
+Guy Ritchie	"Lock, Stock and Two Smoking Barrels "
+Robert M. Young	The Ballad of Gregorio Cortez 
+Thomas Vinterberg	The Celebration 
+Steve Buscemi	Trees Lounge 
+Ham Tran	Journey from the Fall 
+Rich Cowan	The Basket 
+Boris Rodriguez	Eddie: The Sleepwalking Cannibal 
+Harold Becker	Mercury Rising 
+Sadyk Sher-Niyaz	Queen of the Mountains 
+Paul Donovan	Def-Con 4 
+Jonathan Kesselman	The Hebrew Hammer 
+Arjun Sablok	Neal 'N' Nikki 
+Craig Moss	The 41-Year-Old Virgin Who Knocked Up Sarah Marshall and Felt Superbad About It 
+Tyler Oliver	Forget Me Not 
+Alfred Hitchcock	Rebecca 
+Steve Miner	Friday the 13th Part 2 
+Billy Wilder	The Lost Weekend 
+Douglas Cheek	C.H.U.D. 
+Youssef Delara	Filly Brown 
+Deryck Broom	The Lion of Judah 
+Henry Hathaway	Niagara 
+John Ford	How Green Was My Valley 
+Spike Lee	Da Sweet Blood of Jesus 
+Steven Soderbergh	"Sex, Lies, and Videotape "
+James Wan	Saw 
+Jay Chandrasekhar	Super Troopers 
+Giovanni Zelko	The Algerian 
+Claudia Sainte-Luce	The Amazing Catfish 
+Scott Derrickson	The Day the Earth Stood Still 
+Mira Nair	Monsoon Wedding 
+Kenneth Lonergan	You Can Count on Me 
+Alfred Hitchcock	The Trouble with Harry 
+Paul McGuigan	Lucky Number Slevin 
+Jamie Babbit	But I'm a Cheerleader 
+David Boyd	Home Run 
+Quentin Tarantino	Reservoir Dogs 
+Walter Lang	The Blue Bird 
+Sergio Leone	"The Good, the Bad and the Ugly "
+Anna Muylaert	The Second Mother 
+Steve Taylor	Blue Like Jazz 
+Kurt Voss	Down and Out with the Dolls 
+Léa Pool	"Pink Ribbons, Inc. "
+James David Pasternak	Certifiably Jonathan 
+Laurent Bouhnik	Q 
+Tom Sanchez	The Knife of Don Juan 
+David Caffrey	Grand Theft Parsons 
+Adam Jay Epstein	Extreme Movie 
+Michael Curtiz	The Charge of the Light Brigade 
+Justin Thomas Ostensen	Below Zero 
+Brenton Spencer	Crowsnest 
+Rob Bowman	Airborne 
+Ossie Davis	Cotton Comes to Harlem 
+Jay Alaimo	The Wicked Within 
+Dylan Bank	Bleeding Hearts 
+Rob McKittrick	Waiting... 
+Shane Meadows	Dead Man's Shoes 
+Jeff Burr	From a Whisper to a Scream 
+Harry Gantz	Sex with Strangers 
+Guy Maddin	Dracula: Pages from a Virgin's Diary 
+Regardt van den Bergh	Faith Like Potatoes 
+Panos Cosmatos	Beyond the Black Rainbow 
+Gareth Evans	The Raid: Redemption 
+Matthew R. Anderson	The Dead Undead 
+Joe Marino	The Vatican Exorcisms 
+Michael Curtiz	Casablanca 
+Joel Anderson	Lake Mungo 
+Shimit Amin	Rocket Singh: Salesman of the Year 
+Douglas Trumbull	Silent Running 
+John G. Avildsen	Rocky 
+Mona Fastvold	The Sleepwalker 
+John Carpenter	The Fog 
+Tony Richardson	Tom Jones 
+Levan Gabriadze	Unfriended 
+Martin Scorsese	Taxi Driver 
+Joe Dante	The Howling 
+Terence Young	Dr. No 
+Bradley Parker	Chernobyl Diaries 
+Clive Barker	Hellraiser 
+Harold Cronk	God's Not Dead 2 
+Jeff Wadlow	Cry_Wolf 
+Takao Okawara	Godzilla 2000 
+Derek Cianfrance	Blue Valentine 
+Duncan Tucker	Transamerica 
+William Brent Bell	The Devil Inside 
+Russ Meyer	Beyond the Valley of the Dolls 
+Robert D. Webb	Love Me Tender 
+Davis Guggenheim	An Inconvenient Truth 
+Allan Dwan	Sands of Iwo Jima 
+Martin Scorsese	Shine a Light 
+Eli Roth	The Green Inferno 
+Andrew Steggall	Departure 
+Ben Lewin	The Sessions 
+Robert Kenner	"Food, Inc. "
+Andrew Erwin	October Baby 
+Brad Anderson	Next Stop Wonderland 
+Jason Reitman	Juno 
+Craig Johnson	The Skeleton Twins 
+Sean Durkin	Martha Marcy May Marlene 
+Gillian Robespierre	Obvious Child 
+Courtney Hunt	Frozen River 
+Morgan Neville	20 Feet from Stardom 
+James Toback	Two Girls and a Guy 
+Nicole Holofcener	Walking and Talking 
+Peter Cattaneo	The Full Monty 
+Chris Paine	Who Killed the Electric Car? 
+Greg Berlanti	The Broken Hearts Club: A Romantic Comedy 
+Don Coscarelli	Bubba Ho-Tep 
+Rob Letterman	Goosebumps 
+Marc Levin	Slam 
+Richard Dutcher	Brigham City 
+Khalid Mohamed	Fiza 
+Mel Brooks	History of the World: Part I 
+Trey Parker	Orgazmo 
+David Gordon Green	All the Real Girls 
+Finn Taylor	Dream with the Fishes 
+Karen Moncrieff	Blue Car 
+José Luis Valenzuela	Luminarias 
+Gia Coppola	Palo Alto 
+Scandar Copti	Ajami 
+Goran Dukic	Wristcutters: A Love Story 
+Mike Cahill	I Origins 
+Efram Potelle	The Battle of Shaker Heights 
+Peter Jackson	The Lovely Bones 
+Joshua Oppenheimer	The Act of Killing 
+Alex Gibney	Taxi to the Dark Side 
+Paul Crowder	Once in a Lifetime: The Extraordinary Story of the New York Cosmos 
+Rohit Jagessar	Guiana 1838 
+Griffin Dunne	Lisa Picard Is Famous 
+Anthony Powell	Antarctica: A Year on Ice 
+Kief Davidson	A Lego Brickumentary 
+Johnny Remo	Hardflip 
+Vivek Agnihotri	Chocolate: Deep Dark Secrets 
+Ti West	The House of the Devil 
+Nick Tomnay	The Perfect Host 
+John Hamburg	Safe Men 
+Nickolas Perry	Speedway Junky 
+Dan Zukovic	The Last Big Thing 
+Craig Mazin	The Specials 
+Becky Smith	16 to Life 
+Eric Nicholas	Alone with Her 
+Benjamin Dickinson	Creative Control 
+Hal Haberman	Special 
+Darren Stein	Sparkler 
+A. Raven Cruz	The Helix... Loaded 
+Brian Trenchard-Smith	In Her Line of Fire 
+Frank Whaley	The Jimmy Show 
+Amat Escalante	Heli 
+Wajahat Rauf	Karachi se Lahore 
+Katherine Brooks	Loving Annabelle 
+David Cross	Hits 
+Randall Rubin	Jimmy and Judy 
+Robert Bennett	Frat Party 
+Guy Hamilton	The Party's Over 
+Mary Pat Kelly	Proud 
+Lori Petty	The Poker House 
+Charlie Levi	Childless 
+Kevin Hamedani	ZMD: Zombies of Mass Destruction 
+David DeCoteau	Snow White: A Deadly Summer 
+Mikel Rueda	Hidden Away 
+Stefan C. Schaefer	My Last Day Without You 
+Michael Taliferro	Steppin: The Movie 
+David DeCoteau	Doc Holliday's Revenge 
+Katie Aselton	Black Rock 
+Robert Heath	Truth or Die 
+D. Stevens	The Pet 
+Jeffrey St. Jules	Bang Bang Baby 
+Robert Hall	Fear Clinic 
+K. King	Zombie Hunter 
+Danny Boyle	Trance 
+Ralph Nelson	Charly 
+Blair Erickson	Banshee Chapter 
+Allison Burnett	Ask Me Anything 
+Richard Schenkman	And Then Came Love 
+Sanjay Rawal	Food Chains 
+Elia Kazan	On the Waterfront 
+Kat Coiro	L!fe Happens 
+Cristian Mungiu	"4 Months, 3 Weeks and 2 Days "
+Brian Dorton	The Horror Network Vol. 1 
+David Slade	Hard Candy 
+Jamie Babbit	The Quiet 
+Maryam Keshavarz	Circumstance 
+Ryan Coogler	Fruitvale Station 
+Ramaa Mosley	The Brass Teapot 
+James Algar	Bambi 
+Charles Herman-Wurmfeld	The Hammer 
+Ric Roman Waugh	Snitch 
+C. Jay Cox	Latter Days 
+Mariette Monpierre	Elza 
+Tommy Oliver	1982 
+Jamie Travis	"For a Good Time, Call... "
+Lee Toland Krieger	Celeste & Jesse Forever 
+Rich Christiano	Time Changer 
+Paul Andrew Williams	London to Brighton 
+Nick Love	American Hero 
+Natalie Bible'	Windsor Drive 
+Asghar Farhadi	A Separation 
+Justin Molotnikov	Crying with Laughter 
+Todd Solondz	Welcome to the Dollhouse 
+Victor Nunez	Ruby in Paradise 
+Peter Sollett	Raising Victor Vargas 
+Georg Wilhelm Pabst	Pandora's Box 
+Daniel Davila	Harrison Montgomery 
+Jorge Gaggero	Live-In Maid 
+Rod Lurie	Deterrence 
+Michael Burke	The Mudge Boy 
+Catherine Jelski	The Young Unknowns 
+Shane Dawson	Not Cool 
+Tommy Wirkola	Dead Snow 
+Ryan Little	Saints and Soldiers 
+Clark Baker	Vessel 
+George Lucas	American Graffiti 
+Robert Greenwald	Iraq for Sale: The War Profiteers 
+Matt Maiellaro	Aqua Teen Hunger Force Colon Movie Film for Theaters 
+Colin Trevorrow	Safety Not Guaranteed 
+Leslie Small	Kevin Hart: Laugh at My Pain 
+Ben Wheatley	Kill List 
+Ti West	The Innkeepers 
+David S. Goyer	The Unborn 
+Bernardo Bertolucci	The Conformist 
+Neil Burger	Interview with the Assassin 
+Oliver Blackburn	Donkey Punch 
+Jonathan Levine	All the Boys Love Mandy Lane 
+Christopher Hutson	Bled 
+Fred Zinnemann	High Noon 
+Steve James	Hoop Dreams 
+David LaChapelle	Rize 
+Joseph Kosinski	Destiny 
+Michael Cuesta	L.I.E. 
+Caryn Waechter	The Sisterhood of Night 
+Emily Dell	B-Girl 
+Peter Jackson	King Kong 
+Jaume Collet-Serra	House of Wax 
+Ryan Fleck	Half Nelson 
+Jennifer Wynne Farmer	Naturally Native 
+Christopher Scott Cherot	Hav Plenty 
+H.M. Coakley	Adulterers 
+Randy Moore	Escape from Tomorrow 
+Chris Atkins	Starsuckers 
+Bill Benenson	The Hadza: Last of the First 
+Ryan Smith	After 
+Travis Romero	Treachery 
+Anna Mastro	Walter 
+Mark Sandrich	Top Hat 
+Daniel Myrick	The Blair Witch Project 
+Michael Wadleigh	Woodstock 
+John Landis	The Kentucky Fried Movie 
+Jon Gunn	Mercy Streets 
+Gene Teigland	Arnolds Park 
+Scott Ziehl	Broken Vessels 
+Richard Montoya	Water & Power 
+Johanna Schwartz	They Will Have to Kill Us First 
+William Gazecki	Crop Circles: Quest for Truth 
+Lance McDaniel	Light from the Darkroom 
+Thomas Lilti	Irreplaceable 
+Michael Walker	The Maid's Room 
+Richard Lester	A Hard Day's Night 
+U. Roberto Romano	The Harvest/La Cosecha 
+Amy Holden Jones	Love Letters 
+Blaz Zavrsnik	Julija in alfa Romeo 
+Alex Kendrick	Fireproof 
+Pan Nalin	Faith Connections 
+Joe Camp	Benji 
+Chris Kentis	Open Water 
+Matt Walsh	High Road 
+John 'Bud' Cardos	Kingdom of the Spiders 
+Marilyn Agrelo	Mad Hot Ballroom 
+Tom McCarthy	The Station Agent 
+Brian Baugh	To Save a Life 
+Patrick Creadon	Wordplay 
+Barry W. Blaustein	Beyond the Mat 
+Kurt Hale	The Singles Ward 
+Siddiq Barmak	Osama 
+Joseph Dorman	Sholem Aleichem: Laughing in the Darkness 
+Greg Harrison	Groove 
+Kurt Hale	The R.M. 
+Michael Polish	Twin Falls Idaho 
+Jacob Aaron Estes	Mean Creek 
+Morgan J. Freeman	Hurricane Streets 
+Eric Schaeffer	Never Again 
+Neema Barnette	Civil Brand 
+Steve Buscemi	Lonesome Jim 
+Joe Swanberg	Drinking Buddies 
+Molly Bernstein	Deceptive Practice: The Mysteries and Mentors of Ricky Jay 
+Akira Kurosawa	Seven Samurai 
+Marius A. Markevicius	The Other Dream Team 
+Tom DiCillo	Johnny Suede 
+Justin Lin	Finishing the Game: The Search for a New Bruce Lee 
+Quentin Dupieux	Rubber 
+Tim Johnson	Home 
+C. Jay Cox	Kiss the Bride 
+Alex Smith	The Slaughter Rule 
+Gareth Edwards	Monsters 
+Jonathan Parker	The Californians 
+Sol Tryon	The Living Wake 
+Alex Craig Mann	Detention of the Dead 
+Hao Ning	Crazy Stone 
+Stephen Kijak	Scott Walker: 30 Century Man 
+Marc Forster	Everything Put Together 
+Andrew Niccol	Good Kill 
+Daston Kalili	Insomnia Manica 
+William Gazecki	The Outrageous Sophie Tucker 
+Ol Parker	Now Is Good 
+Michael Hoffman Jr.	Girls Gone Dead 
+Patrick Gilles	America Is Still the Place 
+Georgia Hilton	Subconscious 
+Tamra Davis	Crossroads 
+Jack Heller	Enter Nowhere 
+Fernando Baez Mella	The King of Najayo 
+Warren Sheppard	Fight to the Finish 
+Darren Lynn Bousman	Alleluia! The Devil's Carnival 
+Justin Paul Miller	The Sound and the Shadow 
+Joel Paul Reisig	Rodeo Girl 
+Catherine Gund	Born to Fly: Elizabeth Streb vs. Gravity 
+Luke Dye	The Little Ponderosa Zoo 
+Sam Raimi	Oz the Great and Powerful 
+Michael Herz	The Toxic Avenger 
+Matty Rich	Straight Out of Brooklyn 
+Paul Greengrass	Bloody Sunday 
+Alec Asten	Diamond Ruff 
+Hans Canosa	Conversations with Other Women 
+Lloyd Kaufman	Poultrygeist: Night of the Chicken Dead 
+Matthew Watts	Mutual Friends 
+Lloyd Bacon	42nd Street 
+Joe Kenemore	Rise of the Entrepreneur: The Search for a Better Way 
+Whit Stillman	Metropolitan 
+Kay Pollak	As It Is in Heaven 
+Eric England	Roadside 
+Jared Hess	Napoleon Dynamite 
+Jeremy Saulnier	Blue Ruin 
+Oren Peli	Paranormal Activity 
+Stacy Peralta	Dogtown and Z-Boys 
+Terry Gilliam	Monty Python and the Holy Grail 
+Richard Glatzer	Quinceañera 
+Sue Corcoran	Gory Gory Hallelujah 
+Jonathan Caouette	Tarnation 
+Ray Griggs	I Want Your Money 
+Matt Jackson	Love in the Time of Monsters 
+Lucio Fulci	The Beyond 
+Tom Vaughan	What Happens in Vegas 
+Paul Fox	The Dark Hours 
+Stephen Frears	My Beautiful Laundrette 
+Ari Kirschenbaum	Fabled 
+Cassandra Nicolaou	Show Me 
+Ingmar Bergman	Cries & Whispers 
+D.W. Griffith	Intolerance: Love's Struggle Throughout the Ages 
+Roger Nygard	Trekkies 
+Harry Beaumont	The Broadway Melody 
+Sam Raimi	The Evil Dead 
+Franck Khalfoun	Maniac 
+Mor Loushy	Censored Voices 
+Henry Alex Rubin	Murderball 
+Sam Firstenberg	American Ninja 2: The Confrontation 
+Doug Block	51 Birch Street 
+Chad Kapper	Rotor DR1 
+John Carpenter	Halloween 
+Sidney Lumet	12 Angry Men 
+Paul Fierlinger	My Dog Tulip 
+Frank Capra	It Happened One Night 
+Yorgos Lanthimos	Dogtooth 
+Lauren Lazin	Tupac: Resurrection 
+Gavin O'Connor	Tumbleweeds 
+Gregory Widen	The Prophecy 
+Cédric Klapisch	When the Cat's Away 
+Peter Hedges	Pieces of April 
+Niall Johnson	The Big Swap 
+Kelly Reichardt	Old Joy 
+Kelly Reichardt	Wendy and Lucy 
+Eric Mendelsohn	3 Backyards 
+Jean-Luc Godard	Pierrot le Fou 
+Florence Ayisi	Sisters in Law 
+Pan Nalin	Ayurveda: Art of Being 
+Michael Roemer	Nothing But a Man 
+Jesse Peretz	"First Love, Last Rites "
+Eddie O'Flaherty	Fighting Tommy Riley 
+Babar Ahmed	Royal Kill 
+Julie Taymor	Across the Universe 
+John D. Hancock	The Looking Glass 
+Paul Bartel	Death Race 2000 
+Bruce Dellis	Locker 13 
+Jerome Elston Scott	Anderson's Cross 
+Étienne Faure	Bizarre 
+Herb Freed	Graduation Day 
+Jack Perez	Some Guy Who Kills People 
+Craig Zobel	Compliance 
+Kevin Smith	Chasing Amy 
+Nicole Holofcener	Lovely & Amazing 
+Ken Del Conte	Death Calls 
+Justin Lin	Better Luck Tomorrow 
+Maria Maggenti	The Incredibly True Adventure of Two Girls in Love 
+Miguel Arteta	Chuck & Buck 
+Piyush Dinker Pandya	American Desi 
+Daniel Columbie	Amidst the Devil's Wings 
+Vincenzo Natali	Cube 
+Emma-Kate Croghan	Love and Other Catastrophes 
+Bill Plympton	I Married a Strange Person! 
+Greg Harrison	November 
+Drake Doremus	Like Crazy 
+Al Franklin	Teeth and Blood 
+Allison Anders	Sugar Town 
+Michael Kang	The Motel 
+Paul Schrader	The Canyons 
+Lori Silverbush	On the Outs 
+Jeff Nichols	Shotgun Stories 
+Stuart Hazeldine	Exam 
+Hilary Brougher	The Sticky Fingers of Time 
+Rachel Goldenberg	Sunday School Musical 
+Corbin Bernsen	Rust 
+Jamin Winans	Ink 
+Tom Seidman	The Christmas Bunny 
+Jason Naumann	Jesus People 
+Matt Cimber	Butterfly 
+Sam Martin	UnDivided 
+Andrew Hyatt	The Frozen 
+Dan Curtis	The Love Letter 
+Joel Paul Reisig	Horse Camp 
+Kristin Rizzo	Give Me Shelter 
+King Vidor	The Big Parade 
+Ward Roberts	Little Big Top 
+Zoran Lisinac	Along the Roadside 
+Nicolas Winding Refn	Bronson 
+James O'Brien	Western Religion 
+Tom Putnam	Burn 
+Jon Shear	Urbania 
+Al Silliman Jr.	The Stewardesses 
+Eugène Lourié	"The Beast from 20,000 Fathoms "
+Richard Fleischer	"20,000 Leagues Under the Sea "
+George Miller	Mad Max 
+Doug Liman	Swingers 
+Sergio Leone	A Fistful of Dollars 
+Lowell Sherman	She Done Him Wrong 
+Maurizio Benazzo	Short Cut to Nirvana: Kumbh Mela 
+David G. Evans	The Grace Card 
+Ava DuVernay	Middle of Nowhere 
+Tom Tykwer	3 
+Sherman Alexie	The Business of Fancydancing 
+Justin Dillon	Call + Response 
+Steven Soderbergh	Side Effects 
+Stevan Mena	Malevolence 
+Adam Rifkin	Shooting the Warwicks 
+Eric Valette	Super Hybrid 
+Jay Duplass	Baghead 
+Livingston Oden	Solitude 
+Chris Marker	The Case of the Grinning Cat 
+Carl Theodor Dreyer	Ordet 
+Marianna Palka	Good Dick 
+Richard Schenkman	The Man from Earth 
+Ricki Stern	The Trials of Darryl Hunt 
+Nadia Tass	An American Girl Holiday 
+James Kerwin	Yesterday Was a Lie 
+C. Fraser Press	Theresa Is a Mother 
+Rania Attieh	H. 
+Sharon Greytak	Archaeology of a Woman 
+Majid Majidi	Children of Heaven 
+Andrew Haigh	Weekend 
+Spike Lee	She's Gotta Have It 
+Cary Bell	Butterfly Girl 
+Nicolae Constantin Tanase	The World Is Mine 
+Mike Cahill	Another Earth 
+Jason Stone	The Calling 
+Melvin Van Peebles	Sweet Sweetback's Baadasssss Song 
+Ken Roht	Perfect Cowboy 
+Gary Winick	Tadpole 
+John Carney	Once 
+Robinson Devor	The Woman Chaser 
+Michel Orion Scott	The Horse Boy 
+Pat Holden	When the Lights Went Out 
+Eric Bugbee	Heroes of Dirt 
+Tobe Hooper	The Texas Chain Saw Massacre 
+Bill Melendez	A Charlie Brown Christmas 
+Dena Seidel	Antarctic Edge: 70° South 
+Deborah Anderson	Aroused 
+Sara Newens	Top Spin 
+Michael Moore	Roger & Me 
+Paul Schrader	Cat People 
+Sai Varadan	An American in Hollywood 
+Zal Batmanglij	Sound of My Voice 
+Amal Al-Agroobi	The Brain That Sings 
+Andrew Berends	The Blood of My Brother 
+Lynn Shelton	Your Sister's Sister 
+Valentine	Romantic Schemer 
+David Hewlett	A Dog's Breakfast 
+David Hewlett	A Dog's Breakfast 
+George A. Romero	Night of the Living Dead 
+Jean-Luc Godard	Une Femme Mariée 
+Nate Parker	The Birth of a Nation 
+Nathan Smith Jones	The Work and the Story 
+Alex Kendrick	Facing the Giants 
+Travis Cluff	The Gallows 
+David Lynch	Eraserhead 
+Harry F. Millarde	Over the Hill to the Poorhouse 
+Robert Townsend	Hollywood Shuffle 
+Peter Chelsom	The Mighty 
+Jamaa Fanaka	Penitentiary 
+Larry Blamire	The Lost Skeleton of Cadavra 
+Stephen Langford	"Dude, Where's My Dog?! "
+E.L. Katz	Cheap Thrills 
+Lisanne Pajot	Indie Game: The Movie 
+Dan Reed	Closure 
+John Reinhardt	Open Secret 
+Patrick Ryan Sims	Echo Dr. 
+Laslo Benedek	The Night Visitor 
+Jason Miller	The Past is a Grotesque Animal 
+Dennis Iliadis	The Last House on the Left 
+Sut Jhally	"Peace, Propaganda & the Promised Land "
+Darren Aronofsky	Pi 
+Julie Davis	"I Love You, Don't Touch Me! "
+Myles Berkowitz	20 Dates 
+Brett Piper	Queen Crab 
+Morgan Spurlock	Super Size Me 
+Brandon Trost	The FP 
+Joe Swanberg	Happy Christmas 
+Joseph Green	The Brain That Wouldn't Die 
+Wade Gasque	Tiger Orange 
+Daniel Schechter	Supporting Characters 
+Mike Flanagan	Absentia 
+Edward Burns	The Brothers McMullen 
+Matt Johnson	The Dirties 
+Bruno Barreto	Gabriela 
+Lena Dunham	Tiny Furniture 
+Terron R. Parsons	Hayride 
+Daniel Mellitz	The Naked Ape 
+Jem Cohen	Counting 
+Andrew Leman	The Call of Cthulhu 
+Dave Carroll	Bending Steel 
+William Eubank	The Signal 
+Patrick Meaney	The Image Revolution 
+Chad Hartigan	This Is Martin Bonner 
+Malcolm Goodwin	A True Story 
+David Gordon Green	George Washington 
+Kevin Jordan	Smiling Fish & Goat on Fire 
+Kirk Loudon	Dawn of the Crescent Moon 
+Travis Legge	Raymond Did It 
+Martin Scorsese	The Last Waltz 
+Collin Joseph Neal	"Run, Hide, Die "
+Bradley Rust Gray	The Exploding Girl 
+Mike Bruce	The Legend of God's Gun 
+Andrew Bujalski	Mutual Appreciation 
+Damir Catic	Her Cry: La Llorona Investigation 
+Ben Wheatley	Down Terrace 
+Kevin Smith	Clerks 
+James Bidgood	Pink Narcissus 
+Andrew Bujalski	Funny Ha Ha 
+Neil LaBute	In the Company of Men 
+David Ayer	Sabotage 
+Eric Eason	Manito 
+Uwe Boll	Rampage 
+Richard Linklater	Slacker 
+Joseph Mazzella	Dutch Kills 
+Travis Legge	Dry Spell 
+Alex Kendrick	Flywheel 
+Marcus Nispel	Exeter 
+Jay Duplass	The Puffy Chair 
+Jim Chuchu	Stories of Our Lives 
+Daryl Wein	Breaking Upwards 
+Jason Trost	All Superheroes Must Die 
+John Waters	Pink Flamingos 
+Olivier Assayas	Clean 
+Jafar Panahi	The Circle 
+Ivan Kavanagh	Tin Can Man 
+Kiyoshi Kurosawa	The Cure 
+Tadeo Garcia	On the Downlow 
+Thomas L. Phillips	Sanctuary; Quite a Conundrum 
+Ash Baron-Cohen	Bang 
+Shane Carruth	Primer 
+Neill Dela Llana	Cavite 
+Robert Rodriguez	El Mariachi 
+Anthony Vallone	The Mongol King 
+Edward Burns	Newlyweds 
+Scott Smith	Signed Sealed Delivered 
+Benjamin Roberds	A Plague So Pleasant 
+Daniel Hsia	Shanghai Calling 
+Jon Gunn	My Date with Drew 
