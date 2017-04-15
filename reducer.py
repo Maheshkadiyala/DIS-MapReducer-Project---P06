@@ -6,6 +6,8 @@ from itertools import groupby
 import itertools
 #import groupby
 import operator
+
+#this will open sortedMapper_output.txt file in read format and result file in write format
 s = open("sortedMapper_output.txt","r")
 results = open("result.txt", "w")
 
@@ -13,6 +15,7 @@ oldDirector_name = None
 moviesCount = 0
 
 lines = s.readlines()
+#this for loop picks one line record from data set and writes only movie title and title year to the movie_output file
 for line in lines:
     #print line 
     data_mapped = line.strip().split("\t")
@@ -21,8 +24,7 @@ for line in lines:
         continue
 
     thisDirector_name, thisMovie_title = data_mapped
-    #print oldDirector_name
-    #print thisMovie_title, "\t", thisDirector_name
+    
 	
 	
     if oldDirector_name and (oldDirector_name != thisDirector_name):
@@ -40,6 +42,7 @@ for line in lines:
     #if oldDirector_name != None: 
 		#results.write("{0}\t{1}\n".format(oldDirector_name, moviesCount))
         #print "hello" 
-#print "hello"		
+#print "hello"	
+#closes sortedMapper_output file and result file  	
 s.close() 
 results.close()
