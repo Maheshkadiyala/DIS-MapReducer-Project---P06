@@ -10,15 +10,17 @@ Northwest Missouri State University
 
 ## Overview
 
-  -We done two mapreduce problems those include finding the number of movies directed by individual director
-  -2nd problem:
-  -finding number of movies released in a particular year
+  - We done two mapreduce problems those include finding the number of movies directed by individual director
+  - 2nd problem:
+  - finding number of movies released in a particular year
 
 ### Describe your data source
-  -We selected a movies dataset, that includes movie director, actor, release year titile.
+  
+  - We selected a movies dataset, that includes movie director, actor, release year titile.
 
 #### Link to your original data source: 
-  -https://www.kaggle.com/deepmatrix/imdb-5000-movie-dataset
+  
+  - https://www.kaggle.com/deepmatrix/imdb-5000-movie-dataset
   
 #### What makes it a big data problem? (Use the Vs of Big Data)
 Volume:  Volume of the data set is 2.2 MB. There are 5000 records.
