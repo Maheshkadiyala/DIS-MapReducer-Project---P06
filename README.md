@@ -107,10 +107,10 @@ Ex:        year         number of movies
   - Step4:- Type command "python mapper.py" and press enter to run that file, you can see output.
   - step5:- Type command" python reducer.py" to see the reducer output( in result.txt file)
   - step6: commands to be execute:
-  python mapper.py
-  python reducer.py
-  -if you are running in hadoop the command is: hs mapper.py reducer.py sortedMapper_output result   
-  -(sortedmapper_output.txt file in sortedMapper_output directory and result.txt file will be created in result directory)
+  - python mapper.py
+  - python reducer.py
+  - if you are running in hadoop the command is: hs mapper.py reducer.py sortedMapper_output result   
+  - (sortedmapper_output.txt file in sortedMapper_output directory and result.txt file will be created in result directory)
   
   
 ##### Image for Reducer_1 Output
