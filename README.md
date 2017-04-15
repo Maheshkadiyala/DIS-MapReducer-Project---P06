@@ -41,41 +41,41 @@ Color	James Cameron	178	CCH Pounder	Avatar 	2009
 
 | Director | movie_title |
 | -------- | ------------|
-|A. Raven Cruz	The Helix... Loaded 
-|Aaron Hann	Circle 
-|Aaron Schneider	Get Low 
-|Aaron Seltzer	Date Movie 
-|Abel Ferrara	The Funeral 
-|Adam Brooks	"Definitely, Maybe "
-|Adam Carolla	Road Hard 
-|Adam Goldberg	I Love Your Work 
-|Adam Green	Hatchet 
-|Adam Jay Epstein	Extreme Movie 
-|Adam Marcus	Jason Goes to Hell: The Final Friday 
-|Adam McKay	Anchorman 2: The Legend Continues 
-|Adam McKay	Anchorman: The Legend of Ron Burgundy 
-|Adam McKay	Step Brothers 
+|A. Raven Cruz	 |  The Helix... Loaded  | 
+|Aaron Hann	 |  Circle  |
+|Aaron Schneider  | 	Get Low  | 
+|Aaron Seltzer	|  Date Movie |
+|Abel Ferrara	|  The Funeral  | 
+|Adam Brooks	|  "Definitely, Maybe "  |
+|Adam Carolla	|  Road Hard  | 
+|Adam Goldberg	|  I Love Your Work | 
+|Adam Green	|  Hatchet  | 
+|Adam Jay Epstein	|  Extreme Movie  | 
+|Adam Marcus	|  Jason Goes to Hell: The Final Friday | 
+|Adam McKay	Anchorman 2:  |  The Legend Continues  | 
+|Adam McKay	Anchorman:   |  The Legend of Ron Burgundy  | 
+|Adam McKay	  |  Step Brothers  |
 
 #### sample Reducer output:
 |Director | num of movies |
 | -------- | ------------|
-|A. Raven Cruz	1
-|Aaron Hann	1
-|Aaron Schneider	1
-|Aaron Seltzer	1
-|Abel Ferrara	1
-|Adam Brooks	1
-|Adam Carolla	1
-|Adam Goldberg	1
-|Adam Green	1
-|Adam Jay Epstein	1
-|Adam Marcus	1
-|Adam McKay	6
-|Adam Rapp	1
-|Adam Rifkin	2
-|Adam Shankman	8
-|Adrian Lyne	4
-|Adrienne Shelly	1
+|A. Raven Cruz  |	1  |
+|Aaron Hann	  |   1   |      
+|Aaron Schneider  |	 1  |
+|Aaron Seltzer	|  1  |
+|Abel Ferrara	|  1  |
+|Adam Brooks	|  1  |
+|Adam Carolla	|  1  |
+|Adam Goldberg	|  1  |
+|Adam Green	 |  1  |
+|Adam Jay Epstein	|  1  |
+|Adam Marcus	|  1  |
+|Adam McKay	  |  6  |
+|Adam Rapp	|  1  |
+|Adam Rifkin	|  2  |
+|Adam Shankman	|  8  |
+|Adrian Lyne	|  4  |
+|Adrienne Shelly	|  1  |
 
 
 
