@@ -1,9 +1,9 @@
 # DIS-MapReducer-Project---P06
 
-### Team members: 
+### Team Members 
 
-  --Mahesh babu Kadiyala, 
-  --Sai karthik Mandadapu
+  - Mahesh babu Kadiyala
+  - Sai Karthik mandalapu
 
 Northwest Missouri State University
 44-564 Design of Data Intensive Systems
