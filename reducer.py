@@ -39,10 +39,6 @@ for line in lines:
     moviesCount = moviesCount+1
     #print "hello"
 	
-    #if oldDirector_name != None: 
-		#results.write("{0}\t{1}\n".format(oldDirector_name, moviesCount))
-        #print "hello" 
-#print "hello"	
-#closes sortedMapper_output file and result file  	
+   # closes sortedMapper_output file and results file 	
 s.close() 
 results.close()
